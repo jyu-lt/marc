@@ -2,31 +2,20 @@ import { useState, useRef, useEffect } from 'react'
 import './index.css'
 
 interface ReasoningResult {
-  query: string;
-  frameworks_used: Array<{
-    id: string;
-    name: string;
-    description: string;
-    rationale: string;
-  }>;
-  relevant_beliefs: Array<{
-    id: string;
-    statement: string;
-    confidence: number;
-    relevance_rationale: string;
-  }>;
-  analogies: Array<{
-    analogy_id: string;
-    lesson: string;
-    relevance: string;
-  }>;
-  synthesis: string;
+  answer: string;
+  frameworks_used: string[];
+  beliefs_used: string[];
+  analogies_used: string[];
+  reasoning_steps: string[];
+  caveats: string[];
+  confidence: number;
 }
 
 function App() {
   const [query, setQuery] = useState('')
   const [isLoading, setIsLoading] = useState(false)
   const [result, setResult] = useState<ReasoningResult | null>(null)
+  const [lastQuery, setLastQuery] = useState('')
   const resultRef = useRef<HTMLDivElement>(null)
 
   const handleAsk = async (e?: React.FormEvent) => {
@@ -35,6 +24,7 @@ function App() {
 
     setIsLoading(true)
     setResult(null)
+    setLastQuery(query)
 
     try {
       const response = await fetch('http://localhost:3001/api/ask', {
@@ -91,65 +81,89 @@ function App() {
         <div className="result-area">
           {result && (
             <div className="message assistant" ref={resultRef}>
+              <div className="query-context" style={{ marginBottom: '1rem', paddingBottom: '1rem', borderBottom: '1px solid var(--border-color)' }}>
+                <span style={{ color: 'var(--text-secondary)', fontSize: '0.9rem' }}>Query: </span>
+                <span style={{ fontWeight: 500 }}>{lastQuery}</span>
+              </div>
+
               <div className="synthesis">
                 <p style={{ fontSize: '1.2rem', lineHeight: '1.6', marginBottom: '1.5rem' }}>
-                  {result.synthesis}
+                  {result.answer}
                 </p>
               </div>
 
               <div className="reasoning-grid">
-                {result.frameworks_used.length > 0 && (
+                {result.reasoning_steps?.length > 0 && (
+                  <div className="card" style={{ gridColumn: '1 / -1' }}>
+                    <h3>🪜 Reasoning Process</h3>
+                    <div className="card-content">
+                      <ol style={{ paddingLeft: '1.2rem' }}>
+                        {result.reasoning_steps.map((step, i) => (
+                          <li key={i} style={{ marginBottom: '0.5rem' }}>{step}</li>
+                        ))}
+                      </ol>
+                    </div>
+                  </div>
+                )}
+
+                {result.frameworks_used?.length > 0 && (
                   <div className="card">
                     <h3>🔍 Frameworks Applied</h3>
                     <div className="card-content">
-                      {result.frameworks_used.map(f => (
-                        <div key={f.id} style={{ marginBottom: '0.75rem' }}>
-                          <span className="framework-tag">{f.name}</span>
-                          <p style={{ fontSize: '0.8rem', marginTop: '0.25rem' }}>{f.rationale}</p>
-                        </div>
+                      {result.frameworks_used.map((name, i) => (
+                        <span key={i} className="framework-tag">{name}</span>
                       ))}
                     </div>
                   </div>
                 )}
 
-                {result.relevant_beliefs.length > 0 && (
+                {result.beliefs_used?.length > 0 && (
                   <div className="card">
-                    <h3>💡 Relevant Beliefs</h3>
+                    <h3>💡 Key Beliefs</h3>
                     <div className="card-content">
                       <ul style={{ paddingLeft: '1rem' }}>
-                        {result.relevant_beliefs.map((b, i) => (
-                          <li key={i} style={{ marginBottom: '0.5rem' }}>
-                            {b.statement}
-                            <div style={{ fontSize: '0.75rem', color: 'var(--accent-color)' }}>
-                              Confidence: {(b.confidence * 100).toFixed(0)}%
-                            </div>
-                          </li>
+                        {result.beliefs_used.map((statement, i) => (
+                          <li key={i} style={{ marginBottom: '0.5rem' }}>{statement}</li>
                         ))}
                       </ul>
                     </div>
                   </div>
                 )}
 
-                {result.analogies.length > 0 && (
+                {result.analogies_used?.length > 0 && (
                   <div className="card">
-                    <h3>🔗 Analogical Mapping</h3>
+                    <h3>🔗 Analogies</h3>
                     <div className="card-content">
-                      {result.analogies.map((a, i) => (
-                        <div key={i} style={{ marginBottom: '0.75rem' }}>
-                          <p>"{a.lesson}"</p>
-                          <p style={{ fontSize: '0.8rem', fontStyle: 'italic', marginTop: '0.25rem' }}>
-                            Relevance: {a.relevance}
-                          </p>
+                      {result.analogies_used.map((source, i) => (
+                        <div key={i} style={{ marginBottom: '0.5rem' }}>
+                          <span style={{ color: 'var(--accent-color)' }}>Source: </span> {source}
                         </div>
                       ))}
                     </div>
                   </div>
                 )}
+
+                <div className="card">
+                  <h3>📊 Confidence</h3>
+                  <div className="card-content">
+                    <div style={{ fontSize: '1.5rem', fontWeight: 700, color: 'var(--accent-color)' }}>
+                      {(result.confidence * 100).toFixed(0)}%
+                    </div>
+                    {result.caveats?.length > 0 && (
+                      <div style={{ marginTop: '0.5rem', fontSize: '0.8rem' }}>
+                        <strong>Caveats:</strong>
+                        <ul style={{ paddingLeft: '1rem', marginTop: '0.25rem' }}>
+                          {result.caveats.map((c, i) => <li key={i}>{c}</li>)}
+                        </ul>
+                      </div>
+                    )}
+                  </div>
+                </div>
               </div>
               
-              <details style={{ marginTop: '1.5rem' }}>
+              <details style={{ marginTop: '2rem' }}>
                 <summary style={{ fontSize: '0.8rem', cursor: 'pointer', color: 'var(--text-secondary)' }}>
-                  View Raw JSON Result
+                  View Raw JSON Protocol
                 </summary>
                 <pre>{JSON.stringify(result, null, 2)}</pre>
               </details>

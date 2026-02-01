@@ -1,6 +1,7 @@
 import { readJsonFile, writeJsonFile } from "../utils/json.js";
 import { cosineSimilarity } from "../utils/similarity.js";
 import { newId } from "../utils/ids.js";
+import { VectorStore } from "./vector_store.js";
 import type { LLMClient } from "../llm/client.js";
 
 export type RelationshipType =
@@ -26,7 +27,7 @@ export type BeliefNode = {
   first_stated: string;
   last_updated: string;
   source_refs: string[];
-  embedding?: number[];
+  embedding?: number[] | Float32Array;
 };
 
 export type BeliefGraphData = {
@@ -37,10 +38,12 @@ export type BeliefGraphData = {
 export class BeliefGraph {
   private data: BeliefGraphData;
   private filePath: string;
+  private vectorStore: VectorStore;
 
   constructor(data: BeliefGraphData, filePath: string) {
     this.data = data;
     this.filePath = filePath;
+    this.vectorStore = new VectorStore();
   }
 
   static async load(filePath: string): Promise<BeliefGraph> {
@@ -48,11 +51,60 @@ export class BeliefGraph {
       nodes: [],
       relationships: []
     });
-    return new BeliefGraph(data, filePath);
+    const graph = new BeliefGraph(data, filePath);
+
+    const binaryPath = filePath.replace(/\.json$/, ".bin");
+    const vectors = await graph.vectorStore.load(binaryPath);
+
+    if (vectors.size > 0) {
+      for (const node of graph.data.nodes) {
+        const vec = vectors.get(node.id);
+        if (vec) {
+          node.embedding = vec;
+        }
+      }
+    } else {
+      // Migration: Convert existing number[] to Float32Array
+      for (const node of graph.data.nodes) {
+        if (node.embedding && Array.isArray(node.embedding)) {
+          node.embedding = new Float32Array(node.embedding);
+        }
+      }
+    }
+
+    return graph;
   }
 
   async save(): Promise<void> {
-    await writeJsonFile(this.filePath, this.data);
+    const binaryPath = this.filePath.replace(/\.json$/, ".bin");
+    const embeddingsMap = new Map<string, Float32Array>();
+
+    // Extract embeddings and strip from nodes
+    for (const node of this.data.nodes) {
+      if (node.embedding) {
+        const vector = node.embedding instanceof Float32Array
+          ? node.embedding
+          : new Float32Array(node.embedding);
+
+        embeddingsMap.set(node.id, vector);
+        delete node.embedding;
+      }
+    }
+
+    try {
+      await writeJsonFile(this.filePath, this.data);
+      if (embeddingsMap.size > 0) {
+        await this.vectorStore.save(binaryPath, embeddingsMap);
+      }
+    } finally {
+      // Restore embeddings
+      for (const node of this.data.nodes) {
+        const vector = embeddingsMap.get(node.id);
+        if (vector) {
+          node.embedding = vector;
+        }
+      }
+    }
   }
 
   get nodes(): BeliefNode[] {
@@ -98,9 +150,10 @@ export class BeliefGraph {
     };
 
     if (llm) {
-      const embedding = await llm.embed(node.statement);
-      if (Array.isArray(embedding)) {
-        node.embedding = embedding as number[];
+      // Input is string, so output is number[]
+      const embedding = await llm.embed(node.statement) as number[];
+      if (embedding && embedding.length > 0) {
+        node.embedding = new Float32Array(embedding);
       }
     }
 
@@ -126,7 +179,7 @@ export class BeliefGraph {
       .filter((node) => node.embedding && node.embedding.length)
       .map((node) => ({
         node,
-        score: cosineSimilarity(queryEmbedding, node.embedding as number[])
+        score: cosineSimilarity(queryEmbedding, node.embedding!)
       }))
       .sort((a, b) => b.score - a.score)
       .slice(0, topK)

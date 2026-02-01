@@ -63,10 +63,17 @@ program
       ? await loadCorpus(absolutePath)
       : [await loadDocument(absolutePath)];
 
+    console.error(`Found ${docs.length} document(s) at ${absolutePath}`);
+
     const beliefGraph = await BeliefGraph.load(options.beliefs);
     const extractions = [] as Array<Record<string, unknown>>;
 
-    for (const doc of docs) {
+    for (let i = 0; i < docs.length; i++) {
+      const doc = docs[i];
+      console.error(
+        `[${i + 1}/${docs.length}] Processing document: ${doc.path}`
+      );
+
       const segments = await segmentDocument(doc, {
         method:
           options.method === "llm"
@@ -76,8 +83,17 @@ program
             : "paragraph",
         llm,
       });
-      for (const segment of segments) {
+
+      console.error(`  - Segmented into ${segments.length} parts`);
+
+      for (let j = 0; j < segments.length; j++) {
+        const segment = segments[j];
+        process.stderr.write(
+          `  - Extracting segment ${j + 1}/${segments.length}... `
+        );
         const extracted = await extractFromSegment(segment, llm);
+        process.stderr.write(`found ${extracted.beliefs.length} beliefs\n`);
+
         extractions.push({
           source: doc.path,
           segment: segment.text,
@@ -104,9 +120,11 @@ program
     }
 
     if (options.updateBeliefs) {
+      console.error("Saving belief graph...");
       await beliefGraph.save();
     }
 
+    console.error(`\nExtraction complete. Total ${extractions.length} segments processed.`);
     console.log(JSON.stringify(extractions, null, 2));
   });
 
