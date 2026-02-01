@@ -1103,6 +1103,1359 @@
       "source_refs": [
         "/Users/jiayao/gitrepo/marc/data/corpus/87Pm0SGTtN8.md"
       ]
+    },
+    {
+      "id": "f2f8add9-4cc6-4d5d-b860-8b905e23060d",
+      "statement": "AI represents a historic-scale technological transition.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:54:04.915Z",
+      "last_updated": "2026-02-01T21:54:04.915Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "20824f13-9dfa-4f5a-8ee7-a2a6a47713b4",
+      "statement": "AI will create (or reallocate) enormous economic value, plausibly at trillion-dollar scale.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:54:05.178Z",
+      "last_updated": "2026-02-01T21:54:05.178Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "956f55d9-afa2-426b-aa9f-08ad94081a1c",
+      "statement": "Markets and investment opportunities around AI are central and worth systematic analysis.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:54:05.377Z",
+      "last_updated": "2026-02-01T21:54:05.377Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "2f8bc327-052b-43aa-b8fa-689e2199c1ea",
+      "statement": "China is a key competitor in the AI arena and must be factored into strategy.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:54:05.622Z",
+      "last_updated": "2026-02-01T21:54:05.622Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "24aeb494-8cdb-4c5a-98e5-2b00a7aaeb83",
+      "statement": "Public policy and regulation will materially influence AI’s trajectory and winners/losers.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:54:05.904Z",
+      "last_updated": "2026-02-01T21:54:05.904Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "b99f2e46-7d8c-4767-a784-f06596e2b833",
+      "statement": "A diversified/multi-strategy investing posture is appropriate for capturing AI-driven opportunity.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:54:06.176Z",
+      "last_updated": "2026-02-01T21:54:06.176Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "55186f14-e362-4baa-a7f1-fb26ac0ec890",
+      "statement": "AI is the largest technological revolution of the speaker’s lifetime and larger than the internet.",
+      "domain_tags": [],
+      "confidence": 0.8,
+      "first_stated": "2026-02-01T21:54:36.354Z",
+      "last_updated": "2026-02-01T21:54:36.354Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "c43276b2-4989-4610-9514-90b82b4c7a1a",
+      "statement": "AI is comparable in magnitude to foundational general-purpose technologies.",
+      "domain_tags": [],
+      "confidence": 0.8,
+      "first_stated": "2026-02-01T21:54:36.610Z",
+      "last_updated": "2026-02-01T21:54:36.610Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "f6e27bf2-07dc-4433-b946-682fc55dfcd9",
+      "statement": "The computing industry largely followed a ‘cash register/calculating machine’ paradigm focused on literal computation.",
+      "domain_tags": [],
+      "confidence": 0.8,
+      "first_stated": "2026-02-01T21:54:36.731Z",
+      "last_updated": "2026-02-01T21:54:36.731Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "694ae07d-ea30-45f6-a172-4bdc9ad6fba4",
+      "statement": "That paradigm was poor at human-facing interaction (language/speech), which is central to computing’s next leap.",
+      "domain_tags": [],
+      "confidence": 0.6,
+      "first_stated": "2026-02-01T21:54:36.970Z",
+      "last_updated": "2026-02-01T21:54:36.970Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "757b7610-8cec-4f1b-baca-405b656368e0",
+      "statement": "Neural-network/cognition-inspired computing was understood conceptually early (1930s–1940s) but was not the dominant path.",
+      "domain_tags": [],
+      "confidence": 0.8,
+      "first_stated": "2026-02-01T21:54:37.109Z",
+      "last_updated": "2026-02-01T21:54:37.109Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "89bc5eba-c9ed-46d0-b477-ab423ddaf077",
+      "statement": "AI research underperformed for decades, producing repeated disappointment and skepticism.",
+      "domain_tags": [],
+      "confidence": 0.8,
+      "first_stated": "2026-02-01T21:54:37.359Z",
+      "last_updated": "2026-02-01T21:54:37.359Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "4e20dcc8-79f8-40c3-9cff-01846b6adc63",
+      "statement": "Despite skepticism, accumulated AI research created the basis for the current breakthrough.",
+      "domain_tags": [],
+      "confidence": 0.8,
+      "first_stated": "2026-02-01T21:54:37.565Z",
+      "last_updated": "2026-02-01T21:54:37.565Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "32c3067f-afe2-4eb9-9ef2-c0e24bd0b92a",
+      "statement": "ChatGPT (late 2022) marked a clear inflection point proving the approach works.",
+      "domain_tags": [],
+      "confidence": 0.8,
+      "first_stated": "2026-02-01T21:54:37.884Z",
+      "last_updated": "2026-02-01T21:54:37.884Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "ad624f40-c6c2-40af-bf8c-9d13e5a544a6",
+      "statement": "We are in the early years of an ‘80-year revolution’ finally delivering on its original promise.",
+      "domain_tags": [],
+      "confidence": 0.8,
+      "first_stated": "2026-02-01T21:54:38.174Z",
+      "last_updated": "2026-02-01T21:54:38.174Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "1ac6fe4d-c4d3-46f7-9afd-7f9c59a76dda",
+      "statement": "Frontier AI capabilities are widely accessible to consumers.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:05.984Z",
+      "last_updated": "2026-02-01T21:55:05.984Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "a234655f-ae7b-4602-b8a3-b4146fa221d6",
+      "statement": "Silicon Valley reliably amplifies new technology waves through talent and capital recycling.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:06.516Z",
+      "last_updated": "2026-02-01T21:55:06.516Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "004fcd76-83dc-437c-a8c4-300afa880e3f",
+      "statement": "The pace of AI research progress is exceptionally fast and frequently surprising.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:06.720Z",
+      "last_updated": "2026-02-01T21:55:06.720Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "ed66b707-b96d-4fa8-91e9-d29f44f3b53c",
+      "statement": "Product and startup formation is accelerating and impressive.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:07.020Z",
+      "last_updated": "2026-02-01T21:55:07.020Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "f79f682f-103e-4491-a96e-ba15dfc23fc1",
+      "statement": "The industry will experience overhype and periodic disappointments, including cost constraints.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:07.314Z",
+      "last_updated": "2026-02-01T21:55:07.314Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "132ebc63-2a40-44e4-a718-4bcca0a4b9f4",
+      "statement": "Despite fluctuations, current AI capabilities deliver ‘magical’ experiences for consumers and businesses.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:07.499Z",
+      "last_updated": "2026-02-01T21:55:07.499Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "fe560d78-0f7b-444b-92d6-2271050fabef",
+      "statement": "AI companies are achieving unprecedented revenue growth rates, indicating real demand.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:07.770Z",
+      "last_updated": "2026-02-01T21:55:07.770Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "628ad6bb-f609-496d-ab14-6049da7ebd21",
+      "statement": "The market/technology cycle is still in early innings.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:08.046Z",
+      "last_updated": "2026-02-01T21:55:08.046Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "9521804c-f4b6-4fbd-bded-72933eff2041",
+      "statement": "AI business models largely cluster into consumer and enterprise/infrastructure.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:42.380Z",
+      "last_updated": "2026-02-01T21:55:42.380Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "34598fd2-c552-4a9e-95b5-2a1315eaed8b",
+      "statement": "The internet is fully deployed enough to enable extremely rapid global AI diffusion.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:42.557Z",
+      "last_updated": "2026-02-01T21:55:42.557Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "9ad15b84-dd7d-44df-984b-ec96a41401d2",
+      "statement": "AI will proliferate faster than prior general-purpose technologies because it is downloadable.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:42.726Z",
+      "last_updated": "2026-02-01T21:55:42.726Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "679d75fe-798d-4cc0-b2ed-2bc590cc407f",
+      "statement": "Consumer AI killer apps are growing and monetizing well, including at high price points.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:43.067Z",
+      "last_updated": "2026-02-01T21:55:43.067Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "81124f98-4dfa-4464-a0aa-64309fefe049",
+      "statement": "High-end consumer pricing tiers ($200–$300/month) are viable and positive.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:43.188Z",
+      "last_updated": "2026-02-01T21:55:43.188Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "a39a11b6-075a-4e7e-a7a2-18b43fb88c74",
+      "statement": "Many companies unnecessarily limit outcomes by pricing too low.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:43.465Z",
+      "last_updated": "2026-02-01T21:55:43.465Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "39b2a6f7-1590-441f-8b96-319438191636",
+      "statement": "Enterprise AI delivers direct, monetizable business value today (not merely speculative).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:43.755Z",
+      "last_updated": "2026-02-01T21:55:43.755Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "f197871c-bb40-4e19-97a1-2bd7ef81a40a",
+      "statement": "AI infrastructure demand pull is strong and reflected in rapid revenue growth for leading providers.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:43.941Z",
+      "last_updated": "2026-02-01T21:55:43.941Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "4ac9076b-39d3-41ad-9d7c-fa0c2880ce91",
+      "statement": "The dominant enterprise/infrastructure monetization model is metered usage ('tokens by the drink').",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:44.285Z",
+      "last_updated": "2026-02-01T21:55:44.285Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "60c87836-1e75-438c-8dbe-4f650bab764d",
+      "statement": "AI prices will keep dropping sharply (faster than Moore’s law), driven by collapsing input costs and optimization.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:44.562Z",
+      "last_updated": "2026-02-01T21:55:44.562Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "a7263112-faa0-44dd-992e-94d6b3469768",
+      "statement": "Falling AI prices will trigger enormous demand increases via elasticity.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:55:44.843Z",
+      "last_updated": "2026-02-01T21:55:44.843Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "78c81473-cad1-4c4a-b19e-899a90ecec7e",
+      "statement": "A ‘small model revolution’ is happening alongside big-model buildouts.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:13.193Z",
+      "last_updated": "2026-02-01T21:56:13.193Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "db42a97c-9bef-466f-a1fb-ac1d1c925600",
+      "statement": "Small models rapidly reach the capability level of prior frontier models.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:13.444Z",
+      "last_updated": "2026-02-01T21:56:13.444Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "be6c70d4-3a75-4c01-9562-a9899701286a",
+      "statement": "Reasoning capability can be delivered locally on consumer hardware at low cost once compressed.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:13.681Z",
+      "last_updated": "2026-02-01T21:56:13.681Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "08943e7d-e08c-4115-91bc-1e5860358d4f",
+      "statement": "Frontier labs will continue to push to new generations (e.g., GPT-6) as a response to fast followers.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:13.927Z",
+      "last_updated": "2026-02-01T21:56:13.927Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "2943154f-c65c-47b0-90dd-409ecb987543",
+      "statement": "Not all tasks need the smartest possible model; many tasks need only moderate capability.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:14.184Z",
+      "last_updated": "2026-02-01T21:56:14.184Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "809e48dd-f76c-4244-8165-0f10fcdadc42",
+      "statement": "A segment of the market believes big models will dominate because intelligence is paramount.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:14.527Z",
+      "last_updated": "2026-02-01T21:56:14.527Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "d99de4c3-f7c2-4e7c-80f9-3112f485c5ed",
+      "statement": "The AI industry will stratify into a few ‘god models’ in data centers and many smaller models down to embedded chips.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:14.771Z",
+      "last_updated": "2026-02-01T21:56:14.771Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "c242cf3d-5ace-4733-8829-e54b27c456be",
+      "statement": "The highest intelligence will remain concentrated at the top tier, but deployment volume will be dominated by smaller models.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:15.011Z",
+      "last_updated": "2026-02-01T21:56:15.011Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "1d277b19-6789-4511-8268-44039680a4d6",
+      "statement": "Semiconductor markets tend to move from shortage to glut over time.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:48.247Z",
+      "last_updated": "2026-02-01T21:56:48.247Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "1f8e8219-631f-45c6-8d70-a431dfb1dcde",
+      "statement": "Sustained extraordinary profits in chip categories are temporary due to competition.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:48.472Z",
+      "last_updated": "2026-02-01T21:56:48.472Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "7438f12c-8ec4-4995-8859-d2029062c4d8",
+      "statement": "Nvidia’s current dominance and profitability will attract strong competitive responses.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:48.732Z",
+      "last_updated": "2026-02-01T21:56:48.732Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "b350c2e3-e287-4030-8226-f7ae8994de5a",
+      "statement": "AI chip prices/availability will improve substantially within ~5 years.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:48.986Z",
+      "last_updated": "2026-02-01T21:56:48.986Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "09cd0a94-4f9c-4733-abc2-81adc4fa3ca6",
+      "statement": "Cheaper AI compute will improve the unit economics of many invested companies.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:49.199Z",
+      "last_updated": "2026-02-01T21:56:49.199Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "dfd3ae90-84fa-416c-a1ea-57fa6cf6375b",
+      "statement": "GPU dominance in AI is not purely optimal; it is partly historical contingency.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:49.339Z",
+      "last_updated": "2026-02-01T21:56:49.339Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "f9b60bd6-5c7f-4efc-9cd8-4c9aaf41983b",
+      "statement": "GPUs were forged in a long, hyper-competitive, lower-margin market before AI/crypto expanded their profit pool.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:49.549Z",
+      "last_updated": "2026-02-01T21:56:49.549Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "ad26985d-ebc1-408d-a8e1-e165f15dcb74",
+      "statement": "Crypto and AI workloads aligned with GPU parallelism, catalyzing GPU value.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:49.809Z",
+      "last_updated": "2026-02-01T21:56:49.809Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "62665228-7a16-4b9c-aaf4-26b123fd27c5",
+      "statement": "Dedicated AI accelerators can be more economically efficient than full GPUs for AI workloads.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:50.048Z",
+      "last_updated": "2026-02-01T21:56:50.048Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "44a625df-29fe-4183-8c8f-dde6ddde613c",
+      "statement": "Some AI-chip startups will succeed independently; others will be acquired by incumbents.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:50.200Z",
+      "last_updated": "2026-02-01T21:56:50.200Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "b3758bba-b76f-488c-b22a-48ee6cf43a97",
+      "statement": "Multiple countries/regions will be major participants in future AI chip competition.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:50.531Z",
+      "last_updated": "2026-02-01T21:56:50.531Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "cfeaf793-8d60-44d7-9071-96bd14726793",
+      "statement": "The future AI-chip landscape will feature many alternatives, not a single-provider monopoly.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:56:50.707Z",
+      "last_updated": "2026-02-01T21:56:50.707Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "197fd298-b3a7-41c9-aeb3-c716fc9a0a10",
+      "statement": "US–China rivalry is not a direct replay of US–USSR Cold War because economic interdependence is far higher.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:41.625Z",
+      "last_updated": "2026-02-01T21:57:41.625Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "11a0d496-8d14-4a9c-8e83-2405a7e94a47",
+      "statement": "China’s exports and role in US manufacturing supply chains create a tighter interlinkage than existed with the USSR.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:41.908Z",
+      "last_updated": "2026-02-01T21:57:41.908Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "5894a240-7dbb-4527-9c7a-b8a8eec0eca3",
+      "statement": "Trade interdependence is a stabilizing force that may reduce likelihood of war.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:42.438Z",
+      "last_updated": "2026-02-01T21:57:42.438Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "2423f274-d9a8-4df9-91db-aebee9550a45",
+      "statement": "China’s governance model requires high employment; large unemployment would risk civil unrest.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:42.678Z",
+      "last_updated": "2026-02-01T21:57:42.678Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "a2b76956-c0f3-47a7-8815-d773bcb45c5d",
+      "statement": "China depends heavily on the US export market because US consumers represent a large portion of global demand.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:42.999Z",
+      "last_updated": "2026-02-01T21:57:42.999Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "fb2e39bb-59e9-451d-8c48-47adb0e90002",
+      "statement": "Washington has become more uniformly hawkish toward China over the last decade.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:43.262Z",
+      "last_updated": "2026-02-01T21:57:43.262Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "bfd55c95-ea38-4459-a257-f0da28ddfc99",
+      "statement": "Key conflict risks include military flashpoints around Taiwan and the South China Sea.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:43.482Z",
+      "last_updated": "2026-02-01T21:57:43.482Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "10b927c9-9f18-4693-b1cc-e699341a517f",
+      "statement": "AI frontier development is primarily a US–China duopoly; most other countries cannot or choose not to build it.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:43.757Z",
+      "last_updated": "2026-02-01T21:57:43.757Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "99df1a0d-1f89-4c52-8e8b-64d7f2abeadd",
+      "statement": "AI will diffuse globally and geopolitical influence will hinge on whether ‘American AI’ or ‘Chinese AI’ dominates.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:44.005Z",
+      "last_updated": "2026-02-01T21:57:44.005Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "0295b181-9398-4c2b-925b-fa188627f9c4",
+      "statement": "China is competitively strong in AI software and is investing to catch up in chips.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:44.301Z",
+      "last_updated": "2026-02-01T21:57:44.301Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "29c6dbd2-4850-468f-b592-8c64cec0ed36",
+      "statement": "The Chinese government is directing model development to use domestic chips to stimulate the local chip ecosystem.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:44.556Z",
+      "last_updated": "2026-02-01T21:57:44.556Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "84c24970-7d9c-41cb-80cc-e585003b1de8",
+      "statement": "Huawei is the central Chinese chip champion in this narrative.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:44.774Z",
+      "last_updated": "2026-02-01T21:57:44.774Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "8995d1a6-eca0-4e72-9e2a-a7351bfd7d38",
+      "statement": "A major robotics competition is emerging; China begins ahead due to legacy supply-chain dominance in electromechanical components.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:45.057Z",
+      "last_updated": "2026-02-01T21:57:45.057Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "410e92ba-5b03-4170-a2c7-b8c85407c5e4",
+      "statement": "DeepSeek’s release was a significant inflection point (‘starting gun’) in the software race.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:45.193Z",
+      "last_updated": "2026-02-01T21:57:45.193Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "9afe62fa-925a-4c4a-a169-be5c7f812beb",
+      "statement": "DeepSeek’s performance and efficiency (shrinking large-cloud capabilities to small local hardware) was notably surprising.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:45.471Z",
+      "last_updated": "2026-02-01T21:57:45.471Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "87c8063b-9cff-49de-bbe9-bcddd89d9bfb",
+      "statement": "Open-source releases from China are unusual and therefore surprising.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:45.741Z",
+      "last_updated": "2026-02-01T21:57:45.741Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "6267061a-1069-473b-810c-8f4a78817f2e",
+      "statement": "Breakthrough AI can emerge outside traditional elite institutions, implying broader talent scalability.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:45.947Z",
+      "last_updated": "2026-02-01T21:57:45.947Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "bd64fb6d-2941-41f8-9057-d06c346d26a2",
+      "statement": "Some US policymakers interpret Chinese open releases as ‘dumping’ to commoditize the market strategically.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:46.188Z",
+      "last_updated": "2026-02-01T21:57:46.188Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "84b62ae7-8235-41ce-a5a5-687b2584578f",
+      "statement": "Recognition of a US–China race has shifted DC AI policy toward fewer restrictions compared to two years ago.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:57:46.314Z",
+      "last_updated": "2026-02-01T21:57:46.314Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "e5794a6a-8e9f-4acf-ba5c-3538d4349cd6",
+      "statement": "Ruinous federal AI legislation risk is currently low.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:58:42.864Z",
+      "last_updated": "2026-02-01T21:58:42.864Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "c2e64dec-7403-4bef-9727-5a78cdd0ed39",
+      "statement": "DC has little appetite to regulate AI in ways that reduce competitiveness vs China.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:58:43.077Z",
+      "last_updated": "2026-02-01T21:58:43.077Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "88a62178-1424-49c6-81e8-a2dd1053e934",
+      "statement": "State legislatures are producing a large volume of AI bills (about 1,200) across all states and parties.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:58:43.340Z",
+      "last_updated": "2026-02-01T21:58:43.340Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "f4685f32-bf4a-46c0-9d62-2b46d9191492",
+      "statement": "Republicans vary significantly on AI regulation; some are advancing bad bills due to misinformation.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:58:43.512Z",
+      "last_updated": "2026-02-01T21:58:43.512Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "2d4cefc1-4883-4112-9374-1f9ba4e3060e",
+      "statement": "AI/tech regulation should primarily be federal, not state-based.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:58:43.785Z",
+      "last_updated": "2026-02-01T21:58:43.785Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "08dd84f1-e072-4648-aac9-902a675362b6",
+      "statement": "A blanket moratorium on state AI regulation was overbroad; some state regulation is legitimate.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:58:44.007Z",
+      "last_updated": "2026-02-01T21:58:44.007Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "93ee6ad5-a6be-422c-ab53-605f601cb9a5",
+      "statement": "The administration and most members of Congress on both sides support federal primacy on AI regulation.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:58:44.300Z",
+      "last_updated": "2026-02-01T21:58:44.300Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "8bab247c-990f-4fcf-9210-8888358c640f",
+      "statement": "The EU AI Act severely reduced AI development and leading-edge AI product rollout in Europe.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:58:44.479Z",
+      "last_updated": "2026-02-01T21:58:44.479Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "ce60427d-fbb7-45cc-9290-8f7c16a89504",
+      "statement": "Europe compensates for weaker innovation leadership by pursuing regulation leadership, to its detriment.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:58:44.672Z",
+      "last_updated": "2026-02-01T21:58:44.672Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "85996ec1-807b-43b5-b95e-e679161b045f",
+      "statement": "Europe is now attempting to roll back overregulation (AI Act and GDPR) due to competitiveness concerns.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:58:45.359Z",
+      "last_updated": "2026-02-01T21:58:45.359Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "815ea71d-5779-44dd-834c-829141ecde41",
+      "statement": "California’s SB1047 would have killed AI development in California and was rightly vetoed.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:58:45.589Z",
+      "last_updated": "2026-02-01T21:58:45.589Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "20645eb6-b189-45bf-b8ce-53b21672b212",
+      "statement": "Assigning downstream liability to open-source model developers is unacceptable and would destroy open source/startups/academia.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:58:45.872Z",
+      "last_updated": "2026-02-01T21:58:45.872Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "6db3b697-532a-4131-ae6b-8bd3c2513d90",
+      "statement": "Federal action will likely resolve state-level regulatory dysfunction.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:58:46.099Z",
+      "last_updated": "2026-02-01T21:58:46.099Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "d882b6a5-ad9a-4f92-81ef-1cb095d08a94",
+      "statement": "Industry advocacy is underprovided (collective action failure), so leaders must step in.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:58:46.230Z",
+      "last_updated": "2026-02-01T21:58:46.230Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "23a32f5b-261f-4483-80e0-5bf672bf3517",
+      "statement": "The speaker’s policy program aims to preserve startup freedom to innovate and is intentionally bipartisan.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:58:46.453Z",
+      "last_updated": "2026-02-01T21:58:46.453Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "71ee576d-fe5a-409a-988f-dcfc71e84267",
+      "statement": "Companies are harmed by fundamentally open strategic/economic questions because they require concrete commitments.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:59:54.686Z",
+      "last_updated": "2026-02-01T21:59:54.686Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "8ebb5417-71a2-4ad7-9bed-f32950d8b3c1",
+      "statement": "Strategic incoherence in an operating company leads to chaos and potential failure.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:59:54.910Z",
+      "last_updated": "2026-02-01T21:59:54.910Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "92021b7b-aa56-42fd-9014-3fd63ec0dc73",
+      "statement": "Being wrong on core strategic choices is existentially risky for companies.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:59:55.079Z",
+      "last_updated": "2026-02-01T21:59:55.079Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "ee26ef19-5700-4c89-9f7e-cfea0f3a031e",
+      "statement": "Venture investing has a structural advantage: it can hold multiple simultaneous, even conflicting, bets.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:59:55.250Z",
+      "last_updated": "2026-02-01T21:59:55.250Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "3a057328-8848-42ac-bdae-d55d1ad9c9a5",
+      "statement": "Reality is messy and supports multiple winning strategies concurrently.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:59:55.599Z",
+      "last_updated": "2026-02-01T21:59:55.599Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "e79f3dd0-ee4a-4dd7-b21f-1d427f997be4",
+      "statement": "Open questions increase venture investors’ advantage because they expand the set of plausible strategies to back.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:59:55.991Z",
+      "last_updated": "2026-02-01T21:59:55.991Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "09347369-84b9-4f0f-bb5d-5ae252ea41e3",
+      "statement": "Backing multiple strategies is not framed as hedging, but as maximizing outcome coverage/representation.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T21:59:56.284Z",
+      "last_updated": "2026-02-01T21:59:56.284Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "68224210-2619-42ca-9cb2-d7f41196808b",
+      "statement": "Venture returns structurally depend on fundamental technology/architecture shifts.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:00:37.428Z",
+      "last_updated": "2026-02-01T22:00:37.428Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "63fc652e-1505-4b8f-8706-72d8f35114a5",
+      "statement": "In periods without fundamental change, startups are unlikely to succeed because incumbents dominate execution and distribution.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:00:37.636Z",
+      "last_updated": "2026-02-01T22:00:37.636Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "c2637ab2-7430-4280-a593-d31b1d414d38",
+      "statement": "The best VC firms endure by successfully transitioning between successive technology waves.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:00:37.801Z",
+      "last_updated": "2026-02-01T22:00:37.801Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "f1e99d6f-32e6-4c41-bd23-820425c32783",
+      "statement": "Sitting out crypto was a major mistake for much of the VC ecosystem.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:00:38.099Z",
+      "last_updated": "2026-02-01T22:00:38.099Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "87c4c4b8-8ea7-49ad-926a-5123719c99a0",
+      "statement": "AI represents a fundamental transformation comparable to prior major shifts (e.g., the internet).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:00:38.314Z",
+      "last_updated": "2026-02-01T22:00:38.314Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "d9530823-a337-4fbb-aa79-918b9735f9b0",
+      "statement": "AI will increase demand and reshape multiple sectors, including energy/materials and biotech/healthcare.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:00:38.601Z",
+      "last_updated": "2026-02-01T22:00:38.601Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "eb74b383-c0ef-466d-b73b-a679a5d73203",
+      "statement": "Crypto is becoming exciting again primarily due to policy changes.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:00:38.748Z",
+      "last_updated": "2026-02-01T22:00:38.748Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "92a07cb2-dcb3-49d1-8977-8bbb2d7e99d3",
+      "statement": "AI and crypto will meaningfully intersect (opportunity area).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:00:39.118Z",
+      "last_updated": "2026-02-01T22:00:39.118Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "36b8abe2-c89c-4a07-8406-b69e3109527f",
+      "statement": "The organization does not currently need a new vertical/unit; the priority is execution and portfolio partnership.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:00:39.427Z",
+      "last_updated": "2026-02-01T22:00:39.427Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "3115842f-485b-49c9-9a89-104d0a4f633f",
+      "statement": "Their partnership works because both are persuadable and converge on conclusions.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:01:12.464Z",
+      "last_updated": "2026-02-01T22:01:12.464Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "60d9d032-5124-4b12-b4d5-a16077aa9987",
+      "statement": "They do not operate with unresolved fundamental disagreements requiring forced commitment.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:01:12.749Z",
+      "last_updated": "2026-02-01T22:01:12.749Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "bf69cb98-16ac-4588-8613-64f9e875c7be",
+      "statement": "A strong public footprint is beneficial for business outcomes in their context.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:01:12.913Z",
+      "last_updated": "2026-02-01T22:01:12.913Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "124edd6e-330c-4c60-9e3d-cfb5104a05e7",
+      "statement": "Controversial clarity signals courage and improves founder fit.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:01:13.213Z",
+      "last_updated": "2026-02-01T22:01:13.213Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "ae80f0ac-95b5-42d2-ad00-009d1fd12051",
+      "statement": "Early active marketing was a key strategy and it worked.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:01:13.456Z",
+      "last_updated": "2026-02-01T22:01:13.456Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "e1754971-3603-4265-9952-3ec4cb10db46",
+      "statement": "The venture industry’s typical quietness leaves founders uninformed about investors.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:01:13.735Z",
+      "last_updated": "2026-02-01T22:01:13.735Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "b56a0042-54a5-4311-ae71-f3fe3500e20b",
+      "statement": "Public visibility and controversy create meaningful negative spillovers.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:01:13.971Z",
+      "last_updated": "2026-02-01T22:01:13.971Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "56fe68d0-5a24-4bde-bae6-a7941c23409f",
+      "statement": "Communications can materially influence policymakers’ understanding.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:01:14.141Z",
+      "last_updated": "2026-02-01T22:01:14.141Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "c35fdff5-c5aa-4509-8bc4-a46dc0f1da82",
+      "statement": "Mainstream East Coast media is hostile to Silicon Valley and can misinform DC stakeholders.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:01:14.353Z",
+      "last_updated": "2026-02-01T22:01:14.353Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "6ae8f2f8-c214-4f2a-9701-a0d40abd78a9",
+      "statement": "Optimal communications requires continuous calibration of sensitive topics and cadence.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:01:14.551Z",
+      "last_updated": "2026-02-01T22:01:14.551Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "6f382ba5-abc4-421e-8d26-a585d546e962",
+      "statement": "Beliefs should change frequently as the perceived frontier of the possible changes.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:02:20.597Z",
+      "last_updated": "2026-02-01T22:02:20.597Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "025a4db6-57ff-4df8-9b53-204d561a45d0",
+      "statement": "Current cryogenic freezing is not worth doing due to poor reliability and disturbing outcomes.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:02:20.832Z",
+      "last_updated": "2026-02-01T22:02:20.832Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "e4100945-d49c-4e8b-8cd4-75d595adc1c6",
+      "statement": "Influence can distort the information environment (‘reality-warping’), creating epistemic risk.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:02:20.962Z",
+      "last_updated": "2026-02-01T22:02:20.962Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "5420096a-07c5-4b37-b19f-f7488b1dfab7",
+      "statement": "Influence is instrumentally useful (can get people to do what you want) but dangerous for accuracy.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:02:21.214Z",
+      "last_updated": "2026-02-01T22:02:21.214Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "6bc2f8f6-1ad5-4c89-8752-f2d9b562b92f",
+      "statement": "Rapid feedback businesses (investing) punish delusion and force updating.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:02:21.495Z",
+      "last_updated": "2026-02-01T22:02:21.495Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "120b32f3-f712-46e4-9835-c9dd750c217a",
+      "statement": "One often overestimates one’s analytical ability; repeated errors are common.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:02:21.880Z",
+      "last_updated": "2026-02-01T22:02:21.880Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "92dc905f-16e6-4476-a04f-83e11019446e",
+      "statement": "Public criticism can be a useful corrective (even if unpleasant).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:02:22.061Z",
+      "last_updated": "2026-02-01T22:02:22.061Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "4573b3f3-eade-4d55-bbaf-a8f6dd7c7aa9",
+      "statement": "He personally is unlikely to go to Mars; prefers staying home/California, maybe via VR.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:02:22.301Z",
+      "last_updated": "2026-02-01T22:02:22.301Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
+    },
+    {
+      "id": "f2bcbf5e-07e3-4fef-b4f6-d98e9122c653",
+      "statement": "Elon will likely succeed in making Mars trips routine within ~10 years.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T22:02:22.489Z",
+      "last_updated": "2026-02-01T22:02:22.489Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
+      ]
     }
   ],
   "relationships": [
