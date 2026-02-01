@@ -1,0 +1,110 @@
+{
+  "nodes": [
+    {
+      "id": "belief_ai_deflation",
+      "statement": "AI will be deflationary for knowledge work",
+      "domain_tags": ["ai", "economics", "labor"],
+      "confidence": 0.8,
+      "first_stated": "2023-06-15",
+      "last_updated": "2023-06-15",
+      "source_refs": ["seed"]
+    },
+    {
+      "id": "belief_regulation_overshoots",
+      "statement": "Regulation usually follows moral panic and overshoots",
+      "domain_tags": ["policy", "tech", "regulation"],
+      "confidence": 0.85,
+      "first_stated": "2022-11-02",
+      "last_updated": "2022-11-02",
+      "source_refs": ["seed"]
+    },
+    {
+      "id": "belief_software_margins",
+      "statement": "Software companies have structurally better margins than services",
+      "domain_tags": ["software", "economics", "business"],
+      "confidence": 0.75,
+      "first_stated": "2019-08-01",
+      "last_updated": "2019-08-01",
+      "source_refs": ["seed"]
+    },
+    {
+      "id": "belief_distribution_moat",
+      "statement": "Distribution often matters more than product once parity is reached",
+      "domain_tags": ["go-to-market", "platforms", "business"],
+      "confidence": 0.7,
+      "first_stated": "2020-01-10",
+      "last_updated": "2020-01-10",
+      "source_refs": ["seed"]
+    },
+    {
+      "id": "belief_power_law",
+      "statement": "Venture returns are dominated by a small number of outliers",
+      "domain_tags": ["venture", "finance", "power-law"],
+      "confidence": 0.9,
+      "first_stated": "2016-05-20",
+      "last_updated": "2016-05-20",
+      "source_refs": ["seed"]
+    },
+    {
+      "id": "belief_platform_shift",
+      "statement": "New platform shifts reset competitive advantage",
+      "domain_tags": ["platforms", "strategy"],
+      "confidence": 0.7,
+      "first_stated": "2018-09-12",
+      "last_updated": "2018-09-12",
+      "source_refs": ["seed"]
+    },
+    {
+      "id": "belief_incentives",
+      "statement": "Incentives drive outcomes more than stated intentions",
+      "domain_tags": ["incentives", "governance", "strategy"],
+      "confidence": 0.8,
+      "first_stated": "2015-03-02",
+      "last_updated": "2015-03-02",
+      "source_refs": ["seed"]
+    },
+    {
+      "id": "belief_bundle",
+      "statement": "Markets cycle between unbundling and rebundling",
+      "domain_tags": ["market-structure", "platforms"],
+      "confidence": 0.7,
+      "first_stated": "2017-04-18",
+      "last_updated": "2017-04-18",
+      "source_refs": ["seed"]
+    },
+    {
+      "id": "belief_build_guardrails",
+      "statement": "Building with guardrails beats blanket restriction",
+      "domain_tags": ["policy", "innovation"],
+      "confidence": 0.75,
+      "first_stated": "2021-02-06",
+      "last_updated": "2021-02-06",
+      "source_refs": ["seed"]
+    },
+    {
+      "id": "belief_automation_adoption",
+      "statement": "Adoption is often the bottleneck, not the core technology",
+      "domain_tags": ["adoption", "strategy", "tech"],
+      "confidence": 0.7,
+      "first_stated": "2014-07-29",
+      "last_updated": "2014-07-29",
+      "source_refs": ["seed"]
+    }
+  ],
+  "relationships": [
+    {
+      "from": "belief_regulation_overshoots",
+      "to": "belief_build_guardrails",
+      "type": "SUPPORTS",
+      "strength": 0.6,
+      "bidirectional": false
+    },
+    {
+      "from": "belief_software_margins",
+      "to": "belief_automation_adoption",
+      "type": "DEPENDS_ON",
+      "strength": 0.4,
+      "bidirectional": false
+    }
+  ]
+}

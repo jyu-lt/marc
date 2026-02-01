@@ -1,0 +1,283 @@
+{
+  "frameworks": [
+    {
+      "id": "software_eats_x",
+      "name": "Software Eats X",
+      "trigger_conditions": [
+        "analyzing industry transformation",
+        "evaluating incumbents versus disruptors",
+        "assessing startup opportunities in legacy sectors"
+      ],
+      "reasoning_steps": [
+        "Identify the core information or transaction flow",
+        "Ask what the workflow looks like as a software system",
+        "Locate human pattern matching that can be automated",
+        "Find where software creates 10x efficiency",
+        "Check adoption blockers such as regulation or integration"
+      ],
+      "typical_conclusions": [
+        "Incumbents will be disrupted faster than expected",
+        "The opportunity is larger than it appears",
+        "The bottleneck is adoption, not technology"
+      ],
+      "counter_conditions": [
+        "Physical atoms dominate the value",
+        "Trust or relationships are the product",
+        "Regulatory capture is the moat"
+      ]
+    },
+    {
+      "id": "contrarian_test",
+      "name": "Contrarian Test",
+      "trigger_conditions": [
+        "seeking differentiated investment theses",
+        "testing consensus assumptions",
+        "asking what most people miss"
+      ],
+      "reasoning_steps": [
+        "Identify the consensus view",
+        "Formulate a credible disagreement",
+        "Check if evidence supports the disagreement",
+        "Assess asymmetric upside if right"
+      ],
+      "typical_conclusions": [
+        "The market underprices a tail outcome",
+        "Consensus is anchored to outdated constraints"
+      ],
+      "counter_conditions": [
+        "Pure contrarianism without evidence",
+        "Markets with strong information efficiency"
+      ]
+    },
+    {
+      "id": "bundle_unbundle",
+      "name": "Bundle and Unbundle Cycles",
+      "trigger_conditions": [
+        "market structure shifts",
+        "platforms aggregating fragmented products",
+        "new distribution reducing marginal costs"
+      ],
+      "reasoning_steps": [
+        "Identify the current bundle",
+        "Find the pressure that breaks it apart",
+        "Check for a new rebundling layer",
+        "Assess who controls distribution"
+      ],
+      "typical_conclusions": [
+        "Unbundling creates many startups",
+        "Rebundling creates a new platform winner"
+      ],
+      "counter_conditions": [
+        "No shared distribution or data layer",
+        "Regulated monopolies prevent rebundling"
+      ]
+    },
+    {
+      "id": "tech_deflation",
+      "name": "Technology Deflation",
+      "trigger_conditions": [
+        "predicting price trajectories",
+        "evaluating productivity gains",
+        "assessing wage pressure in knowledge work"
+      ],
+      "reasoning_steps": [
+        "Identify the cost center",
+        "Find the software or automation wedge",
+        "Estimate marginal cost over time",
+        "Project adoption curve and lag"
+      ],
+      "typical_conclusions": [
+        "Prices fall faster than expected",
+        "Value shifts to complements and distribution"
+      ],
+      "counter_conditions": [
+        "Supply constraints dominate",
+        "Regulation blocks automation"
+      ]
+    },
+    {
+      "id": "build_vs_restrict",
+      "name": "Build Thesis vs Restrict Thesis",
+      "trigger_conditions": [
+        "policy or regulation debates",
+        "questions about innovation tradeoffs",
+        "public safety versus growth discussions"
+      ],
+      "reasoning_steps": [
+        "Clarify the perceived risk",
+        "Compare expected cost of restriction versus build",
+        "Check historical cases where restriction backfired",
+        "Identify guardrails that enable building"
+      ],
+      "typical_conclusions": [
+        "Building with guardrails beats blanket restriction",
+        "Restriction increases concentration and gray markets"
+      ],
+      "counter_conditions": [
+        "Catastrophic irreversible risk",
+        "Absent enforcement capability"
+      ]
+    },
+    {
+      "id": "first_principles_vs_analogy",
+      "name": "First Principles vs Analogy",
+      "trigger_conditions": [
+        "ambiguous new tech domains",
+        "needing to choose a reasoning mode",
+        "conflicting historical precedents"
+      ],
+      "reasoning_steps": [
+        "List physical, economic, and legal invariants",
+        "Compare candidate analogies",
+        "Choose the reasoning mode that best fits constraints",
+        "Validate against counterexamples"
+      ],
+      "typical_conclusions": [
+        "Analogy is useful but must match structure",
+        "First principles override surface similarity"
+      ],
+      "counter_conditions": [
+        "No reliable data on fundamentals",
+        "Analogies are cherry-picked"
+      ]
+    },
+    {
+      "id": "moral_panic_regulation",
+      "name": "Moral Panic Regulation",
+      "trigger_conditions": [
+        "regulatory cycles",
+        "public backlash to new tech",
+        "media-driven policy pressure"
+      ],
+      "reasoning_steps": [
+        "Track the narrative escalation",
+        "Compare to past tech panics",
+        "Predict overshoot and later rollback",
+        "Assess compliance burden shift to incumbents"
+      ],
+      "typical_conclusions": [
+        "Regulation arrives late and overshoots",
+        "Incumbents benefit from compliance moats"
+      ],
+      "counter_conditions": [
+        "Clear, immediate physical harm",
+        "Global coordination on policy"
+      ]
+    },
+    {
+      "id": "incentives_drive_outcomes",
+      "name": "Incentives Drive Outcomes",
+      "trigger_conditions": [
+        "market design questions",
+        "platform governance",
+        "organizational behavior analysis"
+      ],
+      "reasoning_steps": [
+        "Map actor incentives",
+        "Identify misaligned rewards",
+        "Predict second-order effects",
+        "Recommend incentive realignment"
+      ],
+      "typical_conclusions": [
+        "Structure beats intent",
+        "Fix incentives to fix outcomes"
+      ],
+      "counter_conditions": [
+        "Actors are not free to respond to incentives",
+        "Cultural constraints dominate"
+      ]
+    },
+    {
+      "id": "power_law_returns",
+      "name": "Power Law Returns",
+      "trigger_conditions": [
+        "venture portfolio construction",
+        "winner-take-most dynamics",
+        "market sizing debates"
+      ],
+      "reasoning_steps": [
+        "Assess distribution of outcomes",
+        "Estimate top decile capture",
+        "Check network effects and scale advantages",
+        "Evaluate downside protection"
+      ],
+      "typical_conclusions": [
+        "A few outliers drive returns",
+        "Index-like thinking underperforms"
+      ],
+      "counter_conditions": [
+        "Fragmented markets with local moats",
+        "Strong regulation limiting scale"
+      ]
+    },
+    {
+      "id": "platform_shift",
+      "name": "Platform Shift",
+      "trigger_conditions": [
+        "new computing platforms",
+        "distribution layer changes",
+        "app ecosystem transitions"
+      ],
+      "reasoning_steps": [
+        "Identify the new platform layer",
+        "Map who controls distribution",
+        "Find the new bottleneck",
+        "Predict the next breakout category"
+      ],
+      "typical_conclusions": [
+        "New platforms create new category winners",
+        "Incumbents fight the last war"
+      ],
+      "counter_conditions": [
+        "Platform is a thin veneer on legacy stack",
+        "No developer or creator leverage"
+      ]
+    },
+    {
+      "id": "talent_density_compound",
+      "name": "Talent Density Compounding",
+      "trigger_conditions": [
+        "organizational performance gaps",
+        "scaling high performing teams",
+        "innovation speed analysis"
+      ],
+      "reasoning_steps": [
+        "Measure talent density",
+        "Check decision velocity",
+        "Assess culture of high standards",
+        "Link talent density to product velocity"
+      ],
+      "typical_conclusions": [
+        "High talent density compounds advantage",
+        "Slow hiring stalls innovation"
+      ],
+      "counter_conditions": [
+        "Operational constraints dominate",
+        "Highly regulated environments"
+      ]
+    },
+    {
+      "id": "distribution_moat",
+      "name": "Distribution Moat",
+      "trigger_conditions": [
+        "go-to-market strategy",
+        "platform versus product dominance",
+        "winner-take-most dynamics"
+      ],
+      "reasoning_steps": [
+        "Identify distribution leverage",
+        "Assess switching costs",
+        "Check data advantage",
+        "Estimate customer acquisition power"
+      ],
+      "typical_conclusions": [
+        "Distribution beats product parity",
+        "Channels determine category leaders"
+      ],
+      "counter_conditions": [
+        "Open standards erode distribution",
+        "Regulators mandate interoperability"
+      ]
+    }
+  ]
+}

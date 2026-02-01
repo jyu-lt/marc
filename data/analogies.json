@@ -1,0 +1,91 @@
+{
+  "analogies": [
+    {
+      "id": "railroads_internet",
+      "source_domain": "19th century railroads",
+      "target_domain": "internet platforms",
+      "events": [
+        {"event": "land grants", "maps_to": "spectrum allocation"},
+        {"event": "rate regulation", "maps_to": "net neutrality"},
+        {"event": "consolidation wave", "maps_to": "platform consolidation"}
+      ],
+      "lessons": [
+        "Infrastructure buildout is front-loaded while returns arrive later",
+        "Regulation follows moral panic and often overshoots"
+      ],
+      "conditions_for_applicability": [
+        "network effects present",
+        "high fixed cost, low marginal cost",
+        "platform dynamics emerging"
+      ]
+    },
+    {
+      "id": "newspapers_digital_media",
+      "source_domain": "newspapers",
+      "target_domain": "digital media",
+      "events": [
+        {"event": "classifieds subsidize newsroom", "maps_to": "ads subsidize content"},
+        {"event": "local monopoly", "maps_to": "platform distribution"}
+      ],
+      "lessons": [
+        "Distribution shifts collapse legacy profit pools",
+        "Audience aggregation migrates to new platforms"
+      ],
+      "conditions_for_applicability": [
+        "distribution is the bottleneck",
+        "content is abundant"
+      ]
+    },
+    {
+      "id": "telecom_regulation_tech",
+      "source_domain": "early telecom regulation",
+      "target_domain": "modern tech regulation",
+      "events": [
+        {"event": "rate setting", "maps_to": "platform neutrality rules"},
+        {"event": "licensing gatekeepers", "maps_to": "app store policies"}
+      ],
+      "lessons": [
+        "Compliance costs favor incumbents",
+        "Policy lags technological change"
+      ],
+      "conditions_for_applicability": [
+        "regulatory authority is centralized",
+        "significant lobbying pressure"
+      ]
+    },
+    {
+      "id": "mainframe_pc_cloud",
+      "source_domain": "mainframe to PC transition",
+      "target_domain": "cloud to AI-native stacks",
+      "events": [
+        {"event": "centralized compute", "maps_to": "foundation models"},
+        {"event": "developer tooling shift", "maps_to": "AI developer platforms"}
+      ],
+      "lessons": [
+        "Platform shifts reset the stack",
+        "New distribution channels create new winners"
+      ],
+      "conditions_for_applicability": [
+        "new developer primitives exist",
+        "cost curves are shifting"
+      ]
+    },
+    {
+      "id": "ecommerce_logistics",
+      "source_domain": "early ecommerce",
+      "target_domain": "AI deployment",
+      "events": [
+        {"event": "last-mile logistics", "maps_to": "data integration and deployment"},
+        {"event": "trust in online payments", "maps_to": "trust in AI outputs"}
+      ],
+      "lessons": [
+        "Adoption lags because integration is hard",
+        "Trust and UX are the gating factors"
+      ],
+      "conditions_for_applicability": [
+        "integration with legacy systems",
+        "user trust is required"
+      ]
+    }
+  ]
+}
