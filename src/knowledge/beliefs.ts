@@ -139,13 +139,67 @@ export class BeliefGraph {
     return this.keywordMatch(query, topK);
   }
 
-  checkConsistency(statement: string): BeliefNode[] {
+  async checkConsistency(
+    statement: string,
+    llm?: LLMClient,
+    topK = 5
+  ): Promise<{ contradictions: BeliefNode[]; supports: BeliefNode[] }> {
+    const results: { contradictions: BeliefNode[]; supports: BeliefNode[] } = {
+      contradictions: [],
+      supports: []
+    };
+
+    // 1. Basic lexical negation check (fallback)
     const normalized = normalize(statement);
     const negated = normalized.startsWith("not ") ? normalized.slice(4) : `not ${normalized}`;
-    return this.data.nodes.filter((node) => {
+    const lexicallMatches = this.data.nodes.filter((node) => {
       const nodeNorm = normalize(node.statement);
       return nodeNorm === negated;
     });
+    results.contradictions.push(...lexicallMatches);
+
+    if (!llm) {
+      return results;
+    }
+
+    // 2. Semantic consistency check using LLM
+    const related = await this.getRelatedBeliefs(statement, llm, topK);
+    const candidates = related.filter((node) => !results.contradictions.some((c) => c.id === node.id));
+
+    if (candidates.length === 0) {
+      return results;
+    }
+
+    const prompt = `Classify the relationship between the follow statement and each candidate belief.
+Statement: "${statement}"
+
+Candidates:
+${candidates.map((c, i) => `${i + 1}. "${c.statement}"`).join("\n")}
+
+For each, respond ONLY with one of: [SUPPORTS, CONTRADICTS, NEUTRAL]
+Format: 1. RELATIONSHIP
+2. RELATIONSHIP
+...`;
+
+    const response = await llm.generateText(
+      "You are a consistency checker. Classify the relationship between statements.",
+      prompt
+    );
+    const classifications = response
+      .split("\n")
+      .map((line: string) => line.split(".")[1]?.trim().toUpperCase())
+      .filter(Boolean);
+
+    candidates.forEach((node, i) => {
+      const type = classifications[i];
+      if (type === "CONTRADICTS") {
+        results.contradictions.push(node);
+      } else if (type === "SUPPORTS") {
+        results.supports.push(node);
+      }
+    });
+
+    return results;
   }
 
   getTemporalEvolution(tag: string): BeliefNode[] {
@@ -154,8 +208,27 @@ export class BeliefGraph {
       .sort((a, b) => a.first_stated.localeCompare(b.first_stated));
   }
 
-  traceReasoningPath(): BeliefNode[] {
-    return [];
+  traceReasoningPath(beliefId: string): BeliefNode[] {
+    const path: BeliefNode[] = [];
+    const visited = new Set<string>();
+    let currentId: string | undefined = beliefId;
+
+    while (currentId && !visited.has(currentId)) {
+      visited.add(currentId);
+      const node = this.data.nodes.find((n) => n.id === currentId);
+      if (!node) break;
+
+      path.unshift(node); // Origins first
+
+      // Look for what this belief DEPENDS_ON or is SUPPORTED by
+      const relationship = this.data.relationships.find(
+        (r) => r.to === currentId && (r.type === "DEPENDS_ON" || r.type === "SUPPORTS")
+      );
+
+      currentId = relationship?.from;
+    }
+
+    return path;
   }
 
   private keywordMatch(query: string, topK: number): BeliefNode[] {
@@ -183,6 +256,10 @@ function normalize(text: string): string {
   return text.toLowerCase().replace(/[^a-z0-9\s]/g, "").trim();
 }
 
+/**
+ * Basic keyword-based scoring as a fallback when LLM/embeddings are unavailable.
+ * Matches tokens longer than 2 characters against statement and tags.
+ */
 function keywordScore(query: string, statement: string, tags: string[]): number {
   let score = 0;
   for (const token of query.split(/\s+/)) {

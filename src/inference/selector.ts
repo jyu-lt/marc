@@ -14,9 +14,30 @@ export async function selectFrameworks(
   topK = 3
 ): Promise<SelectedFramework[]> {
   const matches = await library.matchFrameworks(query, llm, topK);
-  return matches.map((match) => ({
-    framework: match.framework,
-    score: match.score,
-    rationale: match.framework.trigger_conditions.slice(0, 2).join(" | ")
-  }));
+
+  const selected = await Promise.all(
+    matches.map(async (match) => {
+      let rationale = match.framework.trigger_conditions.slice(0, 2).join(" | ");
+
+      if (llm) {
+        try {
+          const prompt = `Explain in one short sentence why the mental framework "${match.framework.name}" (which triggers on: ${match.framework.trigger_conditions.join(", ")}) is relevant to this query: "${query}"`;
+          rationale = await llm.generateText(
+            "You are a reasoning assistant explaining framework selection.",
+            prompt
+          );
+        } catch (e) {
+          // Fallback to default rationale on error
+        }
+      }
+
+      return {
+        framework: match.framework,
+        score: match.score,
+        rationale: rationale.trim()
+      };
+    })
+  );
+
+  return selected;
 }

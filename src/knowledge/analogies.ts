@@ -100,6 +100,10 @@ export class AnalogyIndex {
   }
 }
 
+/**
+ * Basic keyword-based scoring as a fallback when LLM/embeddings are unavailable.
+ * Matches tokens longer than 2 characters against the concatenated text.
+ */
 function scoreMatch(query: string, text: string): number {
   let score = 0;
   for (const token of query.split(/\s+/)) {
