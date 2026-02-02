@@ -2456,6 +2456,1898 @@
       "source_refs": [
         "/Users/jiayao/gitrepo/marc/data/corpus/xRh2sVcNXQ8.md"
       ]
+    },
+    {
+      "id": "93334b6c-c00a-44d9-8799-26695003f5fa",
+      "statement": "A period analogous to the Roaring ’20s could plausibly recur in the present/future.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:39:13.587Z",
+      "last_updated": "2026-02-01T23:39:13.587Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "dcb1a6e4-bb33-47f8-a970-bee98542911c",
+      "statement": "Individualism is a central explanatory variable in American culture/politics and has identifiable historical roots.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:39:13.846Z",
+      "last_updated": "2026-02-01T23:39:13.846Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "1c478bd1-6101-41a0-af76-dcf0581e704a",
+      "statement": "Cultural mood (“vibes”) shifts meaningfully over time and influences broader societal trajectories.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:39:13.992Z",
+      "last_updated": "2026-02-01T23:39:13.992Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "d290ee16-e056-4476-b861-7675fe19c0b2",
+      "statement": "Technology will play a major role in determining America’s future outcomes.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:39:14.453Z",
+      "last_updated": "2026-02-01T23:39:14.453Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "9fa1110b-6182-4aa6-8539-509de8fccab3",
+      "statement": "Politics and technology are intertwined with national identity/ethos (“American spirit”).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:39:14.713Z",
+      "last_updated": "2026-02-01T23:39:14.713Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "337cb414-3e16-42f6-9144-69af947c1751",
+      "statement": "The national debt is currently increasing by roughly $1T every ~100 days.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:39:43.692Z",
+      "last_updated": "2026-02-01T23:39:43.692Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "e87d59d7-eba5-4df6-ad9f-ab1eb0e6c31d",
+      "statement": "The pace of debt accumulation is accelerating due to compounding.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:39:43.965Z",
+      "last_updated": "2026-02-01T23:39:43.965Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "695c1c29-2059-4e9a-9c8d-2c04a8f48714",
+      "statement": "The incremental debt added over this period exceeds the Defense Department budget (used as a benchmark of scale).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:39:44.179Z",
+      "last_updated": "2026-02-01T23:39:44.179Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "9f610c99-682b-4cf7-aafa-c70b4e0b9e49",
+      "statement": "If the fiscal trajectory is not corrected, a hyperinflationary spiral becomes a plausible outcome.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:39:44.489Z",
+      "last_updated": "2026-02-01T23:39:44.489Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "d072c078-3200-4782-b79f-72148ea56815",
+      "statement": "In the adverse scenario, the country could resemble Argentina or Brazil in macroeconomic stability/inflation outcomes.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:39:44.747Z",
+      "last_updated": "2026-02-01T23:39:44.747Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "beaf94d1-eed6-49b0-9b6d-9c70960a488d",
+      "statement": "Marc Andreessen is a highly influential tech leader/investor with major contributions to the internet and tech industry.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:39:45.015Z",
+      "last_updated": "2026-02-01T23:39:45.015Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "7d531c85-fd22-4d85-90df-b8c9a293d98c",
+      "statement": "The US is primed for significant growth in 2025–26 and beyond.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:40:14.926Z",
+      "last_updated": "2026-02-01T23:40:14.926Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "f8037bb2-9167-409a-942d-69a67ef97a8a",
+      "statement": "Despite political turmoil and COVID, the US economy demonstrated notable resilience and continued growth.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:40:15.162Z",
+      "last_updated": "2026-02-01T23:40:15.162Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "3c5bd088-c23e-43c8-9573-8cb625003a89",
+      "statement": "Several peer countries have stagnated or are contracting, increasing US relative advantage.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:40:15.430Z",
+      "last_updated": "2026-02-01T23:40:15.430Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "a1debd94-1a10-4916-8b78-7b2a6f91e801",
+      "statement": "US geography provides exceptional physical security that supports stability and growth.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:40:15.691Z",
+      "last_updated": "2026-02-01T23:40:15.691Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "a58b2bdc-6792-4969-b76b-048dd2bce086",
+      "statement": "The US has abundant natural resources and repeatedly discovers/has access to critical materials.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:40:16.349Z",
+      "last_updated": "2026-02-01T23:40:16.349Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "3539a618-67ca-4111-8a21-bf8e18ae10c5",
+      "statement": "The US can be energy independent or a net energy exporter; it is mostly a policy choice.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:40:16.685Z",
+      "last_updated": "2026-02-01T23:40:16.685Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "74a09bea-ef18-46d2-a4ca-20e730ab32bd",
+      "statement": "Recent administration reduced American energy production; the new administration will increase it substantially.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:40:16.891Z",
+      "last_updated": "2026-02-01T23:40:16.891Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "f8ea18da-2426-4e02-a28f-15753e1990a7",
+      "statement": "US dynamism is driven by long-run immigration and human capital accumulation.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:40:17.129Z",
+      "last_updated": "2026-02-01T23:40:17.129Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "c3eca48b-dbfc-48b0-b305-428fe7984369",
+      "statement": "The US is the leading nation in advanced technology domains (software, AI, biotech), though it has manufacturing issues.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:40:17.327Z",
+      "last_updated": "2026-02-01T23:40:17.327Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "955b10ef-0147-4002-861d-bab00b2a9fbc",
+      "statement": "Given these conditions, the US could see higher economic growth, productivity, and faster tech adoption (a boom).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:40:17.528Z",
+      "last_updated": "2026-02-01T23:40:17.528Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "e50df3fe-e0b8-49a5-9ae1-2c397b9e2ac3",
+      "statement": "America has a uniquely intense entrepreneurial spirit rooted in its national character.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:16.045Z",
+      "last_updated": "2026-02-01T23:41:16.045Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "29bb4f73-a702-4d84-97af-b611aee8b128",
+      "statement": "The US is an amalgamation of tough, driven subcultures that produce exceptional capability.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:16.283Z",
+      "last_updated": "2026-02-01T23:41:16.283Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "730349e9-aa67-4c51-9c2f-f68b5c71b8f1",
+      "statement": "American excellence spans both technical and artistic domains (rockets, movies, art).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:16.573Z",
+      "last_updated": "2026-02-01T23:41:16.573Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "c9f3a8d1-6b5d-4eb9-ab97-de0a8c2968e6",
+      "statement": "Many contemporary US problems come from efforts to suppress exceptionalism and make society mediocre.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:16.834Z",
+      "last_updated": "2026-02-01T23:41:16.834Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "0f79195d-dc0e-46b4-a211-c544116932f6",
+      "statement": "National spirit can rebound when people decide to build and grow; demoralization can be overcome.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:17.088Z",
+      "last_updated": "2026-02-01T23:41:17.088Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "e21f7a0d-de53-4dd2-93b9-2d4f337fb89d",
+      "statement": "The 1970s were demoralizing; Reagan-era optimism reversed it and restored national vigor.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:17.354Z",
+      "last_updated": "2026-02-01T23:41:17.354Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "562098d5-0c42-4942-95c9-a19e6c2bd4b0",
+      "statement": "Individualism (and associated freedoms) is a key component of American dynamism.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:17.528Z",
+      "last_updated": "2026-02-01T23:41:17.528Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "c61b456f-f4e3-4c12-baff-c6daaab53349",
+      "statement": "American individualism peaked roughly 1865–1931 and fueled global leadership (Second Industrial Revolution).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:17.812Z",
+      "last_updated": "2026-02-01T23:41:17.812Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "92475a19-2571-4232-8f79-5858140c82bb",
+      "statement": "Economic growth ('line go up') and individualism are insufficient; nations also need intangible spirit/passion.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:18.062Z",
+      "last_updated": "2026-02-01T23:41:18.062Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "641c7616-bb90-4bbf-8c98-77e469850b37",
+      "statement": "Decline is primarily a choice, not destiny; authority-driven demoralization is a major cause of stagnation.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:18.337Z",
+      "last_updated": "2026-02-01T23:41:18.337Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "297d77fc-24d9-4da5-ad15-69313f9800fd",
+      "statement": "Pre-classical Indo-European societies lacked individual rights and were organized around family/tribe/city.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:18.864Z",
+      "last_updated": "2026-02-01T23:41:18.864Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "d4447cb4-7037-4801-b444-baf9cc2fe406",
+      "statement": "Those societies had master-morality norms: strength good, weakness bad, tied to survival pressures.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:19.007Z",
+      "last_updated": "2026-02-01T23:41:19.007Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "5a369494-0307-4552-b353-42421e2b210b",
+      "statement": "Modern secular society has 're-evolved' ancestor worship (identity politics) and nature worship (environmentalism).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:19.218Z",
+      "last_updated": "2026-02-01T23:41:19.218Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "b9cc3735-ed0e-42fe-8a2c-dae51ca006c9",
+      "statement": "Identity politics assigns moral standing to infants based on ancestry and is therefore not truly progressive.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:19.470Z",
+      "last_updated": "2026-02-01T23:41:19.470Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "139f3816-94fb-4ff5-bc67-da2cd63ca4b3",
+      "statement": "The US has developed 'soft authoritarianism' expressed through regulation and institutional controls.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:55.048Z",
+      "last_updated": "2026-02-01T23:41:55.048Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "65723b31-0535-45ec-9906-652d3ce68ee1",
+      "statement": "Regulation currently suppresses the American economy, technology industry, and individuals.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:55.282Z",
+      "last_updated": "2026-02-01T23:41:55.282Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "7fc77a56-7198-403d-9f0f-e5fe879f979b",
+      "statement": "A 'vetocracy' blocks progress and makes governance anti-constructive.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:55.402Z",
+      "last_updated": "2026-02-01T23:41:55.402Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "015f7892-a2a0-4678-84be-a76f09e4c8b1",
+      "statement": "There is a prevalent ideology treating progress, technology, and capitalism as bad (including tall poppy syndrome).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:55.561Z",
+      "last_updated": "2026-02-01T23:41:55.561Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "d0f5aada-492f-4ced-a4e7-7e5b7176da31",
+      "statement": "Government and aligned institutions have engaged in censorship and debanking.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:55.818Z",
+      "last_updated": "2026-02-01T23:41:55.818Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "ecd8dac9-e57e-46e7-934f-22ca08662cef",
+      "statement": "These actions constitute a 'demoralization campaign.'",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:56.089Z",
+      "last_updated": "2026-02-01T23:41:56.089Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "dafb1778-0c93-4da4-9975-91f694ffa136",
+      "statement": "Removing these constraints would unlock pent-up energy leading to significant growth and improved 'spirit.'",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:56.322Z",
+      "last_updated": "2026-02-01T23:41:56.322Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "4b8340a1-5662-4a69-be7e-e7d2fc0cff6f",
+      "statement": "The new administration intends rapid action and has staffing to execute on these fronts.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:56.611Z",
+      "last_updated": "2026-02-01T23:41:56.611Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "99ae6986-d70a-4695-94d8-d9bc1c5da881",
+      "statement": "A major cultural shift is already underway ('vibe shift'); 'woke is over.'",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:56.892Z",
+      "last_updated": "2026-02-01T23:41:56.892Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "c3bb9c67-25d6-4b25-b54e-05a3f2c05ca5",
+      "statement": "Corporate leaders are rapidly adjusting behavior in response to this shift (e.g., Zuckerberg, BlackRock backpedaling ESG).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:57.137Z",
+      "last_updated": "2026-02-01T23:41:57.137Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "c9d66202-0187-4beb-8f46-16b34c85bfef",
+      "statement": "NASDAQ board diversity mandates were ill-conceived and have been invalidated by the courts.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:57.477Z",
+      "last_updated": "2026-02-01T23:41:57.477Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "708aea21-c56e-4ed4-a5d1-8ebdd7f667ac",
+      "statement": "DEI categorizations can be bureaucratically absurd (e.g., Thiel counting as diverse despite authoring 'The Diversity Myth').",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:41:57.674Z",
+      "last_updated": "2026-02-01T23:41:57.674Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "db64c023-4f67-4aa4-9454-382120899729",
+      "statement": "Zero-censorship internet services are practically impossible.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:44:30.236Z",
+      "last_updated": "2026-02-01T23:44:30.236Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "2836c8d3-4d88-4346-812a-1768bce352cd",
+      "statement": "Moderation systems become a central power lever that attracts pressure campaigns.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:44:30.579Z",
+      "last_updated": "2026-02-01T23:44:30.579Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "80fb5d54-21d6-4453-85d5-58c2c10eb65d",
+      "statement": "A major transition toward this pressure-driven censorship occurred around 2012–2013.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:44:30.808Z",
+      "last_updated": "2026-02-01T23:44:30.808Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "213ef132-d1bb-4fbb-b915-983b2a93ecc8",
+      "statement": "Cultural/political shifts in elite institutions (“super woke kids”) contributed to the change.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:44:31.024Z",
+      "last_updated": "2026-02-01T23:44:31.024Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "d1b6d51f-9746-43df-8ffd-7e192591ea14",
+      "statement": "The Democratic Party recognized and exploited the controllability of tech companies via censorship mechanisms.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:44:31.297Z",
+      "last_updated": "2026-02-01T23:44:31.297Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "5f65f8dd-79fd-4526-8b1d-0078579c3d4e",
+      "statement": "Hate speech standards broadened from banning explicit slurs to policing discomfort.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:44:31.536Z",
+      "last_updated": "2026-02-01T23:44:31.536Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "3468b8be-eb8b-4d19-8b6c-b134c7aa4ede",
+      "statement": "Misinformation controls became prominent with Trump and 'Russiagate' (which he calls a hoax).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:44:31.804Z",
+      "last_updated": "2026-02-01T23:44:31.804Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "f33d655c-ba3b-49e6-8590-e6c52919d76d",
+      "statement": "Misinformation enforcement is more powerful than hate-speech enforcement as a censorship tool.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:44:31.976Z",
+      "last_updated": "2026-02-01T23:44:31.976Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "27bf3b90-c394-4da2-a56d-e07302077b3b",
+      "statement": "Censoring the COVID lab-leak theory was a culminating moment of misinformation censorship.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:44:32.335Z",
+      "last_updated": "2026-02-01T23:44:32.335Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "17cdde17-f694-49f7-9db6-cd9fb433cbe0",
+      "statement": "Jon Stewart’s public discussion helped catalyze relaxation of lab-leak censorship.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:44:32.572Z",
+      "last_updated": "2026-02-01T23:44:32.572Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "a1fd3a43-804b-40f7-9caa-8afda4952b3a",
+      "statement": "Policy reversal occurred when leaders inferred it was socially/organizationally acceptable to stop censoring lab-leak discussion.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:44:32.762Z",
+      "last_updated": "2026-02-01T23:44:32.762Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "53b1a6f6-3c72-4df7-afb9-62e554425de7",
+      "statement": "Top leaders/CEOs are inherently lonely and receive little sympathy.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:45:14.707Z",
+      "last_updated": "2026-02-01T23:45:14.707Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "c6f1c90c-3cf6-4691-9499-bdc7897581c3",
+      "statement": "A leader cannot speak freely to key stakeholders because of misaligned incentives and consequences.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:45:15.133Z",
+      "last_updated": "2026-02-01T23:45:15.133Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "15fb7768-e7ef-4202-9b2e-97fcb03e6455",
+      "statement": "Organizational survival depends primarily on internal coherence; internal cracking is catastrophic.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:45:15.439Z",
+      "last_updated": "2026-02-01T23:45:15.439Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "d9c5e452-720c-485f-be0f-03d64da8ddc3",
+      "statement": "Mark Zuckerberg is now an outstanding communicator and his public/private selves are aligned.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:45:15.578Z",
+      "last_updated": "2026-02-01T23:45:15.578Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "2e99d0f3-2884-434a-b43e-cce4508d8958",
+      "statement": "Zuckerberg’s role carries responsibility at a scale larger than nations.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:45:15.915Z",
+      "last_updated": "2026-02-01T23:45:15.915Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "5add8aef-9ab4-499b-ad77-5e7f12530dfa",
+      "statement": "The government has engaged in criminal, unconstitutional behavior by pressuring companies about speech.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:45:16.219Z",
+      "last_updated": "2026-02-01T23:45:16.219Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "4619e752-f854-4ddc-9fd0-7c5fda57fe8a",
+      "statement": "Even ‘soft’ government pressure on companies is illegitimate/impermissible.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:45:16.428Z",
+      "last_updated": "2026-02-01T23:45:16.428Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "100729a0-4b18-4fca-b253-de5ddbb5c5c0",
+      "statement": "Regulation/administrative power is the primary tool of coercion, more than legislation.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:45:16.638Z",
+      "last_updated": "2026-02-01T23:45:16.638Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "40b9d8d4-675e-4f44-b9a3-a456d2e88b10",
+      "statement": "The Libra episode illustrates direct state coercion via threatened financial retaliation.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:45:16.899Z",
+      "last_updated": "2026-02-01T23:45:16.899Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "39edecf4-e2e3-4f18-a50a-4ec0f27eebf9",
+      "statement": "Elon Musk has avoided corruption by power so far because he publicly states truths and calls out scandal.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:45:17.111Z",
+      "last_updated": "2026-02-01T23:45:17.111Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "6aac7acc-491f-4ad4-8fc8-708841a72bb2",
+      "statement": "Rule by elites is inevitable in practice",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:45:39.444Z",
+      "last_updated": "2026-02-01T23:45:39.444Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "6d24dd2d-0c8d-48b8-845d-4cdc028c8152",
+      "statement": "Mass democracy (as direct rule by many) is largely an illusion at scale",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:45:39.594Z",
+      "last_updated": "2026-02-01T23:45:39.594Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "3bad218e-b825-4286-a586-e4e144cedf1f",
+      "statement": "The key causal constraint is differential ability to organize",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:45:39.970Z",
+      "last_updated": "2026-02-01T23:45:39.970Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "55c48d44-11b7-434e-8c08-9372ee796abf",
+      "statement": "Even highly democratic worker organizations produce a controlling leadership class",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:45:40.139Z",
+      "last_updated": "2026-02-01T23:45:40.139Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "c65bf006-ed2f-4aa9-a1b8-0011875f729c",
+      "statement": "The US founders anticipated oligarchic dynamics and designed countervailing institutions",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:45:40.493Z",
+      "last_updated": "2026-02-01T23:45:40.493Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "6fd15fe4-f5e3-44bb-bd02-ff504b9cca13",
+      "statement": "Practical governance improvement comes from institutional architecture (checks, staggered terms), not aspirational rhetoric",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:45:40.777Z",
+      "last_updated": "2026-02-01T23:45:40.777Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "123776f4-bcb8-46ef-932a-83e14796547b",
+      "statement": "In some institutions, media figures can exert more coercive power over executives than executives can exert over them.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:46:08.284Z",
+      "last_updated": "2026-02-01T23:46:08.284Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "e4cdae94-1ae7-44a7-b2e2-0c28a8ade441",
+      "statement": "Journalistic organizations may be effectively governed by internal staff norms/ideology rather than by owners.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:46:08.554Z",
+      "last_updated": "2026-02-01T23:46:08.554Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "d3d1a2ed-5572-48fe-8638-f9654a53e0b8",
+      "statement": "Owner intervention to stop certain political endorsements triggers intense staff backlash.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:46:08.855Z",
+      "last_updated": "2026-02-01T23:46:08.855Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "2cbddbc2-9faa-4ae0-bb79-dba250a23915",
+      "statement": "Attempts to 'assault' journalism (external pressure) often fail to produce firings and can strengthen in-group identity.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:46:09.066Z",
+      "last_updated": "2026-02-01T23:46:09.066Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "3c295c23-aa43-46b4-81f4-24ead8db7b42",
+      "statement": "Activist investors succeed via specialized adversarial skills that can ‘wreck’ opponents.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:46:09.386Z",
+      "last_updated": "2026-02-01T23:46:09.386Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "dd7df512-20a5-462c-88d4-68a8a407da6d",
+      "statement": "These activist tactics are increasingly spreading beyond traditional activist investors.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:46:09.860Z",
+      "last_updated": "2026-02-01T23:46:09.860Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "8d553b21-de4a-4438-9cdc-e722d72e4b62",
+      "statement": "Ackman is framed by the interviewer as courageous (value judgment attributed to Lex).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:46:10.044Z",
+      "last_updated": "2026-02-01T23:46:10.044Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "3782905f-9339-44d2-be20-bbc30588c309",
+      "statement": "The main risk for a second Trump term was staffing quality relative to the first term",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:46:34.561Z",
+      "last_updated": "2026-02-01T23:46:34.561Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "0be9b1ed-b646-4570-b074-cc23cc0d1492",
+      "statement": "First-term officials were subjected to extensive legal/financial retaliation",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:46:34.788Z",
+      "last_updated": "2026-02-01T23:46:34.788Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "7c7ec855-e9db-4fba-a6b7-443fbda67a1e",
+      "statement": "The incoming talent pool is deeper and higher caliber than expected/than before",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:46:35.026Z",
+      "last_updated": "2026-02-01T23:46:35.026Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "9be85459-ad2e-4b05-b7b5-ea7935d75b44",
+      "statement": "The new team is unusually young and that is notable/positive",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:46:35.209Z",
+      "last_updated": "2026-02-01T23:46:35.209Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "a4c20234-dc24-4b7d-af90-fa71b0982ee8",
+      "statement": "Jay Bhattacharya would significantly improve NIH leadership",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:46:35.550Z",
+      "last_updated": "2026-02-01T23:46:35.550Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "303f4c74-c127-4304-8a9b-b9935e909aff",
+      "statement": "Marty Makary is a strong choice for FDA leadership",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:46:35.681Z",
+      "last_updated": "2026-02-01T23:46:35.681Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "748e473e-04dd-4e00-a79c-0a69fc117516",
+      "statement": "Dr. Oz has exceptional insight into the healthcare system",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:46:35.887Z",
+      "last_updated": "2026-02-01T23:46:35.887Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "202718ac-0821-484e-bd26-8a87005e06bb",
+      "statement": "Andreessen’s role is informal and unpaid",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:46:36.153Z",
+      "last_updated": "2026-02-01T23:46:36.153Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "8851e4a7-9701-46ef-8350-15212ace6f26",
+      "statement": "Federal administrative scope is large and poorly enumerated",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:47:19.610Z",
+      "last_updated": "2026-02-01T23:47:19.610Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "a972991d-571a-46d1-ba82-a49be11c6a89",
+      "statement": "The federal workforce is extremely large, including contractors",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:47:19.818Z",
+      "last_updated": "2026-02-01T23:47:19.818Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "1ffb779b-8015-4d48-bc22-8ba55b6f11cf",
+      "statement": "Many federal employees are not working from the office",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:47:20.123Z",
+      "last_updated": "2026-02-01T23:47:20.123Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "01f71194-3f55-4cef-8903-7d8e495a4b84",
+      "statement": "Most government constraints on citizens/business are regulatory rather than legislative",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:47:20.402Z",
+      "last_updated": "2026-02-01T23:47:20.402Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "05038872-0d02-424e-bfca-4c0bdd8cdc95",
+      "statement": "Recent Supreme Court decisions undermine/limit aspects of the administrative state",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:47:20.652Z",
+      "last_updated": "2026-02-01T23:47:20.652Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "d7a3f1ca-d0d5-4bf8-8c26-26e0984c78ef",
+      "statement": "A meaningful portion of existing regulations are unlawful or no longer legally valid",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:47:20.919Z",
+      "last_updated": "2026-02-01T23:47:20.919Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "8df68693-eb75-4cc6-9f8c-95e5f02eee1b",
+      "statement": "Wasteful spending is enabled by a norm/interpretation that the executive cannot underspend appropriations",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:47:21.378Z",
+      "last_updated": "2026-02-01T23:47:21.378Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "0aff7277-9c2e-46ce-a6ff-b281c0668577",
+      "statement": "End-of-fiscal-year spending is systematically distorted toward low-value uses",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:47:21.505Z",
+      "last_updated": "2026-02-01T23:47:21.505Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "b7fa4a7a-d686-49b6-a732-7aeb8bd69e22",
+      "statement": "There is pervasive contempt for taxpayers among government actors",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:47:21.724Z",
+      "last_updated": "2026-02-01T23:47:21.724Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "ddc1fc96-15d8-4210-bcb0-4735e0f40af2",
+      "statement": "Treating billions as rounding errors contributes to corruption and laziness",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:47:21.941Z",
+      "last_updated": "2026-02-01T23:47:21.941Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "a9dbda19-493a-4c09-aacf-c08caaeaed8e",
+      "statement": "Per-taxpayer opportunity cost is morally salient and practically meaningful",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:47:22.322Z",
+      "last_updated": "2026-02-01T23:47:22.322Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "5cf34ec8-d0f2-4d2c-beba-d0e9b18fa915",
+      "statement": "Transparency can expose waste and improve governance",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:47:22.543Z",
+      "last_updated": "2026-02-01T23:47:22.543Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "a014ec40-47a9-4c0c-9c24-4a6ff6e32678",
+      "statement": "Overreach can politically mobilize even insular/low-mobility communities",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:47:22.775Z",
+      "last_updated": "2026-02-01T23:47:22.775Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "73e8e142-ce4d-47a7-a9a7-58a183ca6b91",
+      "statement": "Reversing cynical attitudes could make government work more exciting/attractive",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:47:23.063Z",
+      "last_updated": "2026-02-01T23:47:23.063Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "bc3909cb-daee-432d-a773-b5542a40dd92",
+      "statement": "The simple pro–high-skilled immigration slogan is incomplete because domestic talent scarcity is partly institutionally created.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:03.706Z",
+      "last_updated": "2026-02-01T23:48:03.706Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "8b2d10b0-c45c-4ea5-a238-c0ae2be431ce",
+      "statement": "Large parts of America (e.g., rural Midwest) have capable people but are excluded from elite educational pipelines into tech.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:03.958Z",
+      "last_updated": "2026-02-01T23:48:03.958Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "71d56447-346f-4e9f-aa8e-b8003cd4b1e3",
+      "statement": "Elite admissions practices disadvantage certain groups (Asians, Jews) via higher implicit standards/quotas.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:04.232Z",
+      "last_updated": "2026-02-01T23:48:04.232Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "8b9a2458-ceda-4a7b-9e39-ee13082687c3",
+      "statement": "Even policies framed as helping Black Americans may preferentially benefit foreign-born Black applicants at elite schools.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:04.355Z",
+      "last_updated": "2026-02-01T23:48:04.355Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "f7d7cc12-2f43-466b-bdca-03ad29b857ff",
+      "statement": "A long-running 'social engineering' project has shaped admissions and talent pathways over ~60 years.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:04.569Z",
+      "last_updated": "2026-02-01T23:48:04.569Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "56eca05f-ed3a-4eae-8fbd-b3700177e1a5",
+      "statement": "Brain drain creates serious negative consequences for origin countries (e.g., Greece; potentially Ukraine).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:04.839Z",
+      "last_updated": "2026-02-01T23:48:04.839Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "1eca5ee2-478f-4ab9-9513-de7bc9ac7bd8",
+      "statement": "Recruiting global talent can be morally analogous to colonial extraction when viewed as 'human capital' extraction.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:05.017Z",
+      "last_updated": "2026-02-01T23:48:05.017Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "a4ba1c90-bf0c-4fb5-b270-b2d38006bf4b",
+      "statement": "H-1B usage is now primarily Big Tech volume hiring and consulting/offshoring intermediaries, not 'the Valley' broadly.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:05.254Z",
+      "last_updated": "2026-02-01T23:48:05.254Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "2891cf28-f2f3-43a2-9be5-274a9c1e82bb",
+      "statement": "O-1 is framed as a 'super genius' pathway, implying a stratified visa ecosystem by perceived talent tier.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:05.491Z",
+      "last_updated": "2026-02-01T23:48:05.491Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "cdd9fe03-027f-4202-9bf3-d869e2a7e114",
+      "statement": "Universities ignore scalable, merit-based identification tools (National Merit) while aggressively scouting athletics.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:05.733Z",
+      "last_updated": "2026-02-01T23:48:05.733Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "d616e857-4a2d-4e95-8b84-83df260a290f",
+      "statement": "SAT changes reduced its measurement of g (IQ proxy) and increased coachability, advantaging affluent families.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:05.930Z",
+      "last_updated": "2026-02-01T23:48:05.930Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "ac6eb1eb-e18b-4ebf-8013-4109bd395228",
+      "statement": "There was a 'Great Stagnation' roughly from 1970 to 2010.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:26.578Z",
+      "last_updated": "2026-02-01T23:48:26.578Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "f440d40b-96b5-4845-9cc5-af3ff29e3862",
+      "statement": "Innovation was strong in digital technology during that period.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:26.756Z",
+      "last_updated": "2026-02-01T23:48:26.756Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "a25dd42e-9cb9-4dc1-a87c-b9c33273043e",
+      "statement": "Innovation stagnated in major physical domains (energy, transportation, cities, infrastructure).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:26.981Z",
+      "last_updated": "2026-02-01T23:48:26.981Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "d7be10ab-663b-4ae9-bed4-be74e058f2fd",
+      "statement": "Nuclear energy development/deployment stalled after initial success.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:27.311Z",
+      "last_updated": "2026-02-01T23:48:27.311Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "f2ac7bc0-22be-46ba-88d2-6fdc43a6d6f6",
+      "statement": "Immigration politics could be improved by simultaneously supporting immigrants and increasing hiring of native-born workers.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:27.440Z",
+      "last_updated": "2026-02-01T23:48:27.440Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "37398acd-fd94-46a1-b087-6d6e99662eb4",
+      "statement": "Perceptions of a 'fair shake' across multiple demographic groups would diffuse the immigration issue.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:48:27.754Z",
+      "last_updated": "2026-02-01T23:48:27.754Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "97b6a8c5-4588-49a2-ab2d-39de67d19aff",
+      "statement": "AI coding is a historic, revolutionary shift in software production.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:19.338Z",
+      "last_updated": "2026-02-01T23:49:19.338Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "2db5fef5-e64b-476d-9d77-d6b75b5a1ae6",
+      "statement": "There is effectively unlimited demand for software/code.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:19.464Z",
+      "last_updated": "2026-02-01T23:49:19.464Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "bb8a1bc4-88a3-4069-99ad-ab554c9baa12",
+      "statement": "We are in a 'Golden Age' for builders; skills can be retooled rapidly.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:19.701Z",
+      "last_updated": "2026-02-01T23:49:19.701Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "a6d5f9b8-b8e5-4932-915f-f70f45a868c6",
+      "statement": "Competitive differentiation among frontier LLMs may be smaller than expected; results converge.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:19.980Z",
+      "last_updated": "2026-02-01T23:49:19.980Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "e328dd2a-ac09-45de-8e74-a287150506fe",
+      "statement": "Scaling frontier AI requires unusually large pools of capital, narrowing viable funding sources.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:20.189Z",
+      "last_updated": "2026-02-01T23:49:20.189Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "ce1f6a76-19d2-4dbc-9542-870c8171b0eb",
+      "statement": "OpenAI’s organizational/legal structure creates a difficult financing hurdle for for-profit conversion.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:20.396Z",
+      "last_updated": "2026-02-01T23:49:20.396Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "3ef06d5f-fadd-4525-839d-a8765c30183f",
+      "statement": "Hallucinations are tolerable in creative use cases but unacceptable in correctness-critical domains.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:20.712Z",
+      "last_updated": "2026-02-01T23:49:20.712Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "d4fd1dfe-4b6d-4510-a768-e43c7576fa32",
+      "statement": "In checkable domains like math and code, hallucinations should be eliminable (at least in principle).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:20.951Z",
+      "last_updated": "2026-02-01T23:49:20.951Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "dca047a0-f50f-4b7a-baaa-f8eaaee8bdee",
+      "statement": "General-domain reasoning may plateau due to data exhaustion; models may remain at a 'mid-wit grad student level' in open-ended domains.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:21.249Z",
+      "last_updated": "2026-02-01T23:49:21.249Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "41ad5abf-c1a8-455b-b82b-6b3af370c268",
+      "statement": "Frontier models are nearing exhaustion of human-generated training data; manual expert data creation is costly.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:21.508Z",
+      "last_updated": "2026-02-01T23:49:21.508Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "a770073e-8b0d-4c19-96f1-4c94f2220deb",
+      "statement": "AGI framed as 'abstract generalized super intelligence' may be unrealistic or at least must be grounded in practical function.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:21.765Z",
+      "last_updated": "2026-02-01T23:49:21.765Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "5e25fe4b-ec4e-43e2-b171-aa0be94933f2",
+      "statement": "Many countries will resist using AI systems perceived as ideologically extreme in foundational systems like education.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:22.002Z",
+      "last_updated": "2026-02-01T23:49:22.002Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "599c9469-3659-4671-91ed-9e99227efd9d",
+      "statement": "US election outcome improved the policy trajectory for AI/tech relative to an alternative path.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:22.287Z",
+      "last_updated": "2026-02-01T23:49:22.287Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "6377cc89-0813-441f-b305-04b450a57670",
+      "statement": "EU policy direction risks institutionalizing censorship constraints.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:22.510Z",
+      "last_updated": "2026-02-01T23:49:22.510Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "a7729b8a-4bfc-4385-96ed-a36f352634d9",
+      "statement": "Tweeting is generally not an advisable activity for him.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:46.931Z",
+      "last_updated": "2026-02-01T23:49:46.931Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "5335c87b-74f7-4346-88a5-b4195d0f156e",
+      "statement": "Out-of-context tweets are disproportionately dangerous.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:47.305Z",
+      "last_updated": "2026-02-01T23:49:47.305Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "4bc0461e-a538-426f-b06d-bc2c139e2279",
+      "statement": "Social media is entering/will enter a new reinvigoration phase beyond X.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:47.562Z",
+      "last_updated": "2026-02-01T23:49:47.562Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "11537946-41ba-4864-8260-6e2f3fe17a65",
+      "statement": "Crypto will return strongly (“come right back to life”).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:47.847Z",
+      "last_updated": "2026-02-01T23:49:47.847Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "51371f2d-4bfe-49f8-be09-f1f84fa7a587",
+      "statement": "AI agents will require an economy to function at scale.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:48.002Z",
+      "last_updated": "2026-02-01T23:49:48.002Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "6021763f-5ec3-430a-b2d4-48a340e9c73c",
+      "statement": "Crypto is the ideal economic system for AI agents.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:48.233Z",
+      "last_updated": "2026-02-01T23:49:48.233Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "21d5501a-30a1-4b31-a2fb-5c8ed02f3808",
+      "statement": "Long-form essays are a higher-productivity use of his effort than tweeting.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:49:48.501Z",
+      "last_updated": "2026-02-01T23:49:48.501Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "c37cfc1c-cc28-4c92-b103-add263956336",
+      "statement": "Yann LeCun is exceptionally intelligent and authoritative.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:50:08.578Z",
+      "last_updated": "2026-02-01T23:50:08.578Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "d32eb4bf-0f46-43d6-90ef-01994a898f88",
+      "statement": "LeCun is the most credible/smart critic of LLMs.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:50:08.819Z",
+      "last_updated": "2026-02-01T23:50:08.819Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "8f47d19a-34d8-490c-8dcb-4ae76cecfe18",
+      "statement": "LLMs may be a technological dead end (or there are serious arguments that they are).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:50:09.045Z",
+      "last_updated": "2026-02-01T23:50:09.045Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "822d5701-6bb4-4ed8-be0f-645026dc0038",
+      "statement": "Other prominent AI figures (“other two godfathers”) are ideologically extreme and overly pessimistic.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:50:09.234Z",
+      "last_updated": "2026-02-01T23:50:09.234Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "8ffc9e92-f4f5-41e3-95ce-953e4083f4de",
+      "statement": "The AI discourse benefits from having a strong counterbalance to doomer narratives.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:50:09.473Z",
+      "last_updated": "2026-02-01T23:50:09.473Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "f751371f-ec54-4082-a56e-9b1a0abfafa0",
+      "statement": "Stopping alcohol improves physical health.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:50:24.849Z",
+      "last_updated": "2026-02-01T23:50:24.849Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "40a305bf-42b8-48b4-a6cd-312538f27a89",
+      "statement": "Some health optimizations can reduce happiness/emotional health.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:50:25.082Z",
+      "last_updated": "2026-02-01T23:50:25.082Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "a721b784-13b9-42a0-b29a-3a4121dbfbd1",
+      "statement": "Sleep hygiene recommendations about natural light and blue screens are not worth following (at least for him).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:50:25.314Z",
+      "last_updated": "2026-02-01T23:50:25.314Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "a6b2c58a-ab3d-4a58-b7c0-d343d60f35d9",
+      "statement": "Being able to sleep after prolonged blue-screen exposure indicates toughness/masculinity.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:50:25.552Z",
+      "last_updated": "2026-02-01T23:50:25.552Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "0495357c-6e6d-4860-918f-09285efeeaf1",
+      "statement": "Overall health (as judged by Huberman) would be low despite some improvements.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:50:25.811Z",
+      "last_updated": "2026-02-01T23:50:25.811Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "376f9830-a08a-4594-a7fe-513dae22346c",
+      "statement": "Success is best defined as contribution to others.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:50:49.101Z",
+      "last_updated": "2026-02-01T23:50:49.101Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "66f0f3f0-7072-4202-ac88-a3e07a943665",
+      "statement": "Common notions of happiness are overrated or possibly illusory.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:50:49.461Z",
+      "last_updated": "2026-02-01T23:50:49.461Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "3df4c794-3246-4d6c-b93a-cc011b45f67e",
+      "statement": "The 'pursuit of happiness' should be understood as fulfillment/satisfaction, not pleasure.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:50:49.626Z",
+      "last_updated": "2026-02-01T23:50:49.626Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "2173dbfe-b320-4060-ac78-9e49d65d32b3",
+      "statement": "Pleasures lose their ability to satisfy when repeated.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:50:49.842Z",
+      "last_updated": "2026-02-01T23:50:49.842Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "5e85bd49-34df-4242-81d5-b3c98e079588",
+      "statement": "Many societal/personal problems stem from inability to be alone with oneself.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:50:49.990Z",
+      "last_updated": "2026-02-01T23:50:49.990Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "f1ec69ac-8bf2-46e0-a0cf-e9526800d9c0",
+      "statement": "Self-evaluation against one’s own expectations is a productive state for creation.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:50:50.234Z",
+      "last_updated": "2026-02-01T23:50:50.234Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "6874a918-bab0-4c0e-8735-9b1f852892c5",
+      "statement": "People are more complicated than machines.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:51:17.413Z",
+      "last_updated": "2026-02-01T23:51:17.413Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "3e940639-7ecb-4356-8c6d-29316036440b",
+      "statement": "The universe is profoundly mysterious (e.g., 100B galaxies; ‘before the Big Bang’).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:51:17.544Z",
+      "last_updated": "2026-02-01T23:51:17.544Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "a21f14b3-858e-41f4-b6d6-10033afad5c4",
+      "statement": "Early Protestant Christianity conflicted with an engineer’s sense-making (at least at the time).",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:51:17.839Z",
+      "last_updated": "2026-02-01T23:51:17.839Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "82717392-250b-468c-9ae2-a1fbc9eff53c",
+      "statement": "Religion plays an important, now better-understood role in society.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:51:18.050Z",
+      "last_updated": "2026-02-01T23:51:18.050Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "18608abd-beef-480e-b2c4-717a526e655f",
+      "statement": "Without ‘real religion,’ people invent fake religions; these tend to go badly.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:51:18.274Z",
+      "last_updated": "2026-02-01T23:51:18.274Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "921c4ed4-a2c4-4cc6-9601-d6a23bc38611",
+      "statement": "Communism and Nazism functioned as political religions.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:51:18.610Z",
+      "last_updated": "2026-02-01T23:51:18.610Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "feb30af5-1e81-419a-92e1-3234d728feea",
+      "statement": "Nietzsche predicted that post-Christian substitute religions would cause mass death.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:51:18.894Z",
+      "last_updated": "2026-02-01T23:51:18.894Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "033a885e-3233-4f34-847f-878d0eed4224",
+      "statement": "The last decade has involved a religious frenzy; ‘woke’ is a full-scale religious frenzy.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:51:19.364Z",
+      "last_updated": "2026-02-01T23:51:19.364Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "4d5dab0b-8584-4738-b19a-85a709a46d75",
+      "statement": "‘Woke’ has many features of religion but lacks redemption/forgiveness, making it exceptionally dangerous.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:51:19.622Z",
+      "last_updated": "2026-02-01T23:51:19.622Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "267d9790-04ac-429d-9c51-efb70dc8f68e",
+      "statement": "Identity politics and environmentalism resemble rediscovered Indo-European/archaic religions.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:51:19.763Z",
+      "last_updated": "2026-02-01T23:51:19.763Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "97335bab-f0b4-4e19-8049-641553f269e8",
+      "statement": "There is a deep, persistent religious dimension in human psyche that cannot be dismissed.",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:51:20.065Z",
+      "last_updated": "2026-02-01T23:51:20.065Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "56143693-a3e5-49f5-bec1-5826610260dc",
+      "statement": "Intergalactic colonization is desirable/possible ‘in the fullness of time.’",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:51:20.185Z",
+      "last_updated": "2026-02-01T23:51:20.185Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "ec781f3f-b256-40b3-aa10-9267e65d9af2",
+      "statement": "Understanding the human psyche is valuable and admirable work",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:51:35.930Z",
+      "last_updated": "2026-02-01T23:51:35.930Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "342e5544-733e-4935-bbc2-452ec990161b",
+      "statement": "Recognizing one’s ignorance is a marker of knowledge (not its opposite)",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:51:36.373Z",
+      "last_updated": "2026-02-01T23:51:36.373Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
+    },
+    {
+      "id": "aedf5a18-1ef9-4aa7-9d64-d0b8b7d38f2c",
+      "statement": "Conversations can be effectively concluded with a distilled principle rather than extended debate",
+      "domain_tags": [],
+      "confidence": 0.5,
+      "first_stated": "2026-02-01T23:51:36.625Z",
+      "last_updated": "2026-02-01T23:51:36.625Z",
+      "source_refs": [
+        "/Users/jiayao/gitrepo/marc/data/formatted_transcript_lex_marc.md"
+      ]
     }
   ],
   "relationships": [
