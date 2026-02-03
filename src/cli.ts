@@ -6,14 +6,16 @@ import { LLMClient } from "./llm/client.js";
 import { FrameworkLibrary } from "./knowledge/frameworks.js";
 import { BeliefGraph } from "./knowledge/beliefs.js";
 import { AnalogyIndex } from "./knowledge/analogies.js";
+import { ReasoningTraceStore } from "./knowledge/traces.js";
 import { Orchestrator } from "./inference/orchestrator.js";
 import { loadCorpus, loadDocument } from "./ingestion/loader.js";
 import { segmentDocument } from "./ingestion/segmenter.js";
-import { extractFromSegment } from "./ingestion/extractor.js";
+import { extractFromSegment, extractReasoningTrace } from "./ingestion/extractor.js";
 
 const DEFAULT_FRAMEWORKS = "data/frameworks.json";
 const DEFAULT_BELIEFS = "data/beliefs.json";
 const DEFAULT_ANALOGIES = "data/analogies.json";
+const DEFAULT_TRACES = "data/reasoning_traces.json";
 const DEFAULT_CORPUS = "data/corpus";
 
 const program = new Command();
@@ -28,16 +30,24 @@ program
   .option("--frameworks <path>", "framework library JSON", DEFAULT_FRAMEWORKS)
   .option("--beliefs <path>", "belief graph JSON", DEFAULT_BELIEFS)
   .option("--analogies <path>", "analogy index JSON", DEFAULT_ANALOGIES)
+  .option("--traces <path>", "reasoning trace store JSON", DEFAULT_TRACES)
   .option("--no-llm", "skip LLM synthesis")
   .action(async (query, options) => {
     const llm = buildLLM(options.llm);
-    const [frameworks, beliefs, analogies] = await Promise.all([
+    const [frameworks, beliefs, analogies, traces] = await Promise.all([
       FrameworkLibrary.load(options.frameworks),
       BeliefGraph.load(options.beliefs),
       AnalogyIndex.load(options.analogies),
+      ReasoningTraceStore.load(options.traces),
     ]);
 
-    const orchestrator = new Orchestrator(llm, frameworks, beliefs, analogies);
+    const orchestrator = new Orchestrator(
+      llm,
+      frameworks,
+      beliefs,
+      analogies,
+      traces
+    );
     const result = await orchestrator.reason(query);
     console.log(JSON.stringify(result, null, 2));
   });
@@ -45,16 +55,22 @@ program
 program
   .command("extract")
   .argument("[path]", "file or directory to extract", DEFAULT_CORPUS)
+  .option("--frameworks <path>", "framework library JSON", DEFAULT_FRAMEWORKS)
   .option("--beliefs <path>", "belief graph JSON", DEFAULT_BELIEFS)
+  .option("--traces <path>", "reasoning trace store JSON", DEFAULT_TRACES)
   .option(
     "--method <method>",
     "segmentation method (paragraph|llm|markdown)",
     "paragraph"
   )
   .option("--update-beliefs", "merge extracted beliefs into belief graph")
+  .option("--extract-traces", "extract reasoning traces into trace store")
   .option("--no-llm", "skip LLM extraction")
   .action(async (targetPath, options) => {
     const llm = buildLLM(options.llm);
+    if (options.extractTraces && !llm) {
+      console.error("Trace extraction skipped: LLM disabled.");
+    }
     const absolutePath = path.resolve(targetPath);
     const stats = await import("fs").then((mod) =>
       mod.promises.stat(absolutePath)
@@ -66,6 +82,12 @@ program
     console.error(`Found ${docs.length} document(s) at ${absolutePath}`);
 
     const beliefGraph = await BeliefGraph.load(options.beliefs);
+    const frameworkLibrary = options.extractTraces
+      ? await FrameworkLibrary.load(options.frameworks)
+      : undefined;
+    const traceStore = options.extractTraces
+      ? await ReasoningTraceStore.load(options.traces)
+      : undefined;
     const extractions = [] as Array<Record<string, unknown>>;
 
     for (let i = 0; i < docs.length; i++) {
@@ -94,10 +116,34 @@ program
         const extracted = await extractFromSegment(segment, llm);
         process.stderr.write(`found ${extracted.beliefs.length} beliefs\n`);
 
+        let traceResult: Awaited<ReturnType<typeof extractReasoningTrace>> = null;
+        if (options.extractTraces) {
+          if (!llm || !frameworkLibrary || !traceStore) {
+            traceResult = null;
+          } else {
+            traceResult = await extractReasoningTrace(
+              segment,
+              llm,
+              frameworkLibrary,
+              beliefGraph
+            );
+            if (traceResult?.trace) {
+              await traceStore.addTrace(
+                {
+                  ...traceResult.trace,
+                  source_refs: [doc.path],
+                },
+                llm
+              );
+            }
+          }
+        }
+
         extractions.push({
           source: doc.path,
           segment: segment.text,
           extraction: extracted,
+          reasoning_trace: traceResult?.trace ?? null,
         });
 
         if (options.updateBeliefs) {
@@ -122,6 +168,11 @@ program
     if (options.updateBeliefs) {
       console.error("Saving belief graph...");
       await beliefGraph.save();
+    }
+
+    if (options.extractTraces && traceStore) {
+      console.error("Saving reasoning trace store...");
+      await traceStore.save();
     }
 
     console.error(`\nExtraction complete. Total ${extractions.length} segments processed.`);
@@ -170,20 +221,56 @@ program
   });
 
 program
+  .command("list-traces")
+  .option("--traces <path>", "reasoning trace store JSON", DEFAULT_TRACES)
+  .option("--framework <id>", "filter by framework id")
+  .option("--belief <id>", "filter by belief id")
+  .action(async (options) => {
+    const store = await ReasoningTraceStore.load(options.traces);
+    let traces = store.traces;
+    if (options.framework) {
+      traces = store.getByFramework(options.framework);
+    }
+    if (options.belief) {
+      traces = traces.filter((trace) =>
+        trace.beliefs_invoked.includes(options.belief)
+      );
+    }
+    const payload = traces.map((trace) => ({
+      id: trace.id,
+      input_context: trace.input_context,
+      conclusion: trace.conclusion,
+      frameworks: trace.framework_selection?.chosen ?? [],
+      beliefs_invoked: trace.beliefs_invoked,
+      confidence: trace.confidence,
+      extracted_at: trace.extracted_at,
+    }));
+    console.log(JSON.stringify(payload, null, 2));
+  });
+
+program
   .command("repl")
   .option("--frameworks <path>", "framework library JSON", DEFAULT_FRAMEWORKS)
   .option("--beliefs <path>", "belief graph JSON", DEFAULT_BELIEFS)
   .option("--analogies <path>", "analogy index JSON", DEFAULT_ANALOGIES)
+  .option("--traces <path>", "reasoning trace store JSON", DEFAULT_TRACES)
   .option("--no-llm", "skip LLM synthesis")
   .action(async (options) => {
     const llm = buildLLM(options.llm);
-    const [frameworks, beliefs, analogies] = await Promise.all([
+    const [frameworks, beliefs, analogies, traces] = await Promise.all([
       FrameworkLibrary.load(options.frameworks),
       BeliefGraph.load(options.beliefs),
       AnalogyIndex.load(options.analogies),
+      ReasoningTraceStore.load(options.traces),
     ]);
 
-    const orchestrator = new Orchestrator(llm, frameworks, beliefs, analogies);
+    const orchestrator = new Orchestrator(
+      llm,
+      frameworks,
+      beliefs,
+      analogies,
+      traces
+    );
     const rl = readline.createInterface({
       input: process.stdin,
       output: process.stdout,

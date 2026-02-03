@@ -3,6 +3,7 @@ import type { LLMClient } from "../llm/client.js";
 import type { FrameworkLibrary } from "../knowledge/frameworks.js";
 import type { BeliefGraph } from "../knowledge/beliefs.js";
 import type { AnalogyIndex } from "../knowledge/analogies.js";
+import type { ReasoningTraceStore } from "../knowledge/traces.js";
 import { selectFrameworks } from "./selector.js";
 import { resolveBeliefs } from "./resolver.js";
 
@@ -23,7 +24,8 @@ export class Orchestrator {
     private llm: LLMClient | undefined,
     private frameworks: FrameworkLibrary,
     private beliefs: BeliefGraph,
-    private analogies: AnalogyIndex
+    private analogies: AnalogyIndex,
+    private traces?: ReasoningTraceStore
   ) {}
 
   async reason(query: string): Promise<OrchestratorOutput> {
@@ -39,6 +41,9 @@ export class Orchestrator {
       this.llm,
       3
     );
+    const matchedTraces = this.traces
+      ? await this.traces.findSimilarTraces(query, this.llm, 3)
+      : [];
 
     if (!this.llm) {
       return OrchestratorSchema.parse({
@@ -76,13 +81,24 @@ export class Orchestrator {
       conditions_for_applicability: item.analogy.conditions_for_applicability,
     }));
 
+    const tracesPayload = matchedTraces.map((trace) => ({
+      input_context: trace.input_context,
+      frameworks: trace.framework_selection?.chosen ?? [],
+      beliefs_invoked: trace.beliefs_invoked,
+      synthesis_steps: trace.synthesis_steps,
+      conclusion: trace.conclusion,
+      confidence: trace.confidence,
+    }));
+
     const prompt = `You are reasoning about: ${query}\n\nSTEP 1: FRAMEWORK SELECTION\nChosen frameworks: ${JSON.stringify(
       frameworksPayload
     )}\n\nSTEP 2: BELIEF RETRIEVAL\nRelevant positions: ${JSON.stringify(
       beliefsPayload
-    )}\n\nSTEP 3: ANALOGY SEARCH\nHistorical patterns: ${JSON.stringify(
+    )}\n\nSTEP 3: EXAMPLE REASONING PATTERNS\nUse these as patterns to emulate (not as facts): ${JSON.stringify(
+      tracesPayload
+    )}\n\nSTEP 4: ANALOGY SEARCH\nHistorical patterns: ${JSON.stringify(
       analogiesPayload
-    )}\n\nSTEP 4: SYNTHESIS\nApply selected frameworks, incorporate beliefs, and use analogies if applicable.\n\nSTEP 5: CONFIDENCE & CAVEATS\nProvide caveats and what could change the conclusion.\n\nReturn JSON with these exact keys:
+    )}\n\nSTEP 5: SYNTHESIS\nApply selected frameworks, incorporate beliefs, and use analogies if applicable.\n\nSTEP 6: CONFIDENCE & CAVEATS\nProvide caveats and what could change the conclusion.\n\nReturn JSON with these exact keys:
 - answer (string): your reasoning answer
 - frameworks_used (array of strings): just the "name" field from each framework
 - beliefs_used (array of strings): just the "statement" field from each belief

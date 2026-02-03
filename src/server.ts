@@ -5,11 +5,13 @@ import { LLMClient } from "./llm/client.js";
 import { FrameworkLibrary } from "./knowledge/frameworks.js";
 import { BeliefGraph } from "./knowledge/beliefs.js";
 import { AnalogyIndex } from "./knowledge/analogies.js";
+import { ReasoningTraceStore } from "./knowledge/traces.js";
 import { Orchestrator } from "./inference/orchestrator.js";
 
 const DEFAULT_FRAMEWORKS = "data/frameworks.json";
 const DEFAULT_BELIEFS = "data/beliefs.json";
 const DEFAULT_ANALOGIES = "data/analogies.json";
+const DEFAULT_TRACES = "data/reasoning_traces.json";
 
 async function startServer() {
   const app = express();
@@ -19,14 +21,21 @@ async function startServer() {
   const port = process.env.PORT || 3001;
 
   console.log("Loading knowledge bases...");
-  const [frameworks, beliefs, analogies] = await Promise.all([
+  const [frameworks, beliefs, analogies, traces] = await Promise.all([
     FrameworkLibrary.load(DEFAULT_FRAMEWORKS),
     BeliefGraph.load(DEFAULT_BELIEFS),
     AnalogyIndex.load(DEFAULT_ANALOGIES),
+    ReasoningTraceStore.load(DEFAULT_TRACES),
   ]);
 
   const llm = new LLMClient();
-  const orchestrator = new Orchestrator(llm, frameworks, beliefs, analogies);
+  const orchestrator = new Orchestrator(
+    llm,
+    frameworks,
+    beliefs,
+    analogies,
+    traces
+  );
 
   app.post("/api/ask", async (req, res) => {
     try {
