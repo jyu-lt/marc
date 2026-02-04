@@ -2,6 +2,7 @@ import "dotenv/config";
 import { Command } from "commander";
 import path from "path";
 import readline from "readline";
+import { z } from "zod";
 import { LLMClient } from "./llm/client.js";
 import { FrameworkLibrary } from "./knowledge/frameworks.js";
 import { BeliefGraph } from "./knowledge/beliefs.js";
@@ -17,6 +18,28 @@ const DEFAULT_BELIEFS = "data/beliefs.json";
 const DEFAULT_ANALOGIES = "data/analogies.json";
 const DEFAULT_TRACES = "data/reasoning_traces.json";
 const DEFAULT_CORPUS = "data/corpus";
+const BELIEF_DOMAIN_TAXONOMY = [
+  "ai",
+  "regulation",
+  "markets",
+  "geopolitics",
+  "china",
+  "startups",
+  "media",
+  "culture",
+  "education",
+  "defense",
+  "economics",
+  "labor",
+  "venture",
+  "software",
+  "platforms",
+  "history",
+  "crypto",
+  "biotech",
+  "policy",
+  "tech",
+];
 
 const program = new Command();
 program
@@ -191,6 +214,111 @@ program
       domain_tags: node.domain_tags,
     }));
     console.log(JSON.stringify(payload, null, 2));
+  });
+
+program
+  .command("tag-beliefs")
+  .option("--beliefs <path>", "belief graph JSON", DEFAULT_BELIEFS)
+  .option("--dry-run", "preview tags without saving")
+  .option("--batch-size <size>", "beliefs per LLM request", "20")
+  .action(async (options) => {
+    const llm = buildLLM(true);
+    if (!llm) {
+      console.error("Tagging requires an LLM. Set OPENAI_API_KEY.");
+      process.exit(1);
+    }
+
+    const beliefGraph = await BeliefGraph.load(options.beliefs);
+    const untagged = beliefGraph.nodes.filter(
+      (node) => !Array.isArray(node.domain_tags) || node.domain_tags.length === 0
+    );
+
+    if (untagged.length === 0) {
+      console.error("All beliefs already have domain tags.");
+      return;
+    }
+
+    const batchSize = Math.max(1, Number.parseInt(options.batchSize, 10) || 20);
+    const taxonomySet = new Set(BELIEF_DOMAIN_TAXONOMY);
+    const resultsSchema = z.record(z.array(z.string()));
+    const failures: Array<{ id: string; statement: string; reason: string }> = [];
+    let updated = 0;
+
+    console.error(
+      `Tagging ${untagged.length} belief(s) in batches of ${batchSize}...`
+    );
+
+    for (let i = 0; i < untagged.length; i += batchSize) {
+      const batch = untagged.slice(i, i + batchSize);
+      const prompt = `Given this taxonomy:\n${BELIEF_DOMAIN_TAXONOMY.join(
+        ", "
+      )}\n\nFor each belief statement, assign 2-5 tags that best capture the domains. Use only tags from the taxonomy.\n\nBeliefs:\n${batch
+        .map((node, index) => `${index + 1}. "${node.statement}"`)
+        .join("\n")}\n\nReturn JSON: { "1": ["ai", "economics"], "2": ["regulation", "policy"], ... }`;
+
+      const response = await llm.generateJSON({
+        system:
+          "You label belief statements with domain tags from a fixed taxonomy.",
+        user: prompt,
+        schema: resultsSchema,
+      });
+
+      for (let j = 0; j < batch.length; j += 1) {
+        const node = batch[j];
+        const key = String(j + 1);
+        const rawTags = response[key];
+        if (!Array.isArray(rawTags)) {
+          failures.push({
+            id: node.id,
+            statement: node.statement,
+            reason: "missing tags",
+          });
+          continue;
+        }
+
+        const normalized = rawTags
+          .filter((tag) => typeof tag === "string")
+          .map((tag) => tag.trim().toLowerCase())
+          .filter((tag) => tag.length > 0);
+        const unique = Array.from(new Set(normalized));
+        const hasUnknown = unique.some((tag) => !taxonomySet.has(tag));
+        if (unique.length < 2 || unique.length > 5 || hasUnknown) {
+          failures.push({
+            id: node.id,
+            statement: node.statement,
+            reason: `invalid tags: ${JSON.stringify(unique)}`,
+          });
+          continue;
+        }
+
+        node.domain_tags = unique;
+        updated += 1;
+      }
+
+      console.error(
+        `Processed ${Math.min(i + batch.length, untagged.length)}/${
+          untagged.length
+        } beliefs`
+      );
+    }
+
+    if (failures.length > 0) {
+      console.error("Tagging failures:");
+      for (const failure of failures) {
+        console.error(`- ${failure.id}: ${failure.reason}`);
+      }
+    }
+
+    if (options.dryRun) {
+      console.error(
+        `Dry run complete. Would update ${updated}/${untagged.length} beliefs.`
+      );
+      return;
+    }
+
+    console.error(`Saving ${updated} updated belief(s)...`);
+    await beliefGraph.save();
+    console.error("Tagging complete.");
   });
 
 program

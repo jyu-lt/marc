@@ -150,7 +150,11 @@
     {
       "id": "826c4616-8136-4762-aee2-62d806d4e2ff",
       "statement": "AI is a central driver of near-term societal and economic change.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "economics",
+        "policy"
+      ],
       "confidence": 0.6,
       "first_stated": "2026-02-01T18:17:46.963Z",
       "last_updated": "2026-02-01T18:17:46.963Z",
@@ -161,7 +165,11 @@
     {
       "id": "41c4cc02-14cf-43b4-ba05-d9a0833e09f2",
       "statement": "Work and employment structures are likely to be materially affected by AI.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "labor",
+        "economics"
+      ],
       "confidence": 0.6,
       "first_stated": "2026-02-01T18:17:47.247Z",
       "last_updated": "2026-02-01T18:17:47.247Z",
@@ -172,7 +180,11 @@
     {
       "id": "400e704c-f21a-48cf-bfd8-7428381b3582",
       "statement": "The present era can be characterized as historically significant in relation to AI.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "history",
+        "culture"
+      ],
       "confidence": 0.6,
       "first_stated": "2026-02-01T18:17:47.506Z",
       "last_updated": "2026-02-01T18:17:47.506Z",
@@ -183,7 +195,11 @@
     {
       "id": "b59f4cf5-86cb-48a5-b5b3-1824dc8977cb",
       "statement": "Without AI, current economic outlook would be alarming due to demographic and productivity pressures",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "economics",
+        "labor"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:18:08.190Z",
       "last_updated": "2026-02-01T18:18:08.190Z",
@@ -194,7 +210,11 @@
     {
       "id": "2fed4292-aaae-40cb-89ff-cd1e660e5e02",
       "statement": "Technological progress has been unusually slow for ~50 years",
-      "domain_tags": [],
+      "domain_tags": [
+        "tech",
+        "economics",
+        "history"
+      ],
       "confidence": 0.6,
       "first_stated": "2026-02-01T18:18:08.470Z",
       "last_updated": "2026-02-01T18:18:08.470Z",
@@ -205,7 +225,11 @@
     {
       "id": "b7640297-e6eb-4977-8625-2133eb324141",
       "statement": "Population growth is declining and materially impacts economic dynamics",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "labor",
+        "policy"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:18:08.776Z",
       "last_updated": "2026-02-01T18:18:08.776Z",
@@ -216,7 +240,11 @@
     {
       "id": "72555c7c-1710-4535-a63b-d8316c7070ac",
       "statement": "AI and robotics are arriving at an opportune time relative to labor needs",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "labor",
+        "tech"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:18:08.960Z",
       "last_updated": "2026-02-01T18:18:08.960Z",
@@ -227,7 +255,11 @@
     {
       "id": "1ccc0d60-7e5b-4c5c-80e9-fcd896a3c5a0",
       "statement": "Human labor will become more valuable (premium) rather than cheaper in an AI future",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "labor",
+        "economics"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:18:09.328Z",
       "last_updated": "2026-02-01T18:18:09.328Z",
@@ -238,7 +270,11 @@
     {
       "id": "fd9fba33-0484-4895-b38c-1ace5cb7a151",
       "statement": "AI meaningfully increases the supply of ‘thought’/cognition from abundant raw materials",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "economics",
+        "tech"
+      ],
       "confidence": 0.6,
       "first_stated": "2026-02-01T18:18:09.513Z",
       "last_updated": "2026-02-01T18:18:09.513Z",
@@ -249,7 +285,11 @@
     {
       "id": "34c245af-6346-4e07-9a5c-8a92167d30fa",
       "statement": "We are living through a very historic time",
-      "domain_tags": [],
+      "domain_tags": [
+        "history",
+        "culture",
+        "geopolitics"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:18:37.525Z",
       "last_updated": "2026-02-01T18:18:37.525Z",
@@ -260,7 +300,11 @@
     {
       "id": "048c0dce-d964-4911-9bf0-a6d1ae5e7b50",
       "statement": "Trust in legacy institutions globally is in full-scale collapse",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "geopolitics",
+        "culture"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:18:37.795Z",
       "last_updated": "2026-02-01T18:18:37.795Z",
@@ -271,7 +315,11 @@
     {
       "id": "8caa1b4d-4f16-4a52-bf5c-8665ec5ad7c8",
       "statement": "Public discourse has been liberated with a revolution in freedom of speech/thought",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "platforms",
+        "culture"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:18:38.126Z",
       "last_updated": "2026-02-01T18:18:38.126Z",
@@ -282,7 +330,11 @@
     {
       "id": "e9a5b7f6-f452-42f8-807a-a31dcfb4bf1d",
       "statement": "The expansion of discourse is effectively irreversible",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "platforms",
+        "policy"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:18:38.355Z",
       "last_updated": "2026-02-01T18:18:38.355Z",
@@ -293,7 +345,11 @@
     {
       "id": "8cd71028-a1a2-4277-82c8-29e309b1ad41",
       "statement": "Massive geopolitical shifts are occurring across multiple regions (US, Europe, China, Latin America)",
-      "domain_tags": [],
+      "domain_tags": [
+        "geopolitics",
+        "china",
+        "economics"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:18:38.626Z",
       "last_updated": "2026-02-01T18:18:38.626Z",
@@ -304,7 +360,12 @@
     {
       "id": "bc6e482d-d2c4-4de7-9774-a3d5c98b3bb8",
       "statement": "AI will be a major technology affecting countries and industries",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "economics",
+        "markets",
+        "policy"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:18:38.858Z",
       "last_updated": "2026-02-01T18:18:38.858Z",
@@ -315,7 +376,13 @@
     {
       "id": "01661d5c-eaa0-456b-a74e-d5cfefd6257c",
       "statement": "Three megatrends (institutional trust collapse, discourse liberation, geopolitical shifts/AI upheaval) are colliding simultaneously",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "geopolitics",
+        "media",
+        "policy",
+        "culture"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:18:39.143Z",
       "last_updated": "2026-02-01T18:18:39.143Z",
@@ -326,7 +393,11 @@
     {
       "id": "2533903e-e026-4578-a112-9c3944997979",
       "statement": "We are at the very beginning of these shifts",
-      "domain_tags": [],
+      "domain_tags": [
+        "history",
+        "geopolitics",
+        "ai"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:18:39.435Z",
       "last_updated": "2026-02-01T18:18:39.435Z",
@@ -337,7 +408,11 @@
     {
       "id": "82b97f70-a1b2-48fa-b81f-ea6eb13c27ba",
       "statement": "The magnitude of the current shift is comparable to 1989 Berlin Wall fall or end of WWII",
-      "domain_tags": [],
+      "domain_tags": [
+        "history",
+        "geopolitics",
+        "defense"
+      ],
       "confidence": 0.6,
       "first_stated": "2026-02-01T18:18:39.892Z",
       "last_updated": "2026-02-01T18:18:39.892Z",
@@ -348,7 +423,11 @@
     {
       "id": "bdea9ea0-7372-4d9e-be11-e01e84835b91",
       "statement": "2026 will exceed 2025 in significance/interest",
-      "domain_tags": [],
+      "domain_tags": [
+        "history",
+        "geopolitics",
+        "ai"
+      ],
       "confidence": 0.6,
       "first_stated": "2026-02-01T18:18:40.233Z",
       "last_updated": "2026-02-01T18:18:40.233Z",
@@ -359,7 +438,11 @@
     {
       "id": "e197d5cf-c944-4e1d-8cb9-9883a10d00e1",
       "statement": "AI will broadly raise the average performance of knowledge workers.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "labor",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:19:54.093Z",
       "last_updated": "2026-02-01T18:19:54.093Z",
@@ -370,7 +453,12 @@
     {
       "id": "a725a2da-fb2c-4ba5-b409-ae726b500cea",
       "statement": "AI creates increasing returns for top talent (winner-take-more dynamics).",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "economics",
+        "labor",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:19:54.342Z",
       "last_updated": "2026-02-01T18:19:54.342Z",
@@ -381,7 +469,12 @@
     {
       "id": "297b9c24-7d87-40f2-b2cf-3cd70375773a",
       "statement": "Coding is an early, clear example of AI-driven productivity multipliers.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "economics",
+        "labor"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:19:54.706Z",
       "last_updated": "2026-02-01T18:19:54.706Z",
@@ -392,7 +485,11 @@
     {
       "id": "c12d0aac-9060-49b5-a11c-6876417d20d3",
       "statement": "Parents should aim to develop kids into ‘superpowered individuals’ via depth + AI leverage.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "education",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:19:54.948Z",
       "last_updated": "2026-02-01T18:19:54.948Z",
@@ -403,7 +500,11 @@
     {
       "id": "f81b9487-b58b-49a8-ae4a-966ecc698579",
       "statement": "Modern culture/schools overemphasize rule-following, reducing agency/initiative.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "education",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:19:55.202Z",
       "last_updated": "2026-02-01T18:19:55.202Z",
@@ -414,7 +515,11 @@
     {
       "id": "deaf2493-bf49-4e5b-b547-fe2f00045336",
       "statement": "Agency (initiative) is valuable and has been culturally diminished over ~30 years.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "labor",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:19:55.399Z",
       "last_updated": "2026-02-01T18:19:55.399Z",
@@ -425,7 +530,11 @@
     {
       "id": "c4e0e073-af5a-4f26-9349-bfee883e3391",
       "statement": "Some obedience/structure is necessary for leadership development.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "education",
+        "labor"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:19:55.753Z",
       "last_updated": "2026-02-01T18:19:55.753Z",
@@ -436,7 +545,12 @@
     {
       "id": "14d3f893-4ea1-4591-ac33-89916e1270d7",
       "statement": "AI enables individuals with agency to participate meaningfully across many domains (science, art, writing).",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "labor",
+        "culture",
+        "media"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:19:55.914Z",
       "last_updated": "2026-02-01T18:19:55.914Z",
@@ -447,7 +561,12 @@
     {
       "id": "debc1c12-8464-4e52-a024-47d72bd741aa",
       "statement": "AI is a historically significant transformation comparable to a ‘philosopher’s stone’—turning common inputs into rare cognitive value.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "history",
+        "economics",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:19:56.195Z",
       "last_updated": "2026-02-01T18:19:56.195Z",
@@ -458,7 +577,12 @@
     {
       "id": "4aca75bc-9b9d-4702-9b40-90a951c52170",
       "statement": "AI is already good at coding, design, and product management (at least many tasks within them).",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "startups",
+        "platforms"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:20:54.161Z",
       "last_updated": "2026-02-01T18:20:54.161Z",
@@ -469,7 +593,12 @@
     {
       "id": "59f5edc9-52c6-45c7-8859-472e890ff0e0",
       "statement": "Role boundaries between PM/engineering/design will blur; individuals will increasingly span multiple roles.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "labor",
+        "startups"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:20:54.431Z",
       "last_updated": "2026-02-01T18:20:54.431Z",
@@ -480,7 +609,12 @@
     {
       "id": "9c90bc7f-7699-4b6a-9954-e3b2bc7e5bc7",
       "statement": "The most valuable people will be those who can build and design products from scratch by orchestrating AI.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "startups",
+        "software",
+        "venture"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:20:54.714Z",
       "last_updated": "2026-02-01T18:20:54.714Z",
@@ -491,7 +625,12 @@
     {
       "id": "2e0f55df-bdb7-491e-98ce-fda2f876f7ff",
       "statement": "Jobs will persist longer than tasks; disruption should be analyzed at task level.",
-      "domain_tags": [],
+      "domain_tags": [
+        "labor",
+        "economics",
+        "ai",
+        "markets"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:20:54.868Z",
       "last_updated": "2026-02-01T18:20:54.868Z",
@@ -502,7 +641,11 @@
     {
       "id": "dab9f432-e2fe-4b05-917e-6362f68afeff",
       "statement": "Programming will shift from writing code to supervising/orchestrating AI code generation, but humans remain in the loop.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "labor"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:20:55.144Z",
       "last_updated": "2026-02-01T18:20:55.144Z",
@@ -513,7 +656,12 @@
     {
       "id": "855c45fd-4efd-43fc-8cf5-f34fe4ff54f8",
       "statement": "Learning to code remains valuable, especially for top-tier performance, because it enables evaluation and deeper leverage with AI.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "education",
+        "labor"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:20:55.444Z",
       "last_updated": "2026-02-01T18:20:55.444Z",
@@ -524,7 +672,12 @@
     {
       "id": "7cd28289-e3ad-4239-af07-490c7e3a80a5",
       "statement": "Mediocre work will be commoditized; AI will generate infinite mediocre code.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "markets",
+        "economics"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:20:55.741Z",
       "last_updated": "2026-02-01T18:20:55.741Z",
@@ -535,7 +688,12 @@
     {
       "id": "5c1cb783-799f-41e5-9614-de60b6fde10c",
       "statement": "Taste/high-level design judgment will become a central differentiator for designers as low-level execution becomes automated.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "culture",
+        "markets"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:20:56.108Z",
       "last_updated": "2026-02-01T18:20:56.108Z",
@@ -546,7 +704,12 @@
     {
       "id": "ca18e242-6a03-4a9c-9117-e20993f842f6",
       "statement": "Skill complementarities are superlinear; being good at multiple domains yields outsized impact.",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "labor",
+        "education",
+        "culture"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:20:56.340Z",
       "last_updated": "2026-02-01T18:20:56.340Z",
@@ -557,7 +720,12 @@
     {
       "id": "41801464-61c1-44ca-b39c-54f9283bfd04",
       "statement": "AI dramatically increases the feasibility of becoming non-fungible through multi-skill development.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "labor",
+        "economics",
+        "education"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:20:56.656Z",
       "last_updated": "2026-02-01T18:20:56.656Z",
@@ -568,7 +736,11 @@
     {
       "id": "c12802b9-cea6-43e1-9317-2a652bed12b0",
       "statement": "AI is uniquely powerful as a teaching technology; people underutilize it as a tutor.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "education",
+        "policy"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:20:56.940Z",
       "last_updated": "2026-02-01T18:20:56.940Z",
@@ -579,7 +751,12 @@
     {
       "id": "fee0fdbb-e144-4769-b084-7ef1697f7bd9",
       "statement": "Understanding AI's internal workings increases productivity and value extraction.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "education",
+        "economics"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T18:20:57.236Z",
       "last_updated": "2026-02-01T18:20:57.236Z",
@@ -590,7 +767,11 @@
     {
       "id": "40f919b0-a9b9-4ded-a695-b805297b6e51",
       "statement": "The described dynamic is generalizable across industries (e.g., Hollywood).",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "media",
+        "culture"
+      ],
       "confidence": 0.6,
       "first_stated": "2026-02-01T18:20:57.481Z",
       "last_updated": "2026-02-01T18:20:57.481Z",
@@ -601,7 +782,11 @@
     {
       "id": "8a2eb497-80b2-41f9-8a53-27a38fb96f73",
       "statement": "AI is a technology transition on the scale of major prior shifts (internet/iPhone/PC).",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:21:45.744Z",
       "last_updated": "2026-02-01T18:21:45.744Z",
@@ -612,7 +797,12 @@
     {
       "id": "61b97ece-ce50-4f94-835d-ccf0a570089d",
       "statement": "AI may either augment existing products or replace entire categories; many categories will be reinvented.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "software",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:21:46.071Z",
       "last_updated": "2026-02-01T18:21:46.071Z",
@@ -623,7 +813,12 @@
     {
       "id": "e411294c-5600-4b96-b065-d341b6a262e2",
       "statement": "The best founders are actively designing for AI-driven category reinvention.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "startups",
+        "venture",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:21:46.309Z",
       "last_updated": "2026-02-01T18:21:46.309Z",
@@ -634,7 +829,12 @@
     {
       "id": "6fc89f2f-ad11-4163-bad9-1b48582c1618",
       "statement": "AI will materially change software labor economics and productivity expectations.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "labor",
+        "economics",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:21:46.483Z",
       "last_updated": "2026-02-01T18:21:46.483Z",
@@ -645,7 +845,11 @@
     {
       "id": "fb3d2f27-b386-4bc7-a101-85cd16b07353",
       "statement": "The most consequential change may be organizational: the definition of a company may change.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:21:46.619Z",
       "last_updated": "2026-02-01T18:21:46.619Z",
@@ -656,7 +860,11 @@
     {
       "id": "ac65581a-2351-4526-8310-6c6c65c5a76d",
       "statement": "Founder-overseeing-agent-army companies are plausible, especially in software.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "startups",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:21:46.962Z",
       "last_updated": "2026-02-01T18:21:46.962Z",
@@ -667,7 +875,12 @@
     {
       "id": "adae8a1c-fed1-4a97-849a-a2f528a3df7d",
       "statement": "Fully autonomous AI businesses (possibly on blockchain) are an extreme but pursued frontier.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "crypto",
+        "startups",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:21:47.233Z",
       "last_updated": "2026-02-01T18:21:47.233Z",
@@ -678,7 +891,11 @@
     {
       "id": "e522ade2-414a-4ae7-8c48-7d67f9af7f36",
       "statement": "True one-person billion-dollar companies are hard because of operational edge cases, even with AI.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "startups",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:21:47.670Z",
       "last_updated": "2026-02-01T18:21:47.670Z",
@@ -689,7 +906,12 @@
     {
       "id": "a73d4aac-8677-45cc-9882-2dc73d677163",
       "statement": "There are rare precedents for tiny-team massive outcomes (Bitcoin, Ethereum, Instagram, WhatsApp), though definitions are fuzzy.",
-      "domain_tags": [],
+      "domain_tags": [
+        "crypto",
+        "startups",
+        "venture",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:21:47.861Z",
       "last_updated": "2026-02-01T18:21:47.861Z",
@@ -700,7 +922,11 @@
     {
       "id": "0425b0f7-2145-48fb-9289-ab5060dc3bef",
       "statement": "The topic is unsettled; smart people are exploring without definitive answers.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:21:48.161Z",
       "last_updated": "2026-02-01T18:21:48.161Z",
@@ -711,7 +937,11 @@
     {
       "id": "f627bcdd-ef43-4123-9684-0c088e3a81de",
       "statement": "Major technological transformations unfold slowly and in multiple cascading layers.",
-      "domain_tags": [],
+      "domain_tags": [
+        "tech",
+        "history",
+        "ai"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:22:24.567Z",
       "last_updated": "2026-02-01T18:22:24.567Z",
@@ -722,7 +952,11 @@
     {
       "id": "3b627e07-9117-4987-9393-8c7253428e06",
       "statement": "Early public predictions about industry structure and moats are usually wrong.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "history",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:22:24.751Z",
       "last_updated": "2026-02-01T18:22:24.751Z",
@@ -733,7 +967,11 @@
     {
       "id": "1bd40a2a-456f-4f06-9883-f7b28affc48a",
       "statement": "AI outcomes (moats, winners, where value accrues) are currently indeterminate.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:22:25.003Z",
       "last_updated": "2026-02-01T18:22:25.003Z",
@@ -744,7 +982,11 @@
     {
       "id": "9083a598-7622-47bb-b04f-267c4e57448c",
       "statement": "AI model defensibility is ambiguous: plausible oligopoly case vs fast commoditization case.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:22:25.269Z",
       "last_updated": "2026-02-01T18:22:25.269Z",
@@ -755,7 +997,12 @@
     {
       "id": "fe512ef3-2683-458e-a5c7-350fa35ed4f6",
       "statement": "Open source and global competition can rapidly erode perceived moats in models.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "markets",
+        "geopolitics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:22:25.412Z",
       "last_updated": "2026-02-01T18:22:25.412Z",
@@ -766,7 +1013,12 @@
     {
       "id": "ff0108b2-f8ca-4d8c-ae0b-c091ccfcde5c",
       "statement": "Application-layer value may grow if domain adaptation and fit-for-purpose constraints matter.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "markets",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:22:25.559Z",
       "last_updated": "2026-02-01T18:22:25.559Z",
@@ -777,7 +1029,11 @@
     {
       "id": "f55a14ba-3ad9-46fa-83cd-9f3293fdedda",
       "statement": "Media incentives amplify overconfident narratives, not nuanced uncertainty.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "culture",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:22:25.760Z",
       "last_updated": "2026-02-01T18:22:25.760Z",
@@ -788,7 +1044,11 @@
     {
       "id": "d8a6cb55-9281-4bba-a22e-a8db2e03fb2a",
       "statement": "There may be few proprietary secrets among major labs; knowledge is largely shared/replicated.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "geopolitics",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:22:26.018Z",
       "last_updated": "2026-02-01T18:22:26.018Z",
@@ -799,7 +1059,11 @@
     {
       "id": "248eeca3-59c2-4c59-895b-68a79f97e743",
       "statement": "Breakthrough ideas might still exist inside labs and could be harder to replicate.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:22:26.284Z",
       "last_updated": "2026-02-01T18:22:26.284Z",
@@ -810,7 +1074,11 @@
     {
       "id": "2d30d430-e806-4766-977f-783de7062516",
       "statement": "VC posture should be indeterminate optimism (portfolio bets); founder posture should be determinate optimism (single plan).",
-      "domain_tags": [],
+      "domain_tags": [
+        "venture",
+        "startups",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:22:26.585Z",
       "last_updated": "2026-02-01T18:22:26.585Z",
@@ -821,7 +1089,11 @@
     {
       "id": "b53c45ce-995c-4fc1-a365-3a9bfe36fc16",
       "statement": "Credit and historical memory accrue primarily to builders/founders, not investors.",
-      "domain_tags": [],
+      "domain_tags": [
+        "venture",
+        "startups",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:22:26.815Z",
       "last_updated": "2026-02-01T18:22:26.815Z",
@@ -832,7 +1104,11 @@
     {
       "id": "c8615d28-6551-4ff0-be7c-b24505fc2d77",
       "statement": "The 'cosmic' singularity-style AGI world is unlikely for us to experience",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:05.902Z",
       "last_updated": "2026-02-01T18:23:05.902Z",
@@ -843,7 +1119,11 @@
     {
       "id": "e925e115-f8ae-417c-bace-33691298ba14",
       "statement": "The industry's prosaic 'economically relevant tasks' definition of AGI is reductive",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "policy",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:06.145Z",
       "last_updated": "2026-02-01T18:23:06.145Z",
@@ -854,7 +1134,11 @@
     {
       "id": "5d904ec5-2c3f-4eb4-a97b-31e830c7fe42",
       "statement": "Human capability is capped by biology; human level should not anchor expectations",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "biotech",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:06.380Z",
       "last_updated": "2026-02-01T18:23:06.380Z",
@@ -865,7 +1149,11 @@
     {
       "id": "181e1720-f0db-4392-8d4d-5bd0dbcf063d",
       "statement": "There is no principled upper bound analogous to human IQ once biology is removed",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "biotech",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:06.657Z",
       "last_updated": "2026-02-01T18:23:06.657Z",
@@ -876,7 +1164,11 @@
     {
       "id": "7cfa6b42-853d-44de-9dd3-8f5d21e4689d",
       "statement": "Current AI models are around ~130–140 on IQ-like tests and will reach/exceed 160",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:07.001Z",
       "last_updated": "2026-02-01T18:23:07.001Z",
@@ -887,7 +1179,11 @@
     {
       "id": "82f87f83-9ad4-4ea6-a7c4-f49d072efcde",
       "statement": "AI will likely exceed human IQ substantially (e.g., 180–300)",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:07.267Z",
       "last_updated": "2026-02-01T18:23:07.267Z",
@@ -898,7 +1194,11 @@
     {
       "id": "34aab3fc-2c7b-47c3-8963-ee7ccbd086f2",
       "statement": "A world with many Einstein-level (or higher) intelligences is better",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "culture",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:07.391Z",
       "last_updated": "2026-02-01T18:23:07.391Z",
@@ -909,7 +1209,12 @@
     {
       "id": "e21d63df-a2ff-48ea-abbc-2c565776963a",
       "statement": "AI will surpass top humans in specific professions (coding, medicine, law)",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "labor",
+        "economics",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:07.900Z",
       "last_updated": "2026-02-01T18:23:07.900Z",
@@ -920,7 +1225,11 @@
     {
       "id": "020cb0f0-b659-493d-af6e-4bb929f95a01",
       "statement": "The key societal question is what to do with superhuman capability, not the moment of parity",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "policy",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:08.123Z",
       "last_updated": "2026-02-01T18:23:08.123Z",
@@ -931,7 +1240,11 @@
     {
       "id": "145ff28a-bf6c-46e1-ab5a-ee3814334fef",
       "statement": "Humans experience persistent cognitive frustration; removing limitations via machines is highly exciting/valuable",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "culture",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:08.366Z",
       "last_updated": "2026-02-01T18:23:08.366Z",
@@ -942,7 +1255,11 @@
     {
       "id": "d768f5e8-2561-430b-a273-68f203fa4b21",
       "statement": "Mid-tier contemporary media (weekly/monthly commentary) is often misleading and not worth attention.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "culture",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:56.556Z",
       "last_updated": "2026-02-01T18:23:56.556Z",
@@ -953,7 +1270,11 @@
     {
       "id": "3a26fbd1-746d-4b61-99db-f96f7218453e",
       "statement": "Old books contain durable insights that remain relevant.",
-      "domain_tags": [],
+      "domain_tags": [
+        "history",
+        "culture",
+        "education"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:56.799Z",
       "last_updated": "2026-02-01T18:23:56.799Z",
@@ -964,7 +1285,11 @@
     {
       "id": "cc1bef52-5909-4ed3-b481-f2f5d7778491",
       "statement": "Most short-term news predictions fail and create regretful consumption.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "markets",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:57.010Z",
       "last_updated": "2026-02-01T18:23:57.010Z",
@@ -975,7 +1300,11 @@
     {
       "id": "bcee4f19-78e9-4cef-9e09-8a492dec8209",
       "statement": "Direct access to expert practitioners is undervalued and highly informative.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "education",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:57.316Z",
       "last_updated": "2026-02-01T18:23:57.316Z",
@@ -986,7 +1315,11 @@
     {
       "id": "4eb0d0ab-7b8c-4545-85d2-27925f514f79",
       "statement": "New media formats (podcasts/newsletters/Substack) enable beneficial disintermediation.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "platforms",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:57.555Z",
       "last_updated": "2026-02-01T18:23:57.555Z",
@@ -997,7 +1330,11 @@
     {
       "id": "69cfd9b5-b9ad-48a8-83a3-68edad464e08",
       "statement": "Experts are motivated to explain because it is intrinsically satisfying and reputationally rewarding.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "media",
+        "education"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:57.798Z",
       "last_updated": "2026-02-01T18:23:57.798Z",
@@ -1008,7 +1345,12 @@
     {
       "id": "7b21060a-b889-4882-9ec0-4b5b4a0375d7",
       "statement": "Silicon Valley’s openness causes tradeoffs: it leaks secrets but accelerates ecosystem learning and adaptation.",
-      "domain_tags": [],
+      "domain_tags": [
+        "startups",
+        "tech",
+        "culture",
+        "geopolitics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:57.922Z",
       "last_updated": "2026-02-01T18:23:57.922Z",
@@ -1019,7 +1361,12 @@
     {
       "id": "f50fd2fb-fbd7-48bd-9aa8-4fb701e98982",
       "statement": "Silicon Valley repeatedly reinvents itself across tech waves due to ecosystem flexibility rather than central planning.",
-      "domain_tags": [],
+      "domain_tags": [
+        "startups",
+        "tech",
+        "markets",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:58.100Z",
       "last_updated": "2026-02-01T18:23:58.100Z",
@@ -1030,7 +1377,11 @@
     {
       "id": "a483d9a5-d381-46ef-901b-03067cd8737a",
       "statement": "The 2020s are characterized by an online-mediated experience of real-world events; capturing this is artistically difficult but important.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "culture",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:58.387Z",
       "last_updated": "2026-02-01T18:23:58.387Z",
@@ -1041,7 +1392,12 @@
     {
       "id": "6ae0ba53-5edc-4125-a4dd-28860a33157a",
       "statement": "AI voice experiences and wearables are poised for major adoption and cultural impact.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "culture",
+        "platforms"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:59.285Z",
       "last_updated": "2026-02-01T18:23:59.285Z",
@@ -1052,7 +1408,11 @@
     {
       "id": "056f8490-bf99-4c61-aaa9-02bb277289bf",
       "statement": "Youth adoption/peer discovery drives what becomes ‘cool’ and signals authentic product pull.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "markets",
+        "platforms"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:23:59.612Z",
       "last_updated": "2026-02-01T18:23:59.612Z",
@@ -1063,7 +1423,10 @@
     {
       "id": "136b515e-601f-4055-a8d2-afa8a8200bf0",
       "statement": "External narrative/coverage can accurately convey the organization’s thinking better than internal explanation in some cases.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:24:11.003Z",
       "last_updated": "2026-02-01T18:24:11.003Z",
@@ -1074,7 +1437,10 @@
     {
       "id": "92403b0a-2e5b-4eb2-8e83-fddbfcd4884e",
       "statement": "Being featured by credible writers is partly luck-dependent.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:24:11.311Z",
       "last_updated": "2026-02-01T18:24:11.311Z",
@@ -1085,7 +1451,11 @@
     {
       "id": "2c26389b-0be0-4503-a442-9bdb514d11c5",
       "statement": "Owned content channels (YouTube) are valuable and worth significant investment.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "platforms",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:24:11.555Z",
       "last_updated": "2026-02-01T18:24:11.555Z",
@@ -1096,7 +1466,10 @@
     {
       "id": "d664b5ad-667d-4a67-9009-fabf2da57916",
       "statement": "Their content output is improving and will become more compelling soon.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T18:24:11.997Z",
       "last_updated": "2026-02-01T18:24:11.997Z",
@@ -1107,7 +1480,11 @@
     {
       "id": "f2f8add9-4cc6-4d5d-b860-8b905e23060d",
       "statement": "AI represents a historic-scale technological transition.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "history",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:54:04.915Z",
       "last_updated": "2026-02-01T21:54:04.915Z",
@@ -1118,7 +1495,11 @@
     {
       "id": "20824f13-9dfa-4f5a-8ee7-a2a6a47713b4",
       "statement": "AI will create (or reallocate) enormous economic value, plausibly at trillion-dollar scale.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "economics",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:54:05.178Z",
       "last_updated": "2026-02-01T21:54:05.178Z",
@@ -1129,7 +1510,12 @@
     {
       "id": "956f55d9-afa2-426b-aa9f-08ad94081a1c",
       "statement": "Markets and investment opportunities around AI are central and worth systematic analysis.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "venture",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:54:05.377Z",
       "last_updated": "2026-02-01T21:54:05.377Z",
@@ -1140,7 +1526,11 @@
     {
       "id": "2f8bc327-052b-43aa-b8fa-689e2199c1ea",
       "statement": "China is a key competitor in the AI arena and must be factored into strategy.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "china",
+        "geopolitics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:54:05.622Z",
       "last_updated": "2026-02-01T21:54:05.622Z",
@@ -1151,7 +1541,11 @@
     {
       "id": "24aeb494-8cdb-4c5a-98e5-2b00a7aaeb83",
       "statement": "Public policy and regulation will materially influence AI’s trajectory and winners/losers.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "policy",
+        "regulation"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:54:05.904Z",
       "last_updated": "2026-02-01T21:54:05.904Z",
@@ -1162,7 +1556,11 @@
     {
       "id": "b99f2e46-7d8c-4767-a784-f06596e2b833",
       "statement": "A diversified/multi-strategy investing posture is appropriate for capturing AI-driven opportunity.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "venture",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:54:06.176Z",
       "last_updated": "2026-02-01T21:54:06.176Z",
@@ -1173,7 +1571,11 @@
     {
       "id": "55186f14-e362-4baa-a7f1-fb26ac0ec890",
       "statement": "AI is the largest technological revolution of the speaker’s lifetime and larger than the internet.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "history",
+        "tech"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T21:54:36.354Z",
       "last_updated": "2026-02-01T21:54:36.354Z",
@@ -1184,7 +1586,12 @@
     {
       "id": "c43276b2-4989-4610-9514-90b82b4c7a1a",
       "statement": "AI is comparable in magnitude to foundational general-purpose technologies.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "history",
+        "tech",
+        "economics"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T21:54:36.610Z",
       "last_updated": "2026-02-01T21:54:36.610Z",
@@ -1195,7 +1602,11 @@
     {
       "id": "f6e27bf2-07dc-4433-b946-682fc55dfcd9",
       "statement": "The computing industry largely followed a ‘cash register/calculating machine’ paradigm focused on literal computation.",
-      "domain_tags": [],
+      "domain_tags": [
+        "software",
+        "tech",
+        "history"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T21:54:36.731Z",
       "last_updated": "2026-02-01T21:54:36.731Z",
@@ -1206,7 +1617,11 @@
     {
       "id": "694ae07d-ea30-45f6-a172-4bdc9ad6fba4",
       "statement": "That paradigm was poor at human-facing interaction (language/speech), which is central to computing’s next leap.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "tech"
+      ],
       "confidence": 0.6,
       "first_stated": "2026-02-01T21:54:36.970Z",
       "last_updated": "2026-02-01T21:54:36.970Z",
@@ -1217,7 +1632,11 @@
     {
       "id": "757b7610-8cec-4f1b-baca-405b656368e0",
       "statement": "Neural-network/cognition-inspired computing was understood conceptually early (1930s–1940s) but was not the dominant path.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "history",
+        "tech"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T21:54:37.109Z",
       "last_updated": "2026-02-01T21:54:37.109Z",
@@ -1228,7 +1647,11 @@
     {
       "id": "89bc5eba-c9ed-46d0-b477-ab423ddaf077",
       "statement": "AI research underperformed for decades, producing repeated disappointment and skepticism.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "history",
+        "tech"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T21:54:37.359Z",
       "last_updated": "2026-02-01T21:54:37.359Z",
@@ -1239,7 +1662,11 @@
     {
       "id": "4e20dcc8-79f8-40c3-9cff-01846b6adc63",
       "statement": "Despite skepticism, accumulated AI research created the basis for the current breakthrough.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "history",
+        "tech"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T21:54:37.565Z",
       "last_updated": "2026-02-01T21:54:37.565Z",
@@ -1250,7 +1677,10 @@
     {
       "id": "32c3067f-afe2-4eb9-9ef2-c0e24bd0b92a",
       "statement": "ChatGPT (late 2022) marked a clear inflection point proving the approach works.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T21:54:37.884Z",
       "last_updated": "2026-02-01T21:54:37.884Z",
@@ -1261,7 +1691,11 @@
     {
       "id": "ad624f40-c6c2-40af-bf8c-9d13e5a544a6",
       "statement": "We are in the early years of an ‘80-year revolution’ finally delivering on its original promise.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "history",
+        "tech"
+      ],
       "confidence": 0.8,
       "first_stated": "2026-02-01T21:54:38.174Z",
       "last_updated": "2026-02-01T21:54:38.174Z",
@@ -1272,7 +1706,11 @@
     {
       "id": "1ac6fe4d-c4d3-46f7-9afd-7f9c59a76dda",
       "statement": "Frontier AI capabilities are widely accessible to consumers.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "platforms"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:05.984Z",
       "last_updated": "2026-02-01T21:55:05.984Z",
@@ -1283,7 +1721,11 @@
     {
       "id": "a234655f-ae7b-4602-b8a3-b4146fa221d6",
       "statement": "Silicon Valley reliably amplifies new technology waves through talent and capital recycling.",
-      "domain_tags": [],
+      "domain_tags": [
+        "startups",
+        "venture",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:06.516Z",
       "last_updated": "2026-02-01T21:55:06.516Z",
@@ -1294,7 +1736,11 @@
     {
       "id": "004fcd76-83dc-437c-a8c4-300afa880e3f",
       "statement": "The pace of AI research progress is exceptionally fast and frequently surprising.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:06.720Z",
       "last_updated": "2026-02-01T21:55:06.720Z",
@@ -1305,7 +1751,11 @@
     {
       "id": "ed66b707-b96d-4fa8-91e9-d29f44f3b53c",
       "statement": "Product and startup formation is accelerating and impressive.",
-      "domain_tags": [],
+      "domain_tags": [
+        "startups",
+        "venture",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:07.020Z",
       "last_updated": "2026-02-01T21:55:07.020Z",
@@ -1316,7 +1766,11 @@
     {
       "id": "f79f682f-103e-4491-a96e-ba15dfc23fc1",
       "statement": "The industry will experience overhype and periodic disappointments, including cost constraints.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "economics",
+        "ai"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:07.314Z",
       "last_updated": "2026-02-01T21:55:07.314Z",
@@ -1327,7 +1781,11 @@
     {
       "id": "132ebc63-2a40-44e4-a718-4bcca0a4b9f4",
       "statement": "Despite fluctuations, current AI capabilities deliver ‘magical’ experiences for consumers and businesses.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:07.499Z",
       "last_updated": "2026-02-01T21:55:07.499Z",
@@ -1338,7 +1796,11 @@
     {
       "id": "fe560d78-0f7b-444b-92d6-2271050fabef",
       "statement": "AI companies are achieving unprecedented revenue growth rates, indicating real demand.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:07.770Z",
       "last_updated": "2026-02-01T21:55:07.770Z",
@@ -1349,7 +1811,11 @@
     {
       "id": "628ad6bb-f609-496d-ab14-6049da7ebd21",
       "statement": "The market/technology cycle is still in early innings.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "ai",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:08.046Z",
       "last_updated": "2026-02-01T21:55:08.046Z",
@@ -1360,7 +1826,11 @@
     {
       "id": "9521804c-f4b6-4fbd-bded-72933eff2041",
       "statement": "AI business models largely cluster into consumer and enterprise/infrastructure.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:42.380Z",
       "last_updated": "2026-02-01T21:55:42.380Z",
@@ -1371,7 +1841,11 @@
     {
       "id": "34598fd2-c552-4a9e-95b5-2a1315eaed8b",
       "statement": "The internet is fully deployed enough to enable extremely rapid global AI diffusion.",
-      "domain_tags": [],
+      "domain_tags": [
+        "platforms",
+        "tech",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:42.557Z",
       "last_updated": "2026-02-01T21:55:42.557Z",
@@ -1382,7 +1856,11 @@
     {
       "id": "9ad15b84-dd7d-44df-984b-ec96a41401d2",
       "statement": "AI will proliferate faster than prior general-purpose technologies because it is downloadable.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "platforms"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:42.726Z",
       "last_updated": "2026-02-01T21:55:42.726Z",
@@ -1393,7 +1871,11 @@
     {
       "id": "679d75fe-798d-4cc0-b2ed-2bc590cc407f",
       "statement": "Consumer AI killer apps are growing and monetizing well, including at high price points.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:43.067Z",
       "last_updated": "2026-02-01T21:55:43.067Z",
@@ -1404,7 +1886,11 @@
     {
       "id": "81124f98-4dfa-4464-a0aa-64309fefe049",
       "statement": "High-end consumer pricing tiers ($200–$300/month) are viable and positive.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "economics",
+        "ai"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:43.188Z",
       "last_updated": "2026-02-01T21:55:43.188Z",
@@ -1415,7 +1901,11 @@
     {
       "id": "a39a11b6-075a-4e7e-a7a2-18b43fb88c74",
       "statement": "Many companies unnecessarily limit outcomes by pricing too low.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "economics",
+        "startups"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:43.465Z",
       "last_updated": "2026-02-01T21:55:43.465Z",
@@ -1426,7 +1916,11 @@
     {
       "id": "39b2a6f7-1590-441f-8b96-319438191636",
       "statement": "Enterprise AI delivers direct, monetizable business value today (not merely speculative).",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:43.755Z",
       "last_updated": "2026-02-01T21:55:43.755Z",
@@ -1437,7 +1931,12 @@
     {
       "id": "f197871c-bb40-4e19-97a1-2bd7ef81a40a",
       "statement": "AI infrastructure demand pull is strong and reflected in rapid revenue growth for leading providers.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "tech",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:43.941Z",
       "last_updated": "2026-02-01T21:55:43.941Z",
@@ -1448,7 +1947,11 @@
     {
       "id": "4ac9076b-39d3-41ad-9d7c-fa0c2880ce91",
       "statement": "The dominant enterprise/infrastructure monetization model is metered usage ('tokens by the drink').",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:44.285Z",
       "last_updated": "2026-02-01T21:55:44.285Z",
@@ -1459,7 +1962,11 @@
     {
       "id": "60c87836-1e75-438c-8dbe-4f650bab764d",
       "statement": "AI prices will keep dropping sharply (faster than Moore’s law), driven by collapsing input costs and optimization.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "economics",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:44.562Z",
       "last_updated": "2026-02-01T21:55:44.562Z",
@@ -1470,7 +1977,11 @@
     {
       "id": "a7263112-faa0-44dd-992e-94d6b3469768",
       "statement": "Falling AI prices will trigger enormous demand increases via elasticity.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "economics",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:55:44.843Z",
       "last_updated": "2026-02-01T21:55:44.843Z",
@@ -1481,7 +1992,11 @@
     {
       "id": "78c81473-cad1-4c4a-b19e-899a90ecec7e",
       "statement": "A ‘small model revolution’ is happening alongside big-model buildouts.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:13.193Z",
       "last_updated": "2026-02-01T21:56:13.193Z",
@@ -1492,7 +2007,11 @@
     {
       "id": "db42a97c-9bef-466f-a1fb-ac1d1c925600",
       "statement": "Small models rapidly reach the capability level of prior frontier models.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:13.444Z",
       "last_updated": "2026-02-01T21:56:13.444Z",
@@ -1503,7 +2022,12 @@
     {
       "id": "be6c70d4-3a75-4c01-9562-a9899701286a",
       "statement": "Reasoning capability can be delivered locally on consumer hardware at low cost once compressed.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "software",
+        "platforms"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:13.681Z",
       "last_updated": "2026-02-01T21:56:13.681Z",
@@ -1514,7 +2038,11 @@
     {
       "id": "08943e7d-e08c-4115-91bc-1e5860358d4f",
       "statement": "Frontier labs will continue to push to new generations (e.g., GPT-6) as a response to fast followers.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:13.927Z",
       "last_updated": "2026-02-01T21:56:13.927Z",
@@ -1525,7 +2053,11 @@
     {
       "id": "2943154f-c65c-47b0-90dd-409ecb987543",
       "statement": "Not all tasks need the smartest possible model; many tasks need only moderate capability.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "economics",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:14.184Z",
       "last_updated": "2026-02-01T21:56:14.184Z",
@@ -1536,7 +2068,11 @@
     {
       "id": "809e48dd-f76c-4244-8165-0f10fcdadc42",
       "statement": "A segment of the market believes big models will dominate because intelligence is paramount.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:14.527Z",
       "last_updated": "2026-02-01T21:56:14.527Z",
@@ -1547,7 +2083,12 @@
     {
       "id": "d99de4c3-f7c2-4e7c-80f9-3112f485c5ed",
       "statement": "The AI industry will stratify into a few ‘god models’ in data centers and many smaller models down to embedded chips.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "tech",
+        "platforms"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:14.771Z",
       "last_updated": "2026-02-01T21:56:14.771Z",
@@ -1558,7 +2099,12 @@
     {
       "id": "c242cf3d-5ace-4733-8829-e54b27c456be",
       "statement": "The highest intelligence will remain concentrated at the top tier, but deployment volume will be dominated by smaller models.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "economics",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:15.011Z",
       "last_updated": "2026-02-01T21:56:15.011Z",
@@ -1569,7 +2115,11 @@
     {
       "id": "1d277b19-6789-4511-8268-44039680a4d6",
       "statement": "Semiconductor markets tend to move from shortage to glut over time.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "economics",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:48.247Z",
       "last_updated": "2026-02-01T21:56:48.247Z",
@@ -1580,7 +2130,11 @@
     {
       "id": "1f8e8219-631f-45c6-8d70-a431dfb1dcde",
       "statement": "Sustained extraordinary profits in chip categories are temporary due to competition.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "economics",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:48.472Z",
       "last_updated": "2026-02-01T21:56:48.472Z",
@@ -1591,7 +2145,11 @@
     {
       "id": "7438f12c-8ec4-4995-8859-d2029062c4d8",
       "statement": "Nvidia’s current dominance and profitability will attract strong competitive responses.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "economics",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:48.732Z",
       "last_updated": "2026-02-01T21:56:48.732Z",
@@ -1602,7 +2160,12 @@
     {
       "id": "b350c2e3-e287-4030-8226-f7ae8994de5a",
       "statement": "AI chip prices/availability will improve substantially within ~5 years.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "tech",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:48.986Z",
       "last_updated": "2026-02-01T21:56:48.986Z",
@@ -1613,7 +2176,12 @@
     {
       "id": "09cd0a94-4f9c-4733-abc2-81adc4fa3ca6",
       "statement": "Cheaper AI compute will improve the unit economics of many invested companies.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "economics",
+        "markets",
+        "startups"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:49.199Z",
       "last_updated": "2026-02-01T21:56:49.199Z",
@@ -1624,7 +2192,12 @@
     {
       "id": "dfd3ae90-84fa-416c-a1ea-57fa6cf6375b",
       "statement": "GPU dominance in AI is not purely optimal; it is partly historical contingency.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "history",
+        "tech",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:49.339Z",
       "last_updated": "2026-02-01T21:56:49.339Z",
@@ -1635,7 +2208,12 @@
     {
       "id": "f9b60bd6-5c7f-4efc-9cd8-4c9aaf41983b",
       "statement": "GPUs were forged in a long, hyper-competitive, lower-margin market before AI/crypto expanded their profit pool.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "history",
+        "crypto",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:49.549Z",
       "last_updated": "2026-02-01T21:56:49.549Z",
@@ -1646,7 +2224,12 @@
     {
       "id": "ad26985d-ebc1-408d-a8e1-e165f15dcb74",
       "statement": "Crypto and AI workloads aligned with GPU parallelism, catalyzing GPU value.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "crypto",
+        "tech",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:49.809Z",
       "last_updated": "2026-02-01T21:56:49.809Z",
@@ -1657,7 +2240,12 @@
     {
       "id": "62665228-7a16-4b9c-aaf4-26b123fd27c5",
       "statement": "Dedicated AI accelerators can be more economically efficient than full GPUs for AI workloads.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "economics",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:50.048Z",
       "last_updated": "2026-02-01T21:56:50.048Z",
@@ -1668,7 +2256,12 @@
     {
       "id": "44a625df-29fe-4183-8c8f-dde6ddde613c",
       "statement": "Some AI-chip startups will succeed independently; others will be acquired by incumbents.",
-      "domain_tags": [],
+      "domain_tags": [
+        "startups",
+        "venture",
+        "markets",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:50.200Z",
       "last_updated": "2026-02-01T21:56:50.200Z",
@@ -1679,7 +2272,12 @@
     {
       "id": "b3758bba-b76f-488c-b22a-48ee6cf43a97",
       "statement": "Multiple countries/regions will be major participants in future AI chip competition.",
-      "domain_tags": [],
+      "domain_tags": [
+        "geopolitics",
+        "markets",
+        "tech",
+        "regulation"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:50.531Z",
       "last_updated": "2026-02-01T21:56:50.531Z",
@@ -1690,7 +2288,11 @@
     {
       "id": "cfeaf793-8d60-44d7-9071-96bd14726793",
       "statement": "The future AI-chip landscape will feature many alternatives, not a single-provider monopoly.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:56:50.707Z",
       "last_updated": "2026-02-01T21:56:50.707Z",
@@ -1701,7 +2303,11 @@
     {
       "id": "197fd298-b3a7-41c9-aeb3-c716fc9a0a10",
       "statement": "US–China rivalry is not a direct replay of US–USSR Cold War because economic interdependence is far higher.",
-      "domain_tags": [],
+      "domain_tags": [
+        "geopolitics",
+        "china",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:41.625Z",
       "last_updated": "2026-02-01T21:57:41.625Z",
@@ -1712,7 +2318,11 @@
     {
       "id": "11a0d496-8d14-4a9c-8e83-2405a7e94a47",
       "statement": "China’s exports and role in US manufacturing supply chains create a tighter interlinkage than existed with the USSR.",
-      "domain_tags": [],
+      "domain_tags": [
+        "china",
+        "economics",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:41.908Z",
       "last_updated": "2026-02-01T21:57:41.908Z",
@@ -1723,7 +2333,11 @@
     {
       "id": "5894a240-7dbb-4527-9c7a-b8a8eec0eca3",
       "statement": "Trade interdependence is a stabilizing force that may reduce likelihood of war.",
-      "domain_tags": [],
+      "domain_tags": [
+        "geopolitics",
+        "economics",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:42.438Z",
       "last_updated": "2026-02-01T21:57:42.438Z",
@@ -1734,7 +2348,11 @@
     {
       "id": "2423f274-d9a8-4df9-91db-aebee9550a45",
       "statement": "China’s governance model requires high employment; large unemployment would risk civil unrest.",
-      "domain_tags": [],
+      "domain_tags": [
+        "china",
+        "labor",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:42.678Z",
       "last_updated": "2026-02-01T21:57:42.678Z",
@@ -1745,7 +2363,11 @@
     {
       "id": "a2b76956-c0f3-47a7-8815-d773bcb45c5d",
       "statement": "China depends heavily on the US export market because US consumers represent a large portion of global demand.",
-      "domain_tags": [],
+      "domain_tags": [
+        "china",
+        "economics",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:42.999Z",
       "last_updated": "2026-02-01T21:57:42.999Z",
@@ -1756,7 +2378,11 @@
     {
       "id": "fb2e39bb-59e9-451d-8c48-47adb0e90002",
       "statement": "Washington has become more uniformly hawkish toward China over the last decade.",
-      "domain_tags": [],
+      "domain_tags": [
+        "geopolitics",
+        "policy",
+        "regulation"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:43.262Z",
       "last_updated": "2026-02-01T21:57:43.262Z",
@@ -1767,7 +2393,11 @@
     {
       "id": "bfd55c95-ea38-4459-a257-f0da28ddfc99",
       "statement": "Key conflict risks include military flashpoints around Taiwan and the South China Sea.",
-      "domain_tags": [],
+      "domain_tags": [
+        "geopolitics",
+        "defense",
+        "china"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:43.482Z",
       "last_updated": "2026-02-01T21:57:43.482Z",
@@ -1778,7 +2408,11 @@
     {
       "id": "10b927c9-9f18-4693-b1cc-e699341a517f",
       "statement": "AI frontier development is primarily a US–China duopoly; most other countries cannot or choose not to build it.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "geopolitics",
+        "china"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:43.757Z",
       "last_updated": "2026-02-01T21:57:43.757Z",
@@ -1789,7 +2423,11 @@
     {
       "id": "99df1a0d-1f89-4c52-8e8b-64d7f2abeadd",
       "statement": "AI will diffuse globally and geopolitical influence will hinge on whether ‘American AI’ or ‘Chinese AI’ dominates.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "geopolitics",
+        "platforms"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:44.005Z",
       "last_updated": "2026-02-01T21:57:44.005Z",
@@ -1800,7 +2438,11 @@
     {
       "id": "0295b181-9398-4c2b-925b-fa188627f9c4",
       "statement": "China is competitively strong in AI software and is investing to catch up in chips.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "china"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:44.301Z",
       "last_updated": "2026-02-01T21:57:44.301Z",
@@ -1811,7 +2453,11 @@
     {
       "id": "29c6dbd2-4850-468f-b592-8c64cec0ed36",
       "statement": "The Chinese government is directing model development to use domestic chips to stimulate the local chip ecosystem.",
-      "domain_tags": [],
+      "domain_tags": [
+        "china",
+        "policy",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:44.556Z",
       "last_updated": "2026-02-01T21:57:44.556Z",
@@ -1822,7 +2468,11 @@
     {
       "id": "84c24970-7d9c-41cb-80cc-e585003b1de8",
       "statement": "Huawei is the central Chinese chip champion in this narrative.",
-      "domain_tags": [],
+      "domain_tags": [
+        "china",
+        "tech",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:44.774Z",
       "last_updated": "2026-02-01T21:57:44.774Z",
@@ -1833,7 +2483,11 @@
     {
       "id": "8995d1a6-eca0-4e72-9e2a-a7351bfd7d38",
       "statement": "A major robotics competition is emerging; China begins ahead due to legacy supply-chain dominance in electromechanical components.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "china",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:45.057Z",
       "last_updated": "2026-02-01T21:57:45.057Z",
@@ -1844,7 +2498,11 @@
     {
       "id": "410e92ba-5b03-4170-a2c7-b8c85407c5e4",
       "statement": "DeepSeek’s release was a significant inflection point (‘starting gun’) in the software race.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "china"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:45.193Z",
       "last_updated": "2026-02-01T21:57:45.193Z",
@@ -1855,7 +2513,11 @@
     {
       "id": "9afe62fa-925a-4c4a-a169-be5c7f812beb",
       "statement": "DeepSeek’s performance and efficiency (shrinking large-cloud capabilities to small local hardware) was notably surprising.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:45.471Z",
       "last_updated": "2026-02-01T21:57:45.471Z",
@@ -1866,7 +2528,11 @@
     {
       "id": "87c8063b-9cff-49de-bbe9-bcddd89d9bfb",
       "statement": "Open-source releases from China are unusual and therefore surprising.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "china",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:45.741Z",
       "last_updated": "2026-02-01T21:57:45.741Z",
@@ -1877,7 +2543,11 @@
     {
       "id": "6267061a-1069-473b-810c-8f4a78817f2e",
       "statement": "Breakthrough AI can emerge outside traditional elite institutions, implying broader talent scalability.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "education",
+        "startups"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:45.947Z",
       "last_updated": "2026-02-01T21:57:45.947Z",
@@ -1888,7 +2558,11 @@
     {
       "id": "bd64fb6d-2941-41f8-9057-d06c346d26a2",
       "statement": "Some US policymakers interpret Chinese open releases as ‘dumping’ to commoditize the market strategically.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "geopolitics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:46.188Z",
       "last_updated": "2026-02-01T21:57:46.188Z",
@@ -1899,7 +2573,11 @@
     {
       "id": "84b62ae7-8235-41ce-a5a5-687b2584578f",
       "statement": "Recognition of a US–China race has shifted DC AI policy toward fewer restrictions compared to two years ago.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "ai"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:57:46.314Z",
       "last_updated": "2026-02-01T21:57:46.314Z",
@@ -1910,7 +2588,11 @@
     {
       "id": "e5794a6a-8e9f-4acf-ba5c-3538d4349cd6",
       "statement": "Ruinous federal AI legislation risk is currently low.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "regulation",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:58:42.864Z",
       "last_updated": "2026-02-01T21:58:42.864Z",
@@ -1921,7 +2603,13 @@
     {
       "id": "c2e64dec-7403-4bef-9727-5a78cdd0ed39",
       "statement": "DC has little appetite to regulate AI in ways that reduce competitiveness vs China.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "regulation",
+        "geopolitics",
+        "china",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:58:43.077Z",
       "last_updated": "2026-02-01T21:58:43.077Z",
@@ -1932,7 +2620,11 @@
     {
       "id": "88a62178-1424-49c6-81e8-a2dd1053e934",
       "statement": "State legislatures are producing a large volume of AI bills (about 1,200) across all states and parties.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "regulation",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:58:43.340Z",
       "last_updated": "2026-02-01T21:58:43.340Z",
@@ -1943,7 +2635,11 @@
     {
       "id": "f4685f32-bf4a-46c0-9d62-2b46d9191492",
       "statement": "Republicans vary significantly on AI regulation; some are advancing bad bills due to misinformation.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "regulation",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:58:43.512Z",
       "last_updated": "2026-02-01T21:58:43.512Z",
@@ -1954,7 +2650,11 @@
     {
       "id": "2d4cefc1-4883-4112-9374-1f9ba4e3060e",
       "statement": "AI/tech regulation should primarily be federal, not state-based.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "regulation",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:58:43.785Z",
       "last_updated": "2026-02-01T21:58:43.785Z",
@@ -1965,7 +2665,11 @@
     {
       "id": "08dd84f1-e072-4648-aac9-902a675362b6",
       "statement": "A blanket moratorium on state AI regulation was overbroad; some state regulation is legitimate.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "regulation",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:58:44.007Z",
       "last_updated": "2026-02-01T21:58:44.007Z",
@@ -1976,7 +2680,11 @@
     {
       "id": "93ee6ad5-a6be-422c-ab53-605f601cb9a5",
       "statement": "The administration and most members of Congress on both sides support federal primacy on AI regulation.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "regulation",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:58:44.300Z",
       "last_updated": "2026-02-01T21:58:44.300Z",
@@ -1987,7 +2695,12 @@
     {
       "id": "8bab247c-990f-4fcf-9210-8888358c640f",
       "statement": "The EU AI Act severely reduced AI development and leading-edge AI product rollout in Europe.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "regulation",
+        "markets",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:58:44.479Z",
       "last_updated": "2026-02-01T21:58:44.479Z",
@@ -1998,7 +2711,12 @@
     {
       "id": "ce60427d-fbb7-45cc-9290-8f7c16a89504",
       "statement": "Europe compensates for weaker innovation leadership by pursuing regulation leadership, to its detriment.",
-      "domain_tags": [],
+      "domain_tags": [
+        "regulation",
+        "markets",
+        "economics",
+        "geopolitics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:58:44.672Z",
       "last_updated": "2026-02-01T21:58:44.672Z",
@@ -2009,7 +2727,12 @@
     {
       "id": "85996ec1-807b-43b5-b95e-e679161b045f",
       "statement": "Europe is now attempting to roll back overregulation (AI Act and GDPR) due to competitiveness concerns.",
-      "domain_tags": [],
+      "domain_tags": [
+        "regulation",
+        "policy",
+        "markets",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:58:45.359Z",
       "last_updated": "2026-02-01T21:58:45.359Z",
@@ -2020,7 +2743,11 @@
     {
       "id": "815ea71d-5779-44dd-834c-829141ecde41",
       "statement": "California’s SB1047 would have killed AI development in California and was rightly vetoed.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "regulation",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:58:45.589Z",
       "last_updated": "2026-02-01T21:58:45.589Z",
@@ -2031,7 +2758,12 @@
     {
       "id": "20645eb6-b189-45bf-b8ce-53b21672b212",
       "statement": "Assigning downstream liability to open-source model developers is unacceptable and would destroy open source/startups/academia.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "regulation",
+        "startups",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:58:45.872Z",
       "last_updated": "2026-02-01T21:58:45.872Z",
@@ -2042,7 +2774,11 @@
     {
       "id": "6db3b697-532a-4131-ae6b-8bd3c2513d90",
       "statement": "Federal action will likely resolve state-level regulatory dysfunction.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "regulation",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:58:46.099Z",
       "last_updated": "2026-02-01T21:58:46.099Z",
@@ -2053,7 +2789,11 @@
     {
       "id": "d882b6a5-ad9a-4f92-81ef-1cb095d08a94",
       "statement": "Industry advocacy is underprovided (collective action failure), so leaders must step in.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:58:46.230Z",
       "last_updated": "2026-02-01T21:58:46.230Z",
@@ -2064,7 +2804,12 @@
     {
       "id": "23a32f5b-261f-4483-80e0-5bf672bf3517",
       "statement": "The speaker’s policy program aims to preserve startup freedom to innovate and is intentionally bipartisan.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "startups",
+        "ai"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:58:46.453Z",
       "last_updated": "2026-02-01T21:58:46.453Z",
@@ -2075,7 +2820,11 @@
     {
       "id": "71ee576d-fe5a-409a-988f-dcfc71e84267",
       "statement": "Companies are harmed by fundamentally open strategic/economic questions because they require concrete commitments.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "economics",
+        "startups"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:59:54.686Z",
       "last_updated": "2026-02-01T21:59:54.686Z",
@@ -2086,7 +2835,11 @@
     {
       "id": "8ebb5417-71a2-4ad7-9bed-f32950d8b3c1",
       "statement": "Strategic incoherence in an operating company leads to chaos and potential failure.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "economics",
+        "startups"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:59:54.910Z",
       "last_updated": "2026-02-01T21:59:54.910Z",
@@ -2097,7 +2850,11 @@
     {
       "id": "92021b7b-aa56-42fd-9014-3fd63ec0dc73",
       "statement": "Being wrong on core strategic choices is existentially risky for companies.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "economics",
+        "startups"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:59:55.079Z",
       "last_updated": "2026-02-01T21:59:55.079Z",
@@ -2108,7 +2865,12 @@
     {
       "id": "ee26ef19-5700-4c89-9f7e-cfea0f3a031e",
       "statement": "Venture investing has a structural advantage: it can hold multiple simultaneous, even conflicting, bets.",
-      "domain_tags": [],
+      "domain_tags": [
+        "venture",
+        "markets",
+        "startups",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:59:55.250Z",
       "last_updated": "2026-02-01T21:59:55.250Z",
@@ -2119,7 +2881,10 @@
     {
       "id": "3a057328-8848-42ac-bdae-d55d1ad9c9a5",
       "statement": "Reality is messy and supports multiple winning strategies concurrently.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:59:55.599Z",
       "last_updated": "2026-02-01T21:59:55.599Z",
@@ -2130,7 +2895,11 @@
     {
       "id": "e79f3dd0-ee4a-4dd7-b21f-1d427f997be4",
       "statement": "Open questions increase venture investors’ advantage because they expand the set of plausible strategies to back.",
-      "domain_tags": [],
+      "domain_tags": [
+        "venture",
+        "markets",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:59:55.991Z",
       "last_updated": "2026-02-01T21:59:55.991Z",
@@ -2141,7 +2910,11 @@
     {
       "id": "09347369-84b9-4f0f-bb5d-5ae252ea41e3",
       "statement": "Backing multiple strategies is not framed as hedging, but as maximizing outcome coverage/representation.",
-      "domain_tags": [],
+      "domain_tags": [
+        "venture",
+        "markets",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T21:59:56.284Z",
       "last_updated": "2026-02-01T21:59:56.284Z",
@@ -2152,7 +2925,11 @@
     {
       "id": "68224210-2619-42ca-9cb2-d7f41196808b",
       "statement": "Venture returns structurally depend on fundamental technology/architecture shifts.",
-      "domain_tags": [],
+      "domain_tags": [
+        "venture",
+        "tech",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:00:37.428Z",
       "last_updated": "2026-02-01T22:00:37.428Z",
@@ -2163,7 +2940,12 @@
     {
       "id": "63fc652e-1505-4b8f-8706-72d8f35114a5",
       "statement": "In periods without fundamental change, startups are unlikely to succeed because incumbents dominate execution and distribution.",
-      "domain_tags": [],
+      "domain_tags": [
+        "startups",
+        "venture",
+        "markets",
+        "platforms"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:00:37.636Z",
       "last_updated": "2026-02-01T22:00:37.636Z",
@@ -2174,7 +2956,11 @@
     {
       "id": "c2637ab2-7430-4280-a593-d31b1d414d38",
       "statement": "The best VC firms endure by successfully transitioning between successive technology waves.",
-      "domain_tags": [],
+      "domain_tags": [
+        "venture",
+        "tech",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:00:37.801Z",
       "last_updated": "2026-02-01T22:00:37.801Z",
@@ -2185,7 +2971,11 @@
     {
       "id": "f1e99d6f-32e6-4c41-bd23-820425c32783",
       "statement": "Sitting out crypto was a major mistake for much of the VC ecosystem.",
-      "domain_tags": [],
+      "domain_tags": [
+        "venture",
+        "crypto",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:00:38.099Z",
       "last_updated": "2026-02-01T22:00:38.099Z",
@@ -2196,7 +2986,11 @@
     {
       "id": "87c4c4b8-8ea7-49ad-926a-5123719c99a0",
       "statement": "AI represents a fundamental transformation comparable to prior major shifts (e.g., the internet).",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:00:38.314Z",
       "last_updated": "2026-02-01T22:00:38.314Z",
@@ -2207,7 +3001,12 @@
     {
       "id": "d9530823-a337-4fbb-aa79-918b9735f9b0",
       "statement": "AI will increase demand and reshape multiple sectors, including energy/materials and biotech/healthcare.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "biotech",
+        "economics",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:00:38.601Z",
       "last_updated": "2026-02-01T22:00:38.601Z",
@@ -2218,7 +3017,11 @@
     {
       "id": "eb74b383-c0ef-466d-b73b-a679a5d73203",
       "statement": "Crypto is becoming exciting again primarily due to policy changes.",
-      "domain_tags": [],
+      "domain_tags": [
+        "crypto",
+        "policy",
+        "regulation"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:00:38.748Z",
       "last_updated": "2026-02-01T22:00:38.748Z",
@@ -2229,7 +3032,11 @@
     {
       "id": "92a07cb2-dcb3-49d1-8977-8bbb2d7e99d3",
       "statement": "AI and crypto will meaningfully intersect (opportunity area).",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "crypto",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:00:39.118Z",
       "last_updated": "2026-02-01T22:00:39.118Z",
@@ -2240,7 +3047,11 @@
     {
       "id": "36b8abe2-c89c-4a07-8406-b69e3109527f",
       "statement": "The organization does not currently need a new vertical/unit; the priority is execution and portfolio partnership.",
-      "domain_tags": [],
+      "domain_tags": [
+        "venture",
+        "startups",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:00:39.427Z",
       "last_updated": "2026-02-01T22:00:39.427Z",
@@ -2251,7 +3062,10 @@
     {
       "id": "3115842f-485b-49c9-9a89-104d0a4f633f",
       "statement": "Their partnership works because both are persuadable and converge on conclusions.",
-      "domain_tags": [],
+      "domain_tags": [
+        "venture",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:01:12.464Z",
       "last_updated": "2026-02-01T22:01:12.464Z",
@@ -2262,7 +3076,10 @@
     {
       "id": "60d9d032-5124-4b12-b4d5-a16077aa9987",
       "statement": "They do not operate with unresolved fundamental disagreements requiring forced commitment.",
-      "domain_tags": [],
+      "domain_tags": [
+        "venture",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:01:12.749Z",
       "last_updated": "2026-02-01T22:01:12.749Z",
@@ -2273,7 +3090,11 @@
     {
       "id": "bf69cb98-16ac-4588-8613-64f9e875c7be",
       "statement": "A strong public footprint is beneficial for business outcomes in their context.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "venture",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:01:12.913Z",
       "last_updated": "2026-02-01T22:01:12.913Z",
@@ -2284,7 +3105,11 @@
     {
       "id": "124edd6e-330c-4c60-9e3d-cfb5104a05e7",
       "statement": "Controversial clarity signals courage and improves founder fit.",
-      "domain_tags": [],
+      "domain_tags": [
+        "venture",
+        "culture",
+        "startups"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:01:13.213Z",
       "last_updated": "2026-02-01T22:01:13.213Z",
@@ -2295,7 +3120,11 @@
     {
       "id": "ae80f0ac-95b5-42d2-ad00-009d1fd12051",
       "statement": "Early active marketing was a key strategy and it worked.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "venture",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:01:13.456Z",
       "last_updated": "2026-02-01T22:01:13.456Z",
@@ -2306,7 +3135,11 @@
     {
       "id": "e1754971-3603-4265-9952-3ec4cb10db46",
       "statement": "The venture industry’s typical quietness leaves founders uninformed about investors.",
-      "domain_tags": [],
+      "domain_tags": [
+        "venture",
+        "media",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:01:13.735Z",
       "last_updated": "2026-02-01T22:01:13.735Z",
@@ -2317,7 +3150,11 @@
     {
       "id": "b56a0042-54a5-4311-ae71-f3fe3500e20b",
       "statement": "Public visibility and controversy create meaningful negative spillovers.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "culture",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:01:13.971Z",
       "last_updated": "2026-02-01T22:01:13.971Z",
@@ -2328,7 +3165,11 @@
     {
       "id": "56fe68d0-5a24-4bde-bae6-a7941c23409f",
       "statement": "Communications can materially influence policymakers’ understanding.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "media"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:01:14.141Z",
       "last_updated": "2026-02-01T22:01:14.141Z",
@@ -2339,7 +3180,11 @@
     {
       "id": "c35fdff5-c5aa-4509-8bc4-a46dc0f1da82",
       "statement": "Mainstream East Coast media is hostile to Silicon Valley and can misinform DC stakeholders.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "policy",
+        "geopolitics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:01:14.353Z",
       "last_updated": "2026-02-01T22:01:14.353Z",
@@ -2350,7 +3195,11 @@
     {
       "id": "6ae8f2f8-c214-4f2a-9701-a0d40abd78a9",
       "statement": "Optimal communications requires continuous calibration of sensitive topics and cadence.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "culture",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:01:14.551Z",
       "last_updated": "2026-02-01T22:01:14.551Z",
@@ -2361,7 +3210,11 @@
     {
       "id": "6f382ba5-abc4-421e-8d26-a585d546e962",
       "statement": "Beliefs should change frequently as the perceived frontier of the possible changes.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "history",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:02:20.597Z",
       "last_updated": "2026-02-01T22:02:20.597Z",
@@ -2372,7 +3225,11 @@
     {
       "id": "025a4db6-57ff-4df8-9b53-204d561a45d0",
       "statement": "Current cryogenic freezing is not worth doing due to poor reliability and disturbing outcomes.",
-      "domain_tags": [],
+      "domain_tags": [
+        "biotech",
+        "tech",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:02:20.832Z",
       "last_updated": "2026-02-01T22:02:20.832Z",
@@ -2383,7 +3240,12 @@
     {
       "id": "e4100945-d49c-4e8b-8cd4-75d595adc1c6",
       "statement": "Influence can distort the information environment (‘reality-warping’), creating epistemic risk.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "platforms",
+        "policy",
+        "ai"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:02:20.962Z",
       "last_updated": "2026-02-01T22:02:20.962Z",
@@ -2394,7 +3256,12 @@
     {
       "id": "5420096a-07c5-4b37-b19f-f7488b1dfab7",
       "statement": "Influence is instrumentally useful (can get people to do what you want) but dangerous for accuracy.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "platforms",
+        "policy",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:02:21.214Z",
       "last_updated": "2026-02-01T22:02:21.214Z",
@@ -2405,7 +3272,11 @@
     {
       "id": "6bc2f8f6-1ad5-4c89-8752-f2d9b562b92f",
       "statement": "Rapid feedback businesses (investing) punish delusion and force updating.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "economics",
+        "venture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:02:21.495Z",
       "last_updated": "2026-02-01T22:02:21.495Z",
@@ -2416,7 +3287,11 @@
     {
       "id": "120b32f3-f712-46e4-9835-c9dd750c217a",
       "statement": "One often overestimates one’s analytical ability; repeated errors are common.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "education",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:02:21.880Z",
       "last_updated": "2026-02-01T22:02:21.880Z",
@@ -2427,7 +3302,11 @@
     {
       "id": "92dc905f-16e6-4476-a04f-83e11019446e",
       "statement": "Public criticism can be a useful corrective (even if unpleasant).",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "culture",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:02:22.061Z",
       "last_updated": "2026-02-01T22:02:22.061Z",
@@ -2438,7 +3317,11 @@
     {
       "id": "4573b3f3-eade-4d55-bbaf-a8f6dd7c7aa9",
       "statement": "He personally is unlikely to go to Mars; prefers staying home/California, maybe via VR.",
-      "domain_tags": [],
+      "domain_tags": [
+        "tech",
+        "software",
+        "ai"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:02:22.301Z",
       "last_updated": "2026-02-01T22:02:22.301Z",
@@ -2449,7 +3332,11 @@
     {
       "id": "f2bcbf5e-07e3-4fef-b4f6-d98e9122c653",
       "statement": "Elon will likely succeed in making Mars trips routine within ~10 years.",
-      "domain_tags": [],
+      "domain_tags": [
+        "tech",
+        "defense",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T22:02:22.489Z",
       "last_updated": "2026-02-01T22:02:22.489Z",
@@ -2460,7 +3347,12 @@
     {
       "id": "93334b6c-c00a-44d9-8799-26695003f5fa",
       "statement": "A period analogous to the Roaring ’20s could plausibly recur in the present/future.",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "markets",
+        "history",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:39:13.587Z",
       "last_updated": "2026-02-01T23:39:13.587Z",
@@ -2471,7 +3363,11 @@
     {
       "id": "dcb1a6e4-bb33-47f8-a970-bee98542911c",
       "statement": "Individualism is a central explanatory variable in American culture/politics and has identifiable historical roots.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "history",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:39:13.846Z",
       "last_updated": "2026-02-01T23:39:13.846Z",
@@ -2482,7 +3378,11 @@
     {
       "id": "1c478bd1-6101-41a0-af76-dcf0581e704a",
       "statement": "Cultural mood (“vibes”) shifts meaningfully over time and influences broader societal trajectories.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "media",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:39:13.992Z",
       "last_updated": "2026-02-01T23:39:13.992Z",
@@ -2493,7 +3393,11 @@
     {
       "id": "d290ee16-e056-4476-b861-7675fe19c0b2",
       "statement": "Technology will play a major role in determining America’s future outcomes.",
-      "domain_tags": [],
+      "domain_tags": [
+        "tech",
+        "economics",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:39:14.453Z",
       "last_updated": "2026-02-01T23:39:14.453Z",
@@ -2504,7 +3408,12 @@
     {
       "id": "9fa1110b-6182-4aa6-8539-509de8fccab3",
       "statement": "Politics and technology are intertwined with national identity/ethos (“American spirit”).",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "tech",
+        "culture",
+        "geopolitics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:39:14.713Z",
       "last_updated": "2026-02-01T23:39:14.713Z",
@@ -2515,7 +3424,11 @@
     {
       "id": "337cb414-3e16-42f6-9144-69af947c1751",
       "statement": "The national debt is currently increasing by roughly $1T every ~100 days.",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "policy",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:39:43.692Z",
       "last_updated": "2026-02-01T23:39:43.692Z",
@@ -2526,7 +3439,11 @@
     {
       "id": "e87d59d7-eba5-4df6-ad9f-ab1eb0e6c31d",
       "statement": "The pace of debt accumulation is accelerating due to compounding.",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "policy",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:39:43.965Z",
       "last_updated": "2026-02-01T23:39:43.965Z",
@@ -2537,7 +3454,11 @@
     {
       "id": "695c1c29-2059-4e9a-9c8d-2c04a8f48714",
       "statement": "The incremental debt added over this period exceeds the Defense Department budget (used as a benchmark of scale).",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "policy",
+        "defense"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:39:44.179Z",
       "last_updated": "2026-02-01T23:39:44.179Z",
@@ -2548,7 +3469,11 @@
     {
       "id": "9f610c99-682b-4cf7-aafa-c70b4e0b9e49",
       "statement": "If the fiscal trajectory is not corrected, a hyperinflationary spiral becomes a plausible outcome.",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "policy",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:39:44.489Z",
       "last_updated": "2026-02-01T23:39:44.489Z",
@@ -2559,7 +3484,12 @@
     {
       "id": "d072c078-3200-4782-b79f-72148ea56815",
       "statement": "In the adverse scenario, the country could resemble Argentina or Brazil in macroeconomic stability/inflation outcomes.",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "geopolitics",
+        "policy",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:39:44.747Z",
       "last_updated": "2026-02-01T23:39:44.747Z",
@@ -2570,7 +3500,12 @@
     {
       "id": "beaf94d1-eed6-49b0-9b6d-9c70960a488d",
       "statement": "Marc Andreessen is a highly influential tech leader/investor with major contributions to the internet and tech industry.",
-      "domain_tags": [],
+      "domain_tags": [
+        "tech",
+        "venture",
+        "startups",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:39:45.015Z",
       "last_updated": "2026-02-01T23:39:45.015Z",
@@ -2581,7 +3516,11 @@
     {
       "id": "7d531c85-fd22-4d85-90df-b8c9a293d98c",
       "statement": "The US is primed for significant growth in 2025–26 and beyond.",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "markets",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:40:14.926Z",
       "last_updated": "2026-02-01T23:40:14.926Z",
@@ -2592,7 +3531,11 @@
     {
       "id": "f8037bb2-9167-409a-942d-69a67ef97a8a",
       "statement": "Despite political turmoil and COVID, the US economy demonstrated notable resilience and continued growth.",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "policy",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:40:15.162Z",
       "last_updated": "2026-02-01T23:40:15.162Z",
@@ -2603,7 +3546,11 @@
     {
       "id": "3c5bd088-c23e-43c8-9573-8cb625003a89",
       "statement": "Several peer countries have stagnated or are contracting, increasing US relative advantage.",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "geopolitics",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:40:15.430Z",
       "last_updated": "2026-02-01T23:40:15.430Z",
@@ -2614,7 +3561,11 @@
     {
       "id": "a1debd94-1a10-4916-8b78-7b2a6f91e801",
       "statement": "US geography provides exceptional physical security that supports stability and growth.",
-      "domain_tags": [],
+      "domain_tags": [
+        "geopolitics",
+        "defense",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:40:15.691Z",
       "last_updated": "2026-02-01T23:40:15.691Z",
@@ -2625,7 +3576,11 @@
     {
       "id": "a58b2bdc-6792-4969-b76b-048dd2bce086",
       "statement": "The US has abundant natural resources and repeatedly discovers/has access to critical materials.",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "geopolitics",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:40:16.349Z",
       "last_updated": "2026-02-01T23:40:16.349Z",
@@ -2636,7 +3591,11 @@
     {
       "id": "3539a618-67ca-4111-8a21-bf8e18ae10c5",
       "statement": "The US can be energy independent or a net energy exporter; it is mostly a policy choice.",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "policy",
+        "geopolitics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:40:16.685Z",
       "last_updated": "2026-02-01T23:40:16.685Z",
@@ -2647,7 +3606,11 @@
     {
       "id": "74a09bea-ef18-46d2-a4ca-20e730ab32bd",
       "statement": "Recent administration reduced American energy production; the new administration will increase it substantially.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "economics",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:40:16.891Z",
       "last_updated": "2026-02-01T23:40:16.891Z",
@@ -2658,7 +3621,12 @@
     {
       "id": "f8ea18da-2426-4e02-a28f-15753e1990a7",
       "statement": "US dynamism is driven by long-run immigration and human capital accumulation.",
-      "domain_tags": [],
+      "domain_tags": [
+        "labor",
+        "economics",
+        "policy",
+        "education"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:40:17.129Z",
       "last_updated": "2026-02-01T23:40:17.129Z",
@@ -2669,7 +3637,13 @@
     {
       "id": "c3eca48b-dbfc-48b0-b305-428fe7984369",
       "statement": "The US is the leading nation in advanced technology domains (software, AI, biotech), though it has manufacturing issues.",
-      "domain_tags": [],
+      "domain_tags": [
+        "tech",
+        "software",
+        "ai",
+        "biotech",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:40:17.327Z",
       "last_updated": "2026-02-01T23:40:17.327Z",
@@ -2680,7 +3654,12 @@
     {
       "id": "955b10ef-0147-4002-861d-bab00b2a9fbc",
       "statement": "Given these conditions, the US could see higher economic growth, productivity, and faster tech adoption (a boom).",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "tech",
+        "markets",
+        "ai"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:40:17.528Z",
       "last_updated": "2026-02-01T23:40:17.528Z",
@@ -2691,7 +3670,11 @@
     {
       "id": "e50df3fe-e0b8-49a5-9ae1-2c397b9e2ac3",
       "statement": "America has a uniquely intense entrepreneurial spirit rooted in its national character.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "startups",
+        "venture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:16.045Z",
       "last_updated": "2026-02-01T23:41:16.045Z",
@@ -2702,7 +3685,11 @@
     {
       "id": "29bb4f73-a702-4d84-97af-b611aee8b128",
       "statement": "The US is an amalgamation of tough, driven subcultures that produce exceptional capability.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "labor",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:16.283Z",
       "last_updated": "2026-02-01T23:41:16.283Z",
@@ -2713,7 +3700,11 @@
     {
       "id": "730349e9-aa67-4c51-9c2f-f68b5c71b8f1",
       "statement": "American excellence spans both technical and artistic domains (rockets, movies, art).",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "media",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:16.573Z",
       "last_updated": "2026-02-01T23:41:16.573Z",
@@ -2724,7 +3715,11 @@
     {
       "id": "c9f3a8d1-6b5d-4eb9-ab97-de0a8c2968e6",
       "statement": "Many contemporary US problems come from efforts to suppress exceptionalism and make society mediocre.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "policy",
+        "regulation"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:16.834Z",
       "last_updated": "2026-02-01T23:41:16.834Z",
@@ -2735,7 +3730,11 @@
     {
       "id": "0f79195d-dc0e-46b4-a211-c544116932f6",
       "statement": "National spirit can rebound when people decide to build and grow; demoralization can be overcome.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "economics",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:17.088Z",
       "last_updated": "2026-02-01T23:41:17.088Z",
@@ -2746,7 +3745,12 @@
     {
       "id": "e21f7a0d-de53-4dd2-93b9-2d4f337fb89d",
       "statement": "The 1970s were demoralizing; Reagan-era optimism reversed it and restored national vigor.",
-      "domain_tags": [],
+      "domain_tags": [
+        "history",
+        "culture",
+        "policy",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:17.354Z",
       "last_updated": "2026-02-01T23:41:17.354Z",
@@ -2757,7 +3761,11 @@
     {
       "id": "562098d5-0c42-4942-95c9-a19e6c2bd4b0",
       "statement": "Individualism (and associated freedoms) is a key component of American dynamism.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "policy",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:17.528Z",
       "last_updated": "2026-02-01T23:41:17.528Z",
@@ -2768,7 +3776,11 @@
     {
       "id": "c61b456f-f4e3-4c12-baff-c6daaab53349",
       "statement": "American individualism peaked roughly 1865–1931 and fueled global leadership (Second Industrial Revolution).",
-      "domain_tags": [],
+      "domain_tags": [
+        "history",
+        "economics",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:17.812Z",
       "last_updated": "2026-02-01T23:41:17.812Z",
@@ -2779,7 +3791,10 @@
     {
       "id": "92475a19-2571-4232-8f79-5858140c82bb",
       "statement": "Economic growth ('line go up') and individualism are insufficient; nations also need intangible spirit/passion.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:18.062Z",
       "last_updated": "2026-02-01T23:41:18.062Z",
@@ -2790,7 +3805,11 @@
     {
       "id": "641c7616-bb90-4bbf-8c98-77e469850b37",
       "statement": "Decline is primarily a choice, not destiny; authority-driven demoralization is a major cause of stagnation.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "policy",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:18.337Z",
       "last_updated": "2026-02-01T23:41:18.337Z",
@@ -2801,7 +3820,10 @@
     {
       "id": "297d77fc-24d9-4da5-ad15-69313f9800fd",
       "statement": "Pre-classical Indo-European societies lacked individual rights and were organized around family/tribe/city.",
-      "domain_tags": [],
+      "domain_tags": [
+        "history",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:18.864Z",
       "last_updated": "2026-02-01T23:41:18.864Z",
@@ -2812,7 +3834,10 @@
     {
       "id": "d4447cb4-7037-4801-b444-baf9cc2fe406",
       "statement": "Those societies had master-morality norms: strength good, weakness bad, tied to survival pressures.",
-      "domain_tags": [],
+      "domain_tags": [
+        "history",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:19.007Z",
       "last_updated": "2026-02-01T23:41:19.007Z",
@@ -2823,7 +3848,11 @@
     {
       "id": "5a369494-0307-4552-b353-42421e2b210b",
       "statement": "Modern secular society has 're-evolved' ancestor worship (identity politics) and nature worship (environmentalism).",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "policy",
+        "media"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:19.218Z",
       "last_updated": "2026-02-01T23:41:19.218Z",
@@ -2834,7 +3863,10 @@
     {
       "id": "b9cc3735-ed0e-42fe-8a2c-dae51ca006c9",
       "statement": "Identity politics assigns moral standing to infants based on ancestry and is therefore not truly progressive.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:19.470Z",
       "last_updated": "2026-02-01T23:41:19.470Z",
@@ -2845,7 +3877,11 @@
     {
       "id": "139f3816-94fb-4ff5-bc67-da2cd63ca4b3",
       "statement": "The US has developed 'soft authoritarianism' expressed through regulation and institutional controls.",
-      "domain_tags": [],
+      "domain_tags": [
+        "regulation",
+        "policy",
+        "geopolitics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:55.048Z",
       "last_updated": "2026-02-01T23:41:55.048Z",
@@ -2856,7 +3892,12 @@
     {
       "id": "65723b31-0535-45ec-9906-652d3ce68ee1",
       "statement": "Regulation currently suppresses the American economy, technology industry, and individuals.",
-      "domain_tags": [],
+      "domain_tags": [
+        "regulation",
+        "economics",
+        "tech",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:55.282Z",
       "last_updated": "2026-02-01T23:41:55.282Z",
@@ -2867,7 +3908,11 @@
     {
       "id": "7fc77a56-7198-403d-9f0f-e5fe879f979b",
       "statement": "A 'vetocracy' blocks progress and makes governance anti-constructive.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:55.402Z",
       "last_updated": "2026-02-01T23:41:55.402Z",
@@ -2878,7 +3923,11 @@
     {
       "id": "015f7892-a2a0-4678-84be-a76f09e4c8b1",
       "statement": "There is a prevalent ideology treating progress, technology, and capitalism as bad (including tall poppy syndrome).",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "economics",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:55.561Z",
       "last_updated": "2026-02-01T23:41:55.561Z",
@@ -2889,7 +3938,12 @@
     {
       "id": "d0f5aada-492f-4ced-a4e7-7e5b7176da31",
       "statement": "Government and aligned institutions have engaged in censorship and debanking.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "markets",
+        "media"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:55.818Z",
       "last_updated": "2026-02-01T23:41:55.818Z",
@@ -2900,7 +3954,11 @@
     {
       "id": "ecd8dac9-e57e-46e7-934f-22ca08662cef",
       "statement": "These actions constitute a 'demoralization campaign.'",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "policy",
+        "media"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:56.089Z",
       "last_updated": "2026-02-01T23:41:56.089Z",
@@ -2911,7 +3969,11 @@
     {
       "id": "dafb1778-0c93-4da4-9975-91f694ffa136",
       "statement": "Removing these constraints would unlock pent-up energy leading to significant growth and improved 'spirit.'",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "policy",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:56.322Z",
       "last_updated": "2026-02-01T23:41:56.322Z",
@@ -2922,7 +3984,11 @@
     {
       "id": "4b8340a1-5662-4a69-be7e-e7d2fc0cff6f",
       "statement": "The new administration intends rapid action and has staffing to execute on these fronts.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "geopolitics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:56.611Z",
       "last_updated": "2026-02-01T23:41:56.611Z",
@@ -2933,7 +3999,11 @@
     {
       "id": "99ae6986-d70a-4695-94d8-d9bc1c5da881",
       "statement": "A major cultural shift is already underway ('vibe shift'); 'woke is over.'",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "media",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:56.892Z",
       "last_updated": "2026-02-01T23:41:56.892Z",
@@ -2944,7 +4014,12 @@
     {
       "id": "c3bb9c67-25d6-4b25-b54e-05a3f2c05ca5",
       "statement": "Corporate leaders are rapidly adjusting behavior in response to this shift (e.g., Zuckerberg, BlackRock backpedaling ESG).",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "culture",
+        "policy",
+        "platforms"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:57.137Z",
       "last_updated": "2026-02-01T23:41:57.137Z",
@@ -2955,7 +4030,11 @@
     {
       "id": "c9d66202-0187-4beb-8f46-16b34c85bfef",
       "statement": "NASDAQ board diversity mandates were ill-conceived and have been invalidated by the courts.",
-      "domain_tags": [],
+      "domain_tags": [
+        "regulation",
+        "policy",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:57.477Z",
       "last_updated": "2026-02-01T23:41:57.477Z",
@@ -2966,7 +4045,11 @@
     {
       "id": "708aea21-c56e-4ed4-a5d1-8ebdd7f667ac",
       "statement": "DEI categorizations can be bureaucratically absurd (e.g., Thiel counting as diverse despite authoring 'The Diversity Myth').",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "policy",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:41:57.674Z",
       "last_updated": "2026-02-01T23:41:57.674Z",
@@ -2977,7 +4060,11 @@
     {
       "id": "db64c023-4f67-4aa4-9454-382120899729",
       "statement": "Zero-censorship internet services are practically impossible.",
-      "domain_tags": [],
+      "domain_tags": [
+        "platforms",
+        "software",
+        "media"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:44:30.236Z",
       "last_updated": "2026-02-01T23:44:30.236Z",
@@ -2988,7 +4075,11 @@
     {
       "id": "2836c8d3-4d88-4346-812a-1768bce352cd",
       "statement": "Moderation systems become a central power lever that attracts pressure campaigns.",
-      "domain_tags": [],
+      "domain_tags": [
+        "platforms",
+        "media",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:44:30.579Z",
       "last_updated": "2026-02-01T23:44:30.579Z",
@@ -2999,7 +4090,12 @@
     {
       "id": "80fb5d54-21d6-4453-85d5-58c2c10eb65d",
       "statement": "A major transition toward this pressure-driven censorship occurred around 2012–2013.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "platforms",
+        "history",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:44:30.808Z",
       "last_updated": "2026-02-01T23:44:30.808Z",
@@ -3010,7 +4106,11 @@
     {
       "id": "213ef132-d1bb-4fbb-b915-983b2a93ecc8",
       "statement": "Cultural/political shifts in elite institutions (“super woke kids”) contributed to the change.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "education",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:44:31.024Z",
       "last_updated": "2026-02-01T23:44:31.024Z",
@@ -3021,7 +4121,12 @@
     {
       "id": "d1b6d51f-9746-43df-8ffd-7e192591ea14",
       "statement": "The Democratic Party recognized and exploited the controllability of tech companies via censorship mechanisms.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "platforms",
+        "media"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:44:31.297Z",
       "last_updated": "2026-02-01T23:44:31.297Z",
@@ -3032,7 +4137,11 @@
     {
       "id": "5f65f8dd-79fd-4526-8b1d-0078579c3d4e",
       "statement": "Hate speech standards broadened from banning explicit slurs to policing discomfort.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "media",
+        "platforms"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:44:31.536Z",
       "last_updated": "2026-02-01T23:44:31.536Z",
@@ -3043,7 +4152,12 @@
     {
       "id": "3468b8be-eb8b-4d19-8b6c-b134c7aa4ede",
       "statement": "Misinformation controls became prominent with Trump and 'Russiagate' (which he calls a hoax).",
-      "domain_tags": [],
+      "domain_tags": [
+        "geopolitics",
+        "policy",
+        "media",
+        "platforms"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:44:31.804Z",
       "last_updated": "2026-02-01T23:44:31.804Z",
@@ -3054,7 +4168,11 @@
     {
       "id": "f33d655c-ba3b-49e6-8590-e6c52919d76d",
       "statement": "Misinformation enforcement is more powerful than hate-speech enforcement as a censorship tool.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "platforms",
+        "media"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:44:31.976Z",
       "last_updated": "2026-02-01T23:44:31.976Z",
@@ -3065,7 +4183,12 @@
     {
       "id": "27bf3b90-c394-4da2-a56d-e07302077b3b",
       "statement": "Censoring the COVID lab-leak theory was a culminating moment of misinformation censorship.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "media",
+        "platforms",
+        "biotech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:44:32.335Z",
       "last_updated": "2026-02-01T23:44:32.335Z",
@@ -3076,7 +4199,12 @@
     {
       "id": "17cdde17-f694-49f7-9db6-cd9fb433cbe0",
       "statement": "Jon Stewart’s public discussion helped catalyze relaxation of lab-leak censorship.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "culture",
+        "platforms",
+        "biotech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:44:32.572Z",
       "last_updated": "2026-02-01T23:44:32.572Z",
@@ -3087,7 +4215,11 @@
     {
       "id": "a1fd3a43-804b-40f7-9caa-8afda4952b3a",
       "statement": "Policy reversal occurred when leaders inferred it was socially/organizationally acceptable to stop censoring lab-leak discussion.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "culture",
+        "platforms"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:44:32.762Z",
       "last_updated": "2026-02-01T23:44:32.762Z",
@@ -3098,7 +4230,10 @@
     {
       "id": "53b1a6f6-3c72-4df7-afb9-62e554425de7",
       "statement": "Top leaders/CEOs are inherently lonely and receive little sympathy.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:45:14.707Z",
       "last_updated": "2026-02-01T23:45:14.707Z",
@@ -3109,7 +4244,11 @@
     {
       "id": "c6f1c90c-3cf6-4691-9499-bdc7897581c3",
       "statement": "A leader cannot speak freely to key stakeholders because of misaligned incentives and consequences.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "markets",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:45:15.133Z",
       "last_updated": "2026-02-01T23:45:15.133Z",
@@ -3120,7 +4259,11 @@
     {
       "id": "15fb7768-e7ef-4202-9b2e-97fcb03e6455",
       "statement": "Organizational survival depends primarily on internal coherence; internal cracking is catastrophic.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "startups",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:45:15.439Z",
       "last_updated": "2026-02-01T23:45:15.439Z",
@@ -3131,7 +4274,11 @@
     {
       "id": "d9c5e452-720c-485f-be0f-03d64da8ddc3",
       "statement": "Mark Zuckerberg is now an outstanding communicator and his public/private selves are aligned.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "culture",
+        "platforms"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:45:15.578Z",
       "last_updated": "2026-02-01T23:45:15.578Z",
@@ -3142,7 +4289,11 @@
     {
       "id": "2e99d0f3-2884-434a-b43e-cce4508d8958",
       "statement": "Zuckerberg’s role carries responsibility at a scale larger than nations.",
-      "domain_tags": [],
+      "domain_tags": [
+        "platforms",
+        "markets",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:45:15.915Z",
       "last_updated": "2026-02-01T23:45:15.915Z",
@@ -3153,7 +4304,11 @@
     {
       "id": "5add8aef-9ab4-499b-ad77-5e7f12530dfa",
       "statement": "The government has engaged in criminal, unconstitutional behavior by pressuring companies about speech.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "platforms"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:45:16.219Z",
       "last_updated": "2026-02-01T23:45:16.219Z",
@@ -3164,7 +4319,11 @@
     {
       "id": "4619e752-f854-4ddc-9fd0-7c5fda57fe8a",
       "statement": "Even ‘soft’ government pressure on companies is illegitimate/impermissible.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "platforms"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:45:16.428Z",
       "last_updated": "2026-02-01T23:45:16.428Z",
@@ -3175,7 +4334,10 @@
     {
       "id": "100729a0-4b18-4fca-b253-de5ddbb5c5c0",
       "statement": "Regulation/administrative power is the primary tool of coercion, more than legislation.",
-      "domain_tags": [],
+      "domain_tags": [
+        "regulation",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:45:16.638Z",
       "last_updated": "2026-02-01T23:45:16.638Z",
@@ -3186,7 +4348,12 @@
     {
       "id": "40b9d8d4-675e-4f44-b9a3-a456d2e88b10",
       "statement": "The Libra episode illustrates direct state coercion via threatened financial retaliation.",
-      "domain_tags": [],
+      "domain_tags": [
+        "regulation",
+        "policy",
+        "markets",
+        "crypto"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:45:16.899Z",
       "last_updated": "2026-02-01T23:45:16.899Z",
@@ -3197,7 +4364,11 @@
     {
       "id": "39edecf4-e2e3-4f18-a50a-4ec0f27eebf9",
       "statement": "Elon Musk has avoided corruption by power so far because he publicly states truths and calls out scandal.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "culture",
+        "media"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:45:17.111Z",
       "last_updated": "2026-02-01T23:45:17.111Z",
@@ -3208,7 +4379,11 @@
     {
       "id": "6aac7acc-491f-4ad4-8fc8-708841a72bb2",
       "statement": "Rule by elites is inevitable in practice",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "culture",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:45:39.444Z",
       "last_updated": "2026-02-01T23:45:39.444Z",
@@ -3219,7 +4394,11 @@
     {
       "id": "6d24dd2d-0c8d-48b8-845d-4cdc028c8152",
       "statement": "Mass democracy (as direct rule by many) is largely an illusion at scale",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "culture",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:45:39.594Z",
       "last_updated": "2026-02-01T23:45:39.594Z",
@@ -3230,7 +4409,11 @@
     {
       "id": "3bad218e-b825-4286-a586-e4e144cedf1f",
       "statement": "The key causal constraint is differential ability to organize",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "labor",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:45:39.970Z",
       "last_updated": "2026-02-01T23:45:39.970Z",
@@ -3241,7 +4424,11 @@
     {
       "id": "55c48d44-11b7-434e-8c08-9372ee796abf",
       "statement": "Even highly democratic worker organizations produce a controlling leadership class",
-      "domain_tags": [],
+      "domain_tags": [
+        "labor",
+        "economics",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:45:40.139Z",
       "last_updated": "2026-02-01T23:45:40.139Z",
@@ -3252,7 +4439,11 @@
     {
       "id": "c65bf006-ed2f-4aa9-a1b8-0011875f729c",
       "statement": "The US founders anticipated oligarchic dynamics and designed countervailing institutions",
-      "domain_tags": [],
+      "domain_tags": [
+        "history",
+        "policy",
+        "regulation"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:45:40.493Z",
       "last_updated": "2026-02-01T23:45:40.493Z",
@@ -3263,7 +4454,11 @@
     {
       "id": "6fd15fe4-f5e3-44bb-bd02-ff504b9cca13",
       "statement": "Practical governance improvement comes from institutional architecture (checks, staggered terms), not aspirational rhetoric",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:45:40.777Z",
       "last_updated": "2026-02-01T23:45:40.777Z",
@@ -3274,7 +4469,11 @@
     {
       "id": "123776f4-bcb8-46ef-932a-83e14796547b",
       "statement": "In some institutions, media figures can exert more coercive power over executives than executives can exert over them.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "platforms",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:46:08.284Z",
       "last_updated": "2026-02-01T23:46:08.284Z",
@@ -3285,7 +4484,11 @@
     {
       "id": "e4cdae94-1ae7-44a7-b2e2-0c28a8ade441",
       "statement": "Journalistic organizations may be effectively governed by internal staff norms/ideology rather than by owners.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "culture",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:46:08.554Z",
       "last_updated": "2026-02-01T23:46:08.554Z",
@@ -3296,7 +4499,11 @@
     {
       "id": "d3d1a2ed-5572-48fe-8638-f9654a53e0b8",
       "statement": "Owner intervention to stop certain political endorsements triggers intense staff backlash.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "culture",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:46:08.855Z",
       "last_updated": "2026-02-01T23:46:08.855Z",
@@ -3307,7 +4514,11 @@
     {
       "id": "2cbddbc2-9faa-4ae0-bb79-dba250a23915",
       "statement": "Attempts to 'assault' journalism (external pressure) often fail to produce firings and can strengthen in-group identity.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "culture",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:46:09.066Z",
       "last_updated": "2026-02-01T23:46:09.066Z",
@@ -3318,7 +4529,11 @@
     {
       "id": "3c295c23-aa43-46b4-81f4-24ead8db7b42",
       "statement": "Activist investors succeed via specialized adversarial skills that can ‘wreck’ opponents.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "economics",
+        "venture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:46:09.386Z",
       "last_updated": "2026-02-01T23:46:09.386Z",
@@ -3329,7 +4544,11 @@
     {
       "id": "dd7df512-20a5-462c-88d4-68a8a407da6d",
       "statement": "These activist tactics are increasingly spreading beyond traditional activist investors.",
-      "domain_tags": [],
+      "domain_tags": [
+        "markets",
+        "economics",
+        "venture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:46:09.860Z",
       "last_updated": "2026-02-01T23:46:09.860Z",
@@ -3340,7 +4559,10 @@
     {
       "id": "8d553b21-de4a-4438-9cdc-e722d72e4b62",
       "statement": "Ackman is framed by the interviewer as courageous (value judgment attributed to Lex).",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:46:10.044Z",
       "last_updated": "2026-02-01T23:46:10.044Z",
@@ -3351,7 +4573,11 @@
     {
       "id": "3782905f-9339-44d2-be20-bbc30588c309",
       "statement": "The main risk for a second Trump term was staffing quality relative to the first term",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "geopolitics",
+        "defense"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:46:34.561Z",
       "last_updated": "2026-02-01T23:46:34.561Z",
@@ -3362,7 +4588,11 @@
     {
       "id": "0be9b1ed-b646-4570-b074-cc23cc0d1492",
       "statement": "First-term officials were subjected to extensive legal/financial retaliation",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "geopolitics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:46:34.788Z",
       "last_updated": "2026-02-01T23:46:34.788Z",
@@ -3373,7 +4603,10 @@
     {
       "id": "7c7ec855-e9db-4fba-a6b7-443fbda67a1e",
       "statement": "The incoming talent pool is deeper and higher caliber than expected/than before",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "labor"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:46:35.026Z",
       "last_updated": "2026-02-01T23:46:35.026Z",
@@ -3384,7 +4617,11 @@
     {
       "id": "9be85459-ad2e-4b05-b7b5-ea7935d75b44",
       "statement": "The new team is unusually young and that is notable/positive",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "labor",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:46:35.209Z",
       "last_updated": "2026-02-01T23:46:35.209Z",
@@ -3395,7 +4632,11 @@
     {
       "id": "a4c20234-dc24-4b7d-af90-fa71b0982ee8",
       "statement": "Jay Bhattacharya would significantly improve NIH leadership",
-      "domain_tags": [],
+      "domain_tags": [
+        "biotech",
+        "policy",
+        "regulation"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:46:35.550Z",
       "last_updated": "2026-02-01T23:46:35.550Z",
@@ -3406,7 +4647,11 @@
     {
       "id": "303f4c74-c127-4304-8a9b-b9935e909aff",
       "statement": "Marty Makary is a strong choice for FDA leadership",
-      "domain_tags": [],
+      "domain_tags": [
+        "biotech",
+        "policy",
+        "regulation"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:46:35.681Z",
       "last_updated": "2026-02-01T23:46:35.681Z",
@@ -3417,7 +4662,11 @@
     {
       "id": "748e473e-04dd-4e00-a79c-0a69fc117516",
       "statement": "Dr. Oz has exceptional insight into the healthcare system",
-      "domain_tags": [],
+      "domain_tags": [
+        "biotech",
+        "policy",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:46:35.887Z",
       "last_updated": "2026-02-01T23:46:35.887Z",
@@ -3428,7 +4677,11 @@
     {
       "id": "202718ac-0821-484e-bd26-8a87005e06bb",
       "statement": "Andreessen’s role is informal and unpaid",
-      "domain_tags": [],
+      "domain_tags": [
+        "venture",
+        "markets",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:46:36.153Z",
       "last_updated": "2026-02-01T23:46:36.153Z",
@@ -3439,7 +4692,11 @@
     {
       "id": "8851e4a7-9701-46ef-8350-15212ace6f26",
       "statement": "Federal administrative scope is large and poorly enumerated",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:47:19.610Z",
       "last_updated": "2026-02-01T23:47:19.610Z",
@@ -3450,7 +4707,11 @@
     {
       "id": "a972991d-571a-46d1-ba82-a49be11c6a89",
       "statement": "The federal workforce is extremely large, including contractors",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "labor",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:47:19.818Z",
       "last_updated": "2026-02-01T23:47:19.818Z",
@@ -3461,7 +4722,11 @@
     {
       "id": "1ffb779b-8015-4d48-bc22-8ba55b6f11cf",
       "statement": "Many federal employees are not working from the office",
-      "domain_tags": [],
+      "domain_tags": [
+        "labor",
+        "policy",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:47:20.123Z",
       "last_updated": "2026-02-01T23:47:20.123Z",
@@ -3472,7 +4737,11 @@
     {
       "id": "01f71194-3f55-4cef-8903-7d8e495a4b84",
       "statement": "Most government constraints on citizens/business are regulatory rather than legislative",
-      "domain_tags": [],
+      "domain_tags": [
+        "regulation",
+        "policy",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:47:20.402Z",
       "last_updated": "2026-02-01T23:47:20.402Z",
@@ -3483,7 +4752,11 @@
     {
       "id": "05038872-0d02-424e-bfca-4c0bdd8cdc95",
       "statement": "Recent Supreme Court decisions undermine/limit aspects of the administrative state",
-      "domain_tags": [],
+      "domain_tags": [
+        "regulation",
+        "policy",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:47:20.652Z",
       "last_updated": "2026-02-01T23:47:20.652Z",
@@ -3494,7 +4767,11 @@
     {
       "id": "d7a3f1ca-d0d5-4bf8-8c26-26e0984c78ef",
       "statement": "A meaningful portion of existing regulations are unlawful or no longer legally valid",
-      "domain_tags": [],
+      "domain_tags": [
+        "regulation",
+        "policy",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:47:20.919Z",
       "last_updated": "2026-02-01T23:47:20.919Z",
@@ -3505,7 +4782,11 @@
     {
       "id": "8df68693-eb75-4cc6-9f8c-95e5f02eee1b",
       "statement": "Wasteful spending is enabled by a norm/interpretation that the executive cannot underspend appropriations",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "economics",
+        "regulation"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:47:21.378Z",
       "last_updated": "2026-02-01T23:47:21.378Z",
@@ -3516,7 +4797,11 @@
     {
       "id": "0aff7277-9c2e-46ce-a6ff-b281c0668577",
       "statement": "End-of-fiscal-year spending is systematically distorted toward low-value uses",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "policy",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:47:21.505Z",
       "last_updated": "2026-02-01T23:47:21.505Z",
@@ -3527,7 +4812,11 @@
     {
       "id": "b7fa4a7a-d686-49b6-a732-7aeb8bd69e22",
       "statement": "There is pervasive contempt for taxpayers among government actors",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "culture",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:47:21.724Z",
       "last_updated": "2026-02-01T23:47:21.724Z",
@@ -3538,7 +4827,11 @@
     {
       "id": "ddc1fc96-15d8-4210-bcb0-4735e0f40af2",
       "statement": "Treating billions as rounding errors contributes to corruption and laziness",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "economics",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:47:21.941Z",
       "last_updated": "2026-02-01T23:47:21.941Z",
@@ -3549,7 +4842,11 @@
     {
       "id": "a9dbda19-493a-4c09-aacf-c08caaeaed8e",
       "statement": "Per-taxpayer opportunity cost is morally salient and practically meaningful",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "policy",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:47:22.322Z",
       "last_updated": "2026-02-01T23:47:22.322Z",
@@ -3560,7 +4857,11 @@
     {
       "id": "5cf34ec8-d0f2-4d2c-beba-d0e9b18fa915",
       "statement": "Transparency can expose waste and improve governance",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "media"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:47:22.543Z",
       "last_updated": "2026-02-01T23:47:22.543Z",
@@ -3571,7 +4872,11 @@
     {
       "id": "a014ec40-47a9-4c0c-9c24-4a6ff6e32678",
       "statement": "Overreach can politically mobilize even insular/low-mobility communities",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "culture",
+        "geopolitics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:47:22.775Z",
       "last_updated": "2026-02-01T23:47:22.775Z",
@@ -3582,7 +4887,11 @@
     {
       "id": "73e8e142-ce4d-47a7-a9a7-58a183ca6b91",
       "statement": "Reversing cynical attitudes could make government work more exciting/attractive",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "culture",
+        "labor"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:47:23.063Z",
       "last_updated": "2026-02-01T23:47:23.063Z",
@@ -3593,7 +4902,12 @@
     {
       "id": "bc3909cb-daee-432d-a773-b5542a40dd92",
       "statement": "The simple pro–high-skilled immigration slogan is incomplete because domestic talent scarcity is partly institutionally created.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "labor",
+        "education",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:03.706Z",
       "last_updated": "2026-02-01T23:48:03.706Z",
@@ -3604,7 +4918,12 @@
     {
       "id": "8b2d10b0-c45c-4ea5-a238-c0ae2be431ce",
       "statement": "Large parts of America (e.g., rural Midwest) have capable people but are excluded from elite educational pipelines into tech.",
-      "domain_tags": [],
+      "domain_tags": [
+        "education",
+        "tech",
+        "labor",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:03.958Z",
       "last_updated": "2026-02-01T23:48:03.958Z",
@@ -3615,7 +4934,11 @@
     {
       "id": "71d56447-346f-4e9f-aa8e-b8003cd4b1e3",
       "statement": "Elite admissions practices disadvantage certain groups (Asians, Jews) via higher implicit standards/quotas.",
-      "domain_tags": [],
+      "domain_tags": [
+        "education",
+        "policy",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:04.232Z",
       "last_updated": "2026-02-01T23:48:04.232Z",
@@ -3626,7 +4949,11 @@
     {
       "id": "8b9a2458-ceda-4a7b-9e39-ee13082687c3",
       "statement": "Even policies framed as helping Black Americans may preferentially benefit foreign-born Black applicants at elite schools.",
-      "domain_tags": [],
+      "domain_tags": [
+        "education",
+        "policy",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:04.355Z",
       "last_updated": "2026-02-01T23:48:04.355Z",
@@ -3637,7 +4964,12 @@
     {
       "id": "f7d7cc12-2f43-466b-bdca-03ad29b857ff",
       "statement": "A long-running 'social engineering' project has shaped admissions and talent pathways over ~60 years.",
-      "domain_tags": [],
+      "domain_tags": [
+        "education",
+        "policy",
+        "history",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:04.569Z",
       "last_updated": "2026-02-01T23:48:04.569Z",
@@ -3648,7 +4980,11 @@
     {
       "id": "56eca05f-ed3a-4eae-8fbd-b3700177e1a5",
       "statement": "Brain drain creates serious negative consequences for origin countries (e.g., Greece; potentially Ukraine).",
-      "domain_tags": [],
+      "domain_tags": [
+        "geopolitics",
+        "economics",
+        "labor"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:04.839Z",
       "last_updated": "2026-02-01T23:48:04.839Z",
@@ -3659,7 +4995,12 @@
     {
       "id": "1eca5ee2-478f-4ab9-9513-de7bc9ac7bd8",
       "statement": "Recruiting global talent can be morally analogous to colonial extraction when viewed as 'human capital' extraction.",
-      "domain_tags": [],
+      "domain_tags": [
+        "geopolitics",
+        "policy",
+        "labor",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:05.017Z",
       "last_updated": "2026-02-01T23:48:05.017Z",
@@ -3670,7 +5011,11 @@
     {
       "id": "a4ba1c90-bf0c-4fb5-b270-b2d38006bf4b",
       "statement": "H-1B usage is now primarily Big Tech volume hiring and consulting/offshoring intermediaries, not 'the Valley' broadly.",
-      "domain_tags": [],
+      "domain_tags": [
+        "labor",
+        "tech",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:05.254Z",
       "last_updated": "2026-02-01T23:48:05.254Z",
@@ -3681,7 +5026,11 @@
     {
       "id": "2891cf28-f2f3-43a2-9be5-274a9c1e82bb",
       "statement": "O-1 is framed as a 'super genius' pathway, implying a stratified visa ecosystem by perceived talent tier.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "labor"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:05.491Z",
       "last_updated": "2026-02-01T23:48:05.491Z",
@@ -3692,7 +5041,11 @@
     {
       "id": "cdd9fe03-027f-4202-9bf3-d869e2a7e114",
       "statement": "Universities ignore scalable, merit-based identification tools (National Merit) while aggressively scouting athletics.",
-      "domain_tags": [],
+      "domain_tags": [
+        "education",
+        "policy",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:05.733Z",
       "last_updated": "2026-02-01T23:48:05.733Z",
@@ -3703,7 +5056,11 @@
     {
       "id": "d616e857-4a2d-4e95-8b84-83df260a290f",
       "statement": "SAT changes reduced its measurement of g (IQ proxy) and increased coachability, advantaging affluent families.",
-      "domain_tags": [],
+      "domain_tags": [
+        "education",
+        "culture",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:05.930Z",
       "last_updated": "2026-02-01T23:48:05.930Z",
@@ -3714,7 +5071,10 @@
     {
       "id": "ac6eb1eb-e18b-4ebf-8013-4109bd395228",
       "statement": "There was a 'Great Stagnation' roughly from 1970 to 2010.",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:26.578Z",
       "last_updated": "2026-02-01T23:48:26.578Z",
@@ -3725,7 +5085,11 @@
     {
       "id": "f440d40b-96b5-4845-9cc5-af3ff29e3862",
       "statement": "Innovation was strong in digital technology during that period.",
-      "domain_tags": [],
+      "domain_tags": [
+        "tech",
+        "software",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:26.756Z",
       "last_updated": "2026-02-01T23:48:26.756Z",
@@ -3736,7 +5100,11 @@
     {
       "id": "a25dd42e-9cb9-4dc1-a87c-b9c33273043e",
       "statement": "Innovation stagnated in major physical domains (energy, transportation, cities, infrastructure).",
-      "domain_tags": [],
+      "domain_tags": [
+        "economics",
+        "tech",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:26.981Z",
       "last_updated": "2026-02-01T23:48:26.981Z",
@@ -3747,7 +5115,11 @@
     {
       "id": "d7be10ab-663b-4ae9-bed4-be74e058f2fd",
       "statement": "Nuclear energy development/deployment stalled after initial success.",
-      "domain_tags": [],
+      "domain_tags": [
+        "tech",
+        "economics",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:27.311Z",
       "last_updated": "2026-02-01T23:48:27.311Z",
@@ -3758,7 +5130,11 @@
     {
       "id": "f2ac7bc0-22be-46ba-88d2-6fdc43a6d6f6",
       "statement": "Immigration politics could be improved by simultaneously supporting immigrants and increasing hiring of native-born workers.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "labor",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:27.440Z",
       "last_updated": "2026-02-01T23:48:27.440Z",
@@ -3769,7 +5145,11 @@
     {
       "id": "37398acd-fd94-46a1-b087-6d6e99662eb4",
       "statement": "Perceptions of a 'fair shake' across multiple demographic groups would diffuse the immigration issue.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "culture",
+        "labor"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:48:27.754Z",
       "last_updated": "2026-02-01T23:48:27.754Z",
@@ -3780,7 +5160,11 @@
     {
       "id": "97b6a8c5-4588-49a2-ab2d-39de67d19aff",
       "statement": "AI coding is a historic, revolutionary shift in software production.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:19.338Z",
       "last_updated": "2026-02-01T23:49:19.338Z",
@@ -3791,7 +5175,11 @@
     {
       "id": "2db5fef5-e64b-476d-9d77-d6b75b5a1ae6",
       "statement": "There is effectively unlimited demand for software/code.",
-      "domain_tags": [],
+      "domain_tags": [
+        "software",
+        "markets",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:19.464Z",
       "last_updated": "2026-02-01T23:49:19.464Z",
@@ -3802,7 +5190,11 @@
     {
       "id": "bb8a1bc4-88a3-4069-99ad-ab554c9baa12",
       "statement": "We are in a 'Golden Age' for builders; skills can be retooled rapidly.",
-      "domain_tags": [],
+      "domain_tags": [
+        "startups",
+        "software",
+        "labor"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:19.701Z",
       "last_updated": "2026-02-01T23:49:19.701Z",
@@ -3813,7 +5205,11 @@
     {
       "id": "a6d5f9b8-b8e5-4932-915f-f70f45a868c6",
       "statement": "Competitive differentiation among frontier LLMs may be smaller than expected; results converge.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "markets",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:19.980Z",
       "last_updated": "2026-02-01T23:49:19.980Z",
@@ -3824,7 +5220,11 @@
     {
       "id": "e328dd2a-ac09-45de-8e74-a287150506fe",
       "statement": "Scaling frontier AI requires unusually large pools of capital, narrowing viable funding sources.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "venture",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:20.189Z",
       "last_updated": "2026-02-01T23:49:20.189Z",
@@ -3835,7 +5235,11 @@
     {
       "id": "ce1f6a76-19d2-4dbc-9542-870c8171b0eb",
       "statement": "OpenAI’s organizational/legal structure creates a difficult financing hurdle for for-profit conversion.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "regulation",
+        "venture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:20.396Z",
       "last_updated": "2026-02-01T23:49:20.396Z",
@@ -3846,7 +5250,12 @@
     {
       "id": "3ef06d5f-fadd-4525-839d-a8765c30183f",
       "statement": "Hallucinations are tolerable in creative use cases but unacceptable in correctness-critical domains.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "biotech",
+        "defense"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:20.712Z",
       "last_updated": "2026-02-01T23:49:20.712Z",
@@ -3857,7 +5266,11 @@
     {
       "id": "d4fd1dfe-4b6d-4510-a768-e43c7576fa32",
       "statement": "In checkable domains like math and code, hallucinations should be eliminable (at least in principle).",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "software",
+        "education"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:20.951Z",
       "last_updated": "2026-02-01T23:49:20.951Z",
@@ -3868,7 +5281,11 @@
     {
       "id": "dca047a0-f50f-4b7a-baaa-f8eaaee8bdee",
       "statement": "General-domain reasoning may plateau due to data exhaustion; models may remain at a 'mid-wit grad student level' in open-ended domains.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:21.249Z",
       "last_updated": "2026-02-01T23:49:21.249Z",
@@ -3879,7 +5296,11 @@
     {
       "id": "41ad5abf-c1a8-455b-b82b-6b3af370c268",
       "statement": "Frontier models are nearing exhaustion of human-generated training data; manual expert data creation is costly.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:21.508Z",
       "last_updated": "2026-02-01T23:49:21.508Z",
@@ -3890,7 +5311,11 @@
     {
       "id": "a770073e-8b0d-4c19-96f1-4c94f2220deb",
       "statement": "AGI framed as 'abstract generalized super intelligence' may be unrealistic or at least must be grounded in practical function.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:21.765Z",
       "last_updated": "2026-02-01T23:49:21.765Z",
@@ -3901,7 +5326,12 @@
     {
       "id": "5e25fe4b-ec4e-43e2-b171-aa0be94933f2",
       "statement": "Many countries will resist using AI systems perceived as ideologically extreme in foundational systems like education.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "geopolitics",
+        "education",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:22.002Z",
       "last_updated": "2026-02-01T23:49:22.002Z",
@@ -3912,7 +5342,12 @@
     {
       "id": "599c9469-3659-4671-91ed-9e99227efd9d",
       "statement": "US election outcome improved the policy trajectory for AI/tech relative to an alternative path.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "tech",
+        "geopolitics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:22.287Z",
       "last_updated": "2026-02-01T23:49:22.287Z",
@@ -3923,7 +5358,12 @@
     {
       "id": "6377cc89-0813-441f-b305-04b450a57670",
       "statement": "EU policy direction risks institutionalizing censorship constraints.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "regulation",
+        "media",
+        "geopolitics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:22.510Z",
       "last_updated": "2026-02-01T23:49:22.510Z",
@@ -3934,7 +5374,11 @@
     {
       "id": "a7729b8a-4bfc-4385-96ed-a36f352634d9",
       "statement": "Tweeting is generally not an advisable activity for him.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "platforms",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:46.931Z",
       "last_updated": "2026-02-01T23:49:46.931Z",
@@ -3945,7 +5389,11 @@
     {
       "id": "5335c87b-74f7-4346-88a5-b4195d0f156e",
       "statement": "Out-of-context tweets are disproportionately dangerous.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "platforms",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:47.305Z",
       "last_updated": "2026-02-01T23:49:47.305Z",
@@ -3956,7 +5404,12 @@
     {
       "id": "4bc0461e-a538-426f-b06d-bc2c139e2279",
       "statement": "Social media is entering/will enter a new reinvigoration phase beyond X.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "platforms",
+        "markets",
+        "tech"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:47.562Z",
       "last_updated": "2026-02-01T23:49:47.562Z",
@@ -3967,7 +5420,11 @@
     {
       "id": "11537946-41ba-4864-8260-6e2f3fe17a65",
       "statement": "Crypto will return strongly (“come right back to life”).",
-      "domain_tags": [],
+      "domain_tags": [
+        "crypto",
+        "markets",
+        "economics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:47.847Z",
       "last_updated": "2026-02-01T23:49:47.847Z",
@@ -3978,7 +5435,12 @@
     {
       "id": "51371f2d-4bfe-49f8-be09-f1f84fa7a587",
       "statement": "AI agents will require an economy to function at scale.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "economics",
+        "markets",
+        "platforms"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:48.002Z",
       "last_updated": "2026-02-01T23:49:48.002Z",
@@ -3989,7 +5451,12 @@
     {
       "id": "6021763f-5ec3-430a-b2d4-48a340e9c73c",
       "statement": "Crypto is the ideal economic system for AI agents.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "crypto",
+        "economics",
+        "markets"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:48.233Z",
       "last_updated": "2026-02-01T23:49:48.233Z",
@@ -4000,7 +5467,11 @@
     {
       "id": "21d5501a-30a1-4b31-a2fb-5c8ed02f3808",
       "statement": "Long-form essays are a higher-productivity use of his effort than tweeting.",
-      "domain_tags": [],
+      "domain_tags": [
+        "media",
+        "culture",
+        "education"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:49:48.501Z",
       "last_updated": "2026-02-01T23:49:48.501Z",
@@ -4011,7 +5482,11 @@
     {
       "id": "c37cfc1c-cc28-4c92-b103-add263956336",
       "statement": "Yann LeCun is exceptionally intelligent and authoritative.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:50:08.578Z",
       "last_updated": "2026-02-01T23:50:08.578Z",
@@ -4022,7 +5497,11 @@
     {
       "id": "d32eb4bf-0f46-43d6-90ef-01994a898f88",
       "statement": "LeCun is the most credible/smart critic of LLMs.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:50:08.819Z",
       "last_updated": "2026-02-01T23:50:08.819Z",
@@ -4033,7 +5512,11 @@
     {
       "id": "8f47d19a-34d8-490c-8dcb-4ae76cecfe18",
       "statement": "LLMs may be a technological dead end (or there are serious arguments that they are).",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "software"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:50:09.045Z",
       "last_updated": "2026-02-01T23:50:09.045Z",
@@ -4044,7 +5527,11 @@
     {
       "id": "822d5701-6bb4-4ed8-be0f-645026dc0038",
       "statement": "Other prominent AI figures (“other two godfathers”) are ideologically extreme and overly pessimistic.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "culture",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:50:09.234Z",
       "last_updated": "2026-02-01T23:50:09.234Z",
@@ -4055,7 +5542,11 @@
     {
       "id": "8ffc9e92-f4f5-41e3-95ce-953e4083f4de",
       "statement": "The AI discourse benefits from having a strong counterbalance to doomer narratives.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "media",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:50:09.473Z",
       "last_updated": "2026-02-01T23:50:09.473Z",
@@ -4066,7 +5557,10 @@
     {
       "id": "f751371f-ec54-4082-a56e-9b1a0abfafa0",
       "statement": "Stopping alcohol improves physical health.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "labor"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:50:24.849Z",
       "last_updated": "2026-02-01T23:50:24.849Z",
@@ -4077,7 +5571,10 @@
     {
       "id": "40a305bf-42b8-48b4-a6cd-312538f27a89",
       "statement": "Some health optimizations can reduce happiness/emotional health.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "labor"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:50:25.082Z",
       "last_updated": "2026-02-01T23:50:25.082Z",
@@ -4088,7 +5585,10 @@
     {
       "id": "a721b784-13b9-42a0-b29a-3a4121dbfbd1",
       "statement": "Sleep hygiene recommendations about natural light and blue screens are not worth following (at least for him).",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "labor"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:50:25.314Z",
       "last_updated": "2026-02-01T23:50:25.314Z",
@@ -4099,7 +5599,10 @@
     {
       "id": "a6b2c58a-ab3d-4a58-b7c0-d343d60f35d9",
       "statement": "Being able to sleep after prolonged blue-screen exposure indicates toughness/masculinity.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "labor"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:50:25.552Z",
       "last_updated": "2026-02-01T23:50:25.552Z",
@@ -4110,7 +5613,11 @@
     {
       "id": "0495357c-6e6d-4860-918f-09285efeeaf1",
       "statement": "Overall health (as judged by Huberman) would be low despite some improvements.",
-      "domain_tags": [],
+      "domain_tags": [
+        "biotech",
+        "culture",
+        "education"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:50:25.811Z",
       "last_updated": "2026-02-01T23:50:25.811Z",
@@ -4121,7 +5628,11 @@
     {
       "id": "376f9830-a08a-4594-a7fe-513dae22346c",
       "statement": "Success is best defined as contribution to others.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "policy",
+        "education"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:50:49.101Z",
       "last_updated": "2026-02-01T23:50:49.101Z",
@@ -4132,7 +5643,11 @@
     {
       "id": "66f0f3f0-7072-4202-ac88-a3e07a943665",
       "statement": "Common notions of happiness are overrated or possibly illusory.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "history",
+        "education"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:50:49.461Z",
       "last_updated": "2026-02-01T23:50:49.461Z",
@@ -4143,7 +5658,11 @@
     {
       "id": "3df4c794-3246-4d6c-b93a-cc011b45f67e",
       "statement": "The 'pursuit of happiness' should be understood as fulfillment/satisfaction, not pleasure.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "policy",
+        "education"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:50:49.626Z",
       "last_updated": "2026-02-01T23:50:49.626Z",
@@ -4154,7 +5673,11 @@
     {
       "id": "2173dbfe-b320-4060-ac78-9e49d65d32b3",
       "statement": "Pleasures lose their ability to satisfy when repeated.",
-      "domain_tags": [],
+      "domain_tags": [
+        "biotech",
+        "culture",
+        "education"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:50:49.842Z",
       "last_updated": "2026-02-01T23:50:49.842Z",
@@ -4165,7 +5688,11 @@
     {
       "id": "5e85bd49-34df-4242-81d5-b3c98e079588",
       "statement": "Many societal/personal problems stem from inability to be alone with oneself.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "education",
+        "labor"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:50:49.990Z",
       "last_updated": "2026-02-01T23:50:49.990Z",
@@ -4176,7 +5703,11 @@
     {
       "id": "f1ec69ac-8bf2-46e0-a0cf-e9526800d9c0",
       "statement": "Self-evaluation against one’s own expectations is a productive state for creation.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "education",
+        "labor"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:50:50.234Z",
       "last_updated": "2026-02-01T23:50:50.234Z",
@@ -4187,7 +5718,11 @@
     {
       "id": "6874a918-bab0-4c0e-8735-9b1f852892c5",
       "statement": "People are more complicated than machines.",
-      "domain_tags": [],
+      "domain_tags": [
+        "ai",
+        "tech",
+        "culture"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:51:17.413Z",
       "last_updated": "2026-02-01T23:51:17.413Z",
@@ -4198,7 +5733,11 @@
     {
       "id": "3e940639-7ecb-4356-8c6d-29316036440b",
       "statement": "The universe is profoundly mysterious (e.g., 100B galaxies; ‘before the Big Bang’).",
-      "domain_tags": [],
+      "domain_tags": [
+        "tech",
+        "history",
+        "education"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:51:17.544Z",
       "last_updated": "2026-02-01T23:51:17.544Z",
@@ -4209,7 +5748,11 @@
     {
       "id": "a21f14b3-858e-41f4-b6d6-10033afad5c4",
       "statement": "Early Protestant Christianity conflicted with an engineer’s sense-making (at least at the time).",
-      "domain_tags": [],
+      "domain_tags": [
+        "history",
+        "culture",
+        "education"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:51:17.839Z",
       "last_updated": "2026-02-01T23:51:17.839Z",
@@ -4220,7 +5763,11 @@
     {
       "id": "82717392-250b-468c-9ae2-a1fbc9eff53c",
       "statement": "Religion plays an important, now better-understood role in society.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "culture",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:51:18.050Z",
       "last_updated": "2026-02-01T23:51:18.050Z",
@@ -4231,7 +5778,11 @@
     {
       "id": "18608abd-beef-480e-b2c4-717a526e655f",
       "statement": "Without ‘real religion,’ people invent fake religions; these tend to go badly.",
-      "domain_tags": [],
+      "domain_tags": [
+        "policy",
+        "culture",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:51:18.274Z",
       "last_updated": "2026-02-01T23:51:18.274Z",
@@ -4242,7 +5793,11 @@
     {
       "id": "921c4ed4-a2c4-4cc6-9601-d6a23bc38611",
       "statement": "Communism and Nazism functioned as political religions.",
-      "domain_tags": [],
+      "domain_tags": [
+        "history",
+        "geopolitics",
+        "policy"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:51:18.610Z",
       "last_updated": "2026-02-01T23:51:18.610Z",
@@ -4253,7 +5808,11 @@
     {
       "id": "feb30af5-1e81-419a-92e1-3234d728feea",
       "statement": "Nietzsche predicted that post-Christian substitute religions would cause mass death.",
-      "domain_tags": [],
+      "domain_tags": [
+        "history",
+        "culture",
+        "geopolitics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:51:18.894Z",
       "last_updated": "2026-02-01T23:51:18.894Z",
@@ -4264,7 +5823,11 @@
     {
       "id": "033a885e-3233-4f34-847f-878d0eed4224",
       "statement": "The last decade has involved a religious frenzy; ‘woke’ is a full-scale religious frenzy.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "policy",
+        "media"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:51:19.364Z",
       "last_updated": "2026-02-01T23:51:19.364Z",
@@ -4275,7 +5838,11 @@
     {
       "id": "4d5dab0b-8584-4738-b19a-85a709a46d75",
       "statement": "‘Woke’ has many features of religion but lacks redemption/forgiveness, making it exceptionally dangerous.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "policy",
+        "media"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:51:19.622Z",
       "last_updated": "2026-02-01T23:51:19.622Z",
@@ -4286,7 +5853,11 @@
     {
       "id": "267d9790-04ac-429d-9c51-efb70dc8f68e",
       "statement": "Identity politics and environmentalism resemble rediscovered Indo-European/archaic religions.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "policy",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:51:19.763Z",
       "last_updated": "2026-02-01T23:51:19.763Z",
@@ -4297,7 +5868,11 @@
     {
       "id": "97335bab-f0b4-4e19-8049-641553f269e8",
       "statement": "There is a deep, persistent religious dimension in human psyche that cannot be dismissed.",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "education",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:51:20.065Z",
       "last_updated": "2026-02-01T23:51:20.065Z",
@@ -4308,7 +5883,11 @@
     {
       "id": "56143693-a3e5-49f5-bec1-5826610260dc",
       "statement": "Intergalactic colonization is desirable/possible ‘in the fullness of time.’",
-      "domain_tags": [],
+      "domain_tags": [
+        "tech",
+        "defense",
+        "geopolitics"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:51:20.185Z",
       "last_updated": "2026-02-01T23:51:20.185Z",
@@ -4319,7 +5898,11 @@
     {
       "id": "ec781f3f-b256-40b3-aa10-9267e65d9af2",
       "statement": "Understanding the human psyche is valuable and admirable work",
-      "domain_tags": [],
+      "domain_tags": [
+        "biotech",
+        "culture",
+        "education"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:51:35.930Z",
       "last_updated": "2026-02-01T23:51:35.930Z",
@@ -4330,7 +5913,11 @@
     {
       "id": "342e5544-733e-4935-bbc2-452ec990161b",
       "statement": "Recognizing one’s ignorance is a marker of knowledge (not its opposite)",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "education",
+        "history"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:51:36.373Z",
       "last_updated": "2026-02-01T23:51:36.373Z",
@@ -4341,7 +5928,11 @@
     {
       "id": "aedf5a18-1ef9-4aa7-9d64-d0b8b7d38f2c",
       "statement": "Conversations can be effectively concluded with a distilled principle rather than extended debate",
-      "domain_tags": [],
+      "domain_tags": [
+        "culture",
+        "media",
+        "education"
+      ],
       "confidence": 0.5,
       "first_stated": "2026-02-01T23:51:36.625Z",
       "last_updated": "2026-02-01T23:51:36.625Z",
